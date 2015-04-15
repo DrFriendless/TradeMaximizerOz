@@ -1,0 +1,4 @@
+(FinalAttack) 001-TWIXT : %DLORDS
+(FinalAttack) 026-BLORE : %DLORDS
+(FinalAttack) 051-CATAN : %DLORDS
+(FinalAttack) %DLORDS: 276-DLORDS 297-RANDY

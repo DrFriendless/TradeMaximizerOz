@@ -1,0 +1,1244 @@
+/usr/lib/jvm/default-jvm/bin/java -Didea.launcher.port=7549 -Didea.launcher.bin.path=/home/john/idea-IU-95.66/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/jdk1.6.0_21/jre/lib/javaws.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/jce.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/plugin.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/alt-rt.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/deploy.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/rt.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/management-agent.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/resources.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/dnsns.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/localedata.jar:/home/john/projects/TradeMaximizer-1.3a/out/production/TradeMaximizer-1.3a:/home/john/idea-IU-95.66/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain TradeMaximizer input6.txt
+TradeMaximizer Version 1.3.Friendless
+Options: SCALED-PRIORITIES ALLOW-DUMMIES REQUIRE-COLONS REQUIRE-USERNAMES GEEKLIST=61984 CODE-DIGITS=3 CODE-LETTERS=5
+
+Retrieving http://boardgamegeek.com/xmlapi/geeklist/61984?comments=1
+User M_o_O is not in the geeklist but has submitted wants.
+
+srand exceeded spending limit by 170
+Phil81 exceeded spending limit by 130
+srand exceeded spending limit by 120
+Phil81 exceeded spending limit by 80
+srand exceeded spending limit by 70
+Damhsa_Roisin exceeded spending limit by 60
+srand exceeded spending limit by 35
+Phil81 exceeded spending limit by 25
+M_o_O exceeded spending limit by 15
+spectre2661 exceeded spending limit by 15
+Damhsa_Roisin exceeded spending limit by 10
+Duke Leto exceeded spending limit by 12
+TRADE LOOPS (446 total trades):
+
+140-ALHAM from some_guy        receives 547-STARC from ausminstrel
+547-STARC from ausminstrel     receives 596-DOMAI from nnf1
+596-DOMAI from nnf1            receives $45 from hxbx
+$45 from hxbx                  receives 402-KLAUS from prd1982
+402-KLAUS from prd1982         receives 048-TIKAL from chengr05
+048-TIKAL from chengr05        receives 379-CONDO from Player_1
+379-CONDO from Player_1        receives 200-ENTCG from the_pirate
+200-ENTCG from the_pirate      receives $15 from dlow
+$15 from dlow                  receives 578-ARMYO from nnf1
+578-ARMYO from nnf1            receives $30 from Aneirin
+$30 from Aneirin               receives 238-DYNAS from sysyphus
+238-DYNAS from sysyphus        receives $35 from Ozludo
+$35 from Ozludo                receives 133-ATTIL from GeminiWeb
+133-ATTIL from GeminiWeb       receives 666-BSGCK from cyberkev63
+666-BSGCK from cyberkev63      receives $65 from ateh
+$65 from ateh                  receives 469-CCANC from johnclark
+469-CCANC from johnclark       receives 562-HAMBU from djlg
+562-HAMBU from djlg            receives $55 from anomander64
+$55 from anomander64           receives 494-CLEOP from Tyndal
+494-CLEOP from Tyndal          receives 124-YINSH from dlow
+124-YINSH from dlow            receives 144-RICOC from some_guy
+144-RICOC from some_guy        receives 201-GALAC from the_pirate
+201-GALAC from the_pirate      receives $40 from Kinosness
+$40 from Kinosness             receives 057-KALIM from Friendless
+057-KALIM from Friendless      receives 657-PANGE from shawn_low
+657-PANGE from shawn_low       receives 511-NDUNG from Phil81
+511-NDUNG from Phil81          receives 492-REEFE from Tyndal
+492-REEFE from Tyndal          receives $35 from Tezza
+$35 from Tezza                 receives 392-MODER from regor
+392-MODER from regor           receives $40 from damnyouhussies
+$40 from damnyouhussies        receives 631-PONYE from pusboyau
+631-PONYE from pusboyau        receives 451-FITSY from shawn_low
+451-FITSY from shawn_low       receives 038-THUND from Dr Corey
+038-THUND from Dr Corey        receives 316-ADVEN from damnyouhussies
+316-ADVEN from damnyouhussies  receives 294-ONIRI from tiggers
+294-ONIRI from tiggers         receives 047-CHAOS from chengr05
+047-CHAOS from chengr05        receives 119-SILEN from GeneSteeler
+119-SILEN from GeneSteeler     receives 108-STORM from da pyrate
+108-STORM from da pyrate       receives 179-MUSKE from spectre2661
+179-MUSKE from spectre2661     receives 195-SILKR from Hida Mann
+195-SILKR from Hida Mann       receives 500-SAMUR from Tyndal
+500-SAMUR from Tyndal          receives $30 from Phil81
+$30 from Phil81                receives 639-DUNGQ from Duke Leto
+639-DUNGQ from Duke Leto       receives 505-STARS from Tyndal
+505-STARS from Tyndal          receives 215-ICEFL from Lucky Phil
+215-ICEFL from Lucky Phil      receives 087-QUEBE from wilderness
+087-QUEBE from wilderness      receives 063-SANTI from Critical Mass
+063-SANTI from Critical Mass   receives 244-REDPL from batcut
+244-REDPL from batcut          receives 228-ROMMY from petegs
+228-ROMMY from petegs          receives 628-GREAT from JoeMcLaughlin
+628-GREAT from JoeMcLaughlin   receives 017-BARBA from petegs
+017-BARBA from petegs          receives 099-TIGER from da pyrate
+099-TIGER from da pyrate       receives 397-TOWER from Tezza
+397-TOWER from Tezza           receives 043-RUNEW from Dr Corey
+043-RUNEW from Dr Corey        receives $100 from Kinosness
+$100 from Kinosness            receives 463-RUNEB from Dr Corey
+463-RUNEB from Dr Corey        receives 112-STONE from hoostus
+112-STONE from hoostus         receives 110-VCTRY from da pyrate
+110-VCTRY from da pyrate       receives 601-DUNGM from nnf1
+601-DUNGM from nnf1            receives $35 from srand
+$35 from srand                 receives 482-REEFE from anomander64
+482-REEFE from anomander64     receives 198-ARKAD from the_pirate
+198-ARKAD from the_pirate      receives $35 from spectre2661
+$35 from spectre2661           receives 008-CUUBA from revgiblet
+008-CUUBA from revgiblet       receives 246-BLUEM from batcut
+246-BLUEM from batcut          receives $40 from Ykikamucow
+$40 from Ykikamucow            receives 055-PERRY from fateswanderer
+055-PERRY from fateswanderer   receives 523-FAIRY from fFish
+523-FAIRY from fFish           receives 517-POCKE from Phil81
+517-POCKE from Phil81          receives $25 from shawn_low
+$25 from shawn_low             receives 130-DIPLO from Oiler
+130-DIPLO from Oiler           receives 356-TRIAS from batcut
+356-TRIAS from batcut          receives $30 from Kinosness
+$30 from Kinosness             receives 040-ROBOR from Dr Corey
+040-ROBOR from Dr Corey        receives 330-TALI4 from Ykikamucow
+330-TALI4 from Ykikamucow      receives 146-WOWBG from some_guy
+146-WOWBG from some_guy        receives 290-REDPL from tiggers
+290-REDPL from tiggers         receives 420-SLIDA from shawn_low
+420-SLIDA from shawn_low       receives 314-LEDA1 from MrBaggy
+314-LEDA1 from MrBaggy         receives 065-PGRID from Critical Mass
+065-PGRID from Critical Mass   receives 165-PILAZ from chengr05
+165-PILAZ from chengr05        receives 061-WOFTR from ChrisPayne
+061-WOFTR from ChrisPayne      receives 606-GREAT from nnf1
+606-GREAT from nnf1            receives $60 from anomander64
+$60 from anomander64           receives 178-DLORD from Duke Leto
+178-DLORD from Duke Leto       receives $25 from Player_1
+$25 from Player_1              receives 668-BLUEM from Lucky Phil
+668-BLUEM from Lucky Phil      receives 615-AMAZE from nnf1
+615-AMAZE from nnf1            receives $35 from srand
+$35 from srand                 receives 187-CUUBA from Hida Mann
+187-CUUBA from Hida Mann       receives 170-BLACK from Duke Leto
+170-BLACK from Duke Leto       receives $20 from srand
+$20 from srand                 receives 592-LASTR from djlg
+592-LASTR from djlg            receives 466-AOSJP from gmcnish
+466-AOSJP from gmcnish         receives $25 from Phil81
+$25 from Phil81                receives 122-MARVE from GeneSteeler
+122-MARVE from GeneSteeler     receives 018-CAUCA from petegs
+018-CAUCA from petegs          receives 113-ROMUL from prd1982
+113-ROMUL from prd1982         receives 248-TIDEI from ateh
+248-TIDEI from ateh            receives 501-BATTL from Tyndal
+501-BATTL from Tyndal          receives 270-MEM44 from Duke Leto
+270-MEM44 from Duke Leto       receives $50 from MrBaggy
+$50 from MrBaggy               receives 624-DUELI from ausminstrel
+624-DUELI from ausminstrel     receives 616-WORLD from nnf1
+616-WORLD from nnf1            receives $55 from anomander64
+$55 from anomander64           receives 180-ADVEN from Duke Leto
+180-ADVEN from Duke Leto       receives $70 from Hida Mann
+$70 from Hida Mann             receives 474-TYCOO from johnclark
+474-TYCOO from johnclark       receives 276-HAMBU from Scholle
+276-HAMBU from Scholle         receives 100-CCEUR from da pyrate
+100-CCEUR from da pyrate       receives 286-CONFL from tiggers
+286-CONFL from tiggers         receives 236-GOANA from sysyphus
+236-GOANA from sysyphus        receives 395-ALIEN from Tezza
+395-ALIEN from Tezza           receives 643-TWILI from Duke Leto
+643-TWILI from Duke Leto       receives 249-SEREN from snog
+249-SEREN from snog            receives 421-ROMMY from shawn_low
+421-ROMMY from shawn_low       receives 256-CLASH from snog
+256-CLASH from snog            receives 564-BBLUE from djlg
+564-BBLUE from djlg            receives $45 from Tezza
+$45 from Tezza                 receives 533-LOYAN from ausminstrel
+533-LOYAN from ausminstrel     receives 399-FORMD from FinalAttack
+399-FORMD from FinalAttack     receives 542-MIDDL from ausminstrel
+542-MIDDL from ausminstrel     receives 060-PANZA from ChrisPayne
+060-PANZA from ChrisPayne      receives 491-PRESI from Tyndal
+491-PRESI from Tyndal          receives 014-ARKHA from Thiessi
+014-ARKHA from Thiessi         receives 406-GHOST from gmcnish
+406-GHOST from gmcnish         receives 667-DAYAN from cyberkev63
+667-DAYAN from cyberkev63      receives $65 from Lucky Phil
+$65 from Lucky Phil            receives 557-QUEBE from djlg
+557-QUEBE from djlg            receives $90 from Kinosness
+$90 from Kinosness             receives 037-DUNEY from Dr Corey
+037-DUNEY from Dr Corey        receives 303-BSGSG from some_guy
+303-BSGSG from some_guy        receives 271-SHOGU from MrBaggy
+271-SHOGU from MrBaggy         receives 519-ADAST from fFish
+519-ADAST from fFish           receives 338-CHINA from Neil Thomson
+338-CHINA from Neil Thomson    receives 432-PROPH from Kinosness
+432-PROPH from Kinosness       receives 312-CIRCU from Dr Corey
+312-CIRCU from Dr Corey        receives 176-ALERT from Duke Leto
+176-ALERT from Duke Leto       receives $25 from Moose_Head
+$25 from Moose_Head            receives 357-THURN from batcut
+357-THURN from batcut          receives $30 from fFish
+$30 from fFish                 receives 612-PIRAT from nnf1
+612-PIRAT from nnf1            receives 311-APPLZ from Paul65
+311-APPLZ from Paul65          receives 319-INCAN from grosse_au
+319-INCAN from grosse_au       receives 239-LOTRC from sysyphus
+239-LOTRC from sysyphus        receives $30 from hxbx
+$30 from hxbx                  receives 522-LORDO from fFish
+522-LORDO from fFish           receives 086-WINDS from wilderness
+086-WINDS from wilderness      receives 324-MOTAB from Neil Thomson
+324-MOTAB from Neil Thomson    receives 345-LOSBA from Mark_Owen_Reich
+345-LOSBA from Mark_Owen_Reich receives $25 from ausminstrel
+$25 from ausminstrel           receives 192-DIPLO from Hida Mann
+192-DIPLO from Hida Mann       receives 509-LIFEE from Phil81
+509-LIFEE from Phil81          receives 096-LANGF from wilderness
+096-LANGF from wilderness      receives 105-MONTE from da pyrate
+105-MONTE from da pyrate       receives 595-EDELS from djlg
+595-EDELS from djlg            receives $30 from Lucky Phil
+$30 from Lucky Phil            receives 227-TEMPU from prd1982
+227-TEMPU from prd1982         receives 537-CADWA from ausminstrel
+537-CADWA from ausminstrel     receives 091-EKETO from wilderness
+091-EKETO from wilderness      receives 572-CHICA from PBrennan
+572-CHICA from PBrennan        receives 629-ASCEN from Damhsa_Roisin
+629-ASCEN from Damhsa_Roisin   receives 518-ENDEA from fFish
+518-ENDEA from fFish           receives 527-ASCEN from freelunch
+527-ASCEN from freelunch       receives 295-DRAGO from tiggers
+295-DRAGO from tiggers         receives 237-MOTAB from sysyphus
+237-MOTAB from sysyphus        receives $35 from Phil81
+$35 from Phil81                receives 272-ATTIK from sysyphus
+272-ATTIK from sysyphus        receives 141-CAYLU from some_guy
+141-CAYLU from some_guy        receives 620-KELLA from mr_lunch
+620-KELLA from mr_lunch        receives 111-LOSTC from hoostus
+111-LOSTC from hoostus         receives 128-CLOSE from wilderness
+128-CLOSE from wilderness      receives 125-BLUEV from dlow
+125-BLUEV from dlow            receives $30 from Aneirin
+$30 from Aneirin               receives 196-BLCUP from Mikey
+196-BLCUP from Mikey           receives $40 from srand
+$40 from srand                 receives 318-SPETE from damnyouhussies
+318-SPETE from damnyouhussies  receives 216-BLUEM from Lucky Phil
+216-BLUEM from Lucky Phil      receives 636-PRIMO from Friendless
+636-PRIMO from Friendless      receives 167-FUNNY from Duke Leto
+167-FUNNY from Duke Leto       receives $25 from Hida Mann
+$25 from Hida Mann             receives 232-TRIAS from Mikey
+232-TRIAS from Mikey           receives 504-WILDL from Tyndal
+504-WILDL from Tyndal          receives $40 from ateh
+$40 from ateh                  receives 400-PUERT from MrBaggy
+400-PUERT from MrBaggy         receives 343-HAVAN from Mark_Owen_Reich
+343-HAVAN from Mark_Owen_Reich receives $60 from anomander64
+$60 from anomander64           receives 649-STREE from djlg
+649-STREE from djlg            receives $30 from Lucky Phil
+$30 from Lucky Phil            receives 106-NUMBA from da pyrate
+106-NUMBA from da pyrate       receives 600-DUNGT from nnf1
+600-DUNGT from nnf1            receives $35 from Friendless
+$35 from Friendless            receives 098-ZOOLO from da pyrate
+098-ZOOLO from da pyrate       receives 625-FREYA from ausminstrel
+625-FREYA from ausminstrel     receives 327-FLORE from Ykikamucow
+327-FLORE from Ykikamucow      receives 503-LEONA from Tyndal
+503-LEONA from Tyndal          receives $30 from Ozludo
+$30 from Ozludo                receives 530-SEVEN from ausminstrel
+530-SEVEN from ausminstrel     receives 024-VCTRY from petegs
+024-VCTRY from petegs          receives 134-DARKE from GeminiWeb
+134-DARKE from GeminiWeb       receives $50 from Phil81
+$50 from Phil81                receives 488-LOWEN from otaku
+488-LOWEN from otaku           receives 069-FORBI from Critical Mass
+069-FORBI from Critical Mass   receives 499-4SALE from Tyndal
+499-4SALE from Tyndal          receives 193-TBGGG from Hida Mann
+193-TBGGG from Hida Mann       receives 549-TEMPU from ausminstrel
+549-TEMPU from ausminstrel     receives 259-LLENA from ianwright
+259-LLENA from ianwright       receives 508-FLICO from Phil81
+508-FLICO from Phil81          receives 467-SPIEL from gmcnish
+467-SPIEL from gmcnish         receives $10 from Player_1
+$10 from Player_1              receives 182-EXPAN from Hida Mann
+182-EXPAN from Hida Mann       receives $10 from sbszine
+$10 from sbszine               receives 184-EXPAN from Hida Mann
+184-EXPAN from Hida Mann       receives $10 from mr_lunch
+$10 from mr_lunch              receives 516-SWCUR from Phil81
+516-SWCUR from Phil81          receives $15 from mr_lunch
+$15 from mr_lunch              receives 541-HEROS from ausminstrel
+541-HEROS from ausminstrel     receives 253-OLTRE from snog
+253-OLTRE from snog            receives 298-MAHAR from tiggers
+298-MAHAR from tiggers         receives 405-SYLLA from wilderness
+405-SYLLA from wilderness      receives 359-ALERT from batcut
+359-ALERT from batcut          receives $60 from hxbx
+$60 from hxbx                  receives 305-MAGNU from Paul65
+305-MAGNU from Paul65          receives 377-SPETE from Player_1
+377-SPETE from Player_1        receives 364-ENTBG from Thiessi
+364-ENTBG from Thiessi         receives 168-DOMIN from Duke Leto
+168-DOMIN from Duke Leto       receives 070-NEXUS from ChrisPayne
+070-NEXUS from ChrisPayne      receives 094-MIRON from wilderness
+094-MIRON from wilderness      receives 229-4PEPL from petegs
+229-4PEPL from petegs          receives 659-AGONY from shawn_low
+659-AGONY from shawn_low       receives 302-SMALL from Paul65
+302-SMALL from Paul65          receives 221-FRESC from chengr05
+221-FRESC from chengr05        receives 374-SEREN from Ozludo
+374-SEREN from Ozludo          receives 157-PORTO from earthboot
+157-PORTO from earthboot       receives 362-CONFR from Thiessi
+362-CONFR from Thiessi         receives 123-GUMBA from GeneSteeler
+123-GUMBA from GeneSteeler     receives 059-BISMK from ChrisPayne
+059-BISMK from ChrisPayne      receives 571-MYSTE from djlg
+571-MYSTE from djlg            receives $50 from Friendless
+$50 from Friendless            receives 131-MARKL from Mikey
+131-MARKL from Mikey           receives 029-CHAOS from srand
+029-CHAOS from srand           receives 502-GENOA from Tyndal
+502-GENOA from Tyndal          receives 213-NUNSS from Nights
+213-NUNSS from Nights          receives 044-DICET from Phil81
+044-DICET from Phil81          receives 366-ROBOT from Ozludo
+366-ROBOT from Ozludo          receives $30 from Phil81
+$30 from Phil81                receives 386-HACIE from regor
+386-HACIE from regor           receives $50 from Kinosness
+$50 from Kinosness             receives 413-SHERL from Hida Mann
+413-SHERL from Hida Mann       receives 623-BUSHI from ausminstrel
+623-BUSHI from ausminstrel     receives 258-HEROS from FinalAttack
+258-HEROS from FinalAttack     receives 381-SHUNT from Player_1
+381-SHUNT from Player_1        receives 531-ADAST from ausminstrel
+531-ADAST from ausminstrel     receives 001-CONFL from Friendless
+001-CONFL from Friendless      receives 118-PRUSS from petegs
+118-PRUSS from petegs          receives 257-PANDE from spectre2661
+257-PANDE from spectre2661     receives 335-OASIS from Neil Thomson
+335-OASIS from Neil Thomson    receives 586-TREEF from PBrennan
+586-TREEF from PBrennan        receives 132-TYPHO from wilderness
+132-TYPHO from wilderness      receives 483-LIFEB from anomander64
+483-LIFEB from anomander64     receives 084-CAMEL from wilderness
+084-CAMEL from wilderness      receives 088-LONDO from aaronseeber
+088-LONDO from aaronseeber     receives 437-VOLLD from shawn_low
+437-VOLLD from shawn_low       receives 121-LONDO from GeneSteeler
+121-LONDO from GeneSteeler     receives 097-EISEN from wilderness
+097-EISEN from wilderness      receives 480-ASLSK from vanadamme
+480-ASLSK from vanadamme       receives 410-GHEOS from gmcnish
+410-GHEOS from gmcnish         receives 240-CLOD9 from sysyphus
+240-CLOD9 from sysyphus        receives 412-KAHUN from gmcnish
+412-KAHUN from gmcnish         receives $20 from srand
+$20 from srand                 receives 369-DEADL from Hida Mann
+369-DEADL from Hida Mann       receives 284-CARCA from Mariana
+284-CARCA from Mariana         receives 331-SHADO from Neil Thomson
+331-SHADO from Neil Thomson    receives 346-BUYWO from Mark_Owen_Reich
+346-BUYWO from Mark_Owen_Reich receives $30 from srand
+$30 from srand                 receives 250-LOUIS from ateh
+250-LOUIS from ateh            receives 384-FUNNY from regor
+384-FUNNY from regor           receives 473-RUMMY from johnclark
+473-RUMMY from johnclark       receives 251-ANGEL from ateh
+251-ANGEL from ateh            receives 387-DARJE from regor
+387-DARJE from regor           receives $40 from srand
+$40 from srand                 receives 650-CASTL from hxbx
+650-CASTL from hxbx            receives $40 from srand
+$40 from srand                 receives 611-SANMA from djlg
+611-SANMA from djlg            receives $50 from M_o_O
+$50 from M_o_O                 receives 403-CAPEH from prd1982
+403-CAPEH from prd1982         receives 267-ACQUI from cyberkev63
+267-ACQUI from cyberkev63      receives $100 from Kinosness
+$100 from Kinosness            receives 642-CIVIL from Duke Leto
+642-CIVIL from Duke Leto       receives $90 from Dr Corey
+$90 from Dr Corey              receives 072-ROTHX from Friendless
+072-ROTHX from Friendless      receives 393-OLTRE from regor
+393-OLTRE from regor           receives $55 from Critical Mass
+$55 from Critical Mass         receives 651-PCOVE from shawn_low
+651-PCOVE from shawn_low       receives 277-NEULA from Scholle
+277-NEULA from Scholle         receives 546-SHOGU from ausminstrel
+546-SHOGU from ausminstrel     receives 430-FIRST from shawn_low
+430-FIRST from shawn_low       receives 334-ATILA from Neil Thomson
+334-ATILA from Neil Thomson    receives 610-DUCKG from nnf1
+610-DUCKG from nnf1            receives $20 from spectre2661
+$20 from spectre2661           receives 080-STRAD from Friendless
+080-STRAD from Friendless      receives $20 from srand
+$20 from srand                 receives 590-TRIAS from PBrennan
+590-TRIAS from PBrennan        receives 064-VANIS from Critical Mass
+064-VANIS from Critical Mass   receives 280-INKOG from Scholle
+280-INKOG from Scholle         receives 532-ALADD from ausminstrel
+532-ALADD from ausminstrel     receives 153-COSMI from some_guy
+153-COSMI from some_guy        receives 172-BEOWU from Duke Leto
+172-BEOWU from Duke Leto       receives $10 from tiggers
+$10 from tiggers               receives 641-UNOXM from Duke Leto
+641-UNOXM from Duke Leto       receives $20 from damnyouhussies
+$20 from damnyouhussies        receives 367-BACK2 from Hida Mann
+367-BACK2 from Hida Mann       receives 418-ARCAN from srand
+418-ARCAN from srand           receives 465-PLUND from gmcnish
+465-PLUND from gmcnish         receives 591-KIDSR from nnf1
+591-KIDSR from nnf1            receives $20 from Damhsa_Roisin
+$20 from Damhsa_Roisin         receives 622-TICKE from ausminstrel
+622-TICKE from ausminstrel     receives 320-ODINS from Aneirin
+320-ODINS from Aneirin         receives 045-PHOEN from Phil81
+045-PHOEN from Phil81          receives $20 from Aneirin
+$20 from Aneirin               receives 073-KEESD from Friendless
+073-KEESD from Friendless      receives $20 from Phil81
+$20 from Phil81                receives 235-ATONX from GeneSteeler
+235-ATONX from GeneSteeler     receives 197-HEROC from Oiler
+197-HEROC from Oiler           receives 092-ALEXA from wilderness
+092-ALEXA from wilderness      receives 440-PGFAC from shawn_low
+440-PGFAC from shawn_low       receives 566-AFRIC from djlg
+566-AFRIC from djlg            receives $40 from Friendless
+$40 from Friendless            receives 484-ELRIC from Kinosness
+484-ELRIC from Kinosness       receives 301-CATAN from Paul65
+301-CATAN from Paul65          receives 597-VASCO from PBrennan
+597-VASCO from PBrennan        receives 555-AGEOF from djlg
+555-AGEOF from djlg            receives $70 from hxbx
+$70 from hxbx                  receives 553-WORLD from snog
+553-WORLD from snog            receives 416-HAVRE from 40thann
+416-HAVRE from 40thann         receives 556-EASTF from djlg
+556-EASTF from djlg            receives $70 from prd1982
+$70 from prd1982               receives 401-WARLO from MrBaggy
+401-WARLO from MrBaggy         receives 443-AGRIC from shawn_low
+443-AGRIC from shawn_low       receives 634-HEREI from JoeMcLaughlin
+634-HEREI from JoeMcLaughlin   receives 137-EMPIA from GeminiWeb
+137-EMPIA from GeminiWeb       receives 264-IROND from sbszine
+264-IROND from sbszine         receives 282-PITCH from Scholle
+282-PITCH from Scholle         receives 510-WILDL from Phil81
+510-WILDL from Phil81          receives 378-MAHAL from Player_1
+378-MAHAL from Player_1        receives 360-WASAB from batcut
+360-WASAB from batcut          receives $40 from Damhsa_Roisin
+$40 from Damhsa_Roisin         receives 363-KELTI from Thiessi
+363-KELTI from Thiessi         receives 350-PICKP from Mark_Owen_Reich
+350-PICKP from Mark_Owen_Reich receives $20 from damnyouhussies
+$20 from damnyouhussies        receives 598-DUNGT from nnf1
+598-DUNGT from nnf1            receives $35 from cyberkev63
+$35 from cyberkev63            receives 419-GROOG from Hida Mann
+419-GROOG from Hida Mann       receives 456-SEVEN from hxbx
+456-SEVEN from hxbx            receives 538-CHICA from ausminstrel
+538-CHICA from ausminstrel     receives 299-YSNIK from tiggers
+299-YSNIK from tiggers         receives 554-DVONN from djlg
+554-DVONN from djlg            receives 107-RDICE from da pyrate
+107-RDICE from da pyrate       receives 339-HTMFD from GeneSteeler
+339-HTMFD from GeneSteeler     receives 076-BEANS from Friendless
+076-BEANS from Friendless      receives $40 from Lucky Phil
+$40 from Lucky Phil            receives 218-FINCA from chengr05
+218-FINCA from chengr05        receives 568-WINGS from djlg
+568-WINGS from djlg            receives $45 from Mariana
+$45 from Mariana               receives 664-MEDIM from cyberkev63
+664-MEDIM from cyberkev63      receives $45 from MrBaggy
+$45 from MrBaggy               receives 391-CASHN from regor
+391-CASHN from regor           receives 458-MYKER from hxbx
+458-MYKER from hxbx            receives 093-WOWFA from wilderness
+093-WOWFA from wilderness      receives 056-CITAD from fateswanderer
+056-CITAD from fateswanderer   receives 561-PIZAR from djlg
+561-PIZAR from djlg            receives $30 from Mikey
+$30 from Mikey                 receives 039-DARJE from Phil81
+039-DARJE from Phil81          receives 407-DELTA from gmcnish
+407-DELTA from gmcnish         receives 015-BUZZY from Amnese
+015-BUZZY from Amnese          receives 140-ALHAM from some_guy
+
+142-CARDS from some_guy        receives 569-TORRE from djlg
+569-TORRE from djlg            receives $35 from Ozludo
+$35 from Ozludo                receives 291-HOITY from tiggers
+291-HOITY from tiggers         receives 670-RARAR from prd1982
+670-RARAR from prd1982         receives $30 from mr_lunch
+$30 from mr_lunch              receives 313-CLIPZ from MrBaggy
+313-CLIPZ from MrBaggy         receives 026-RATTY from srand
+026-RATTY from srand           receives 552-COSMI from mr_lunch
+552-COSMI from mr_lunch        receives 656-STRAD from hxbx
+656-STRAD from hxbx            receives 361-DURCH from Thiessi
+361-DURCH from Thiessi         receives 329-TWIST from Neil Thomson
+329-TWIST from Neil Thomson    receives 317-ARCAN from damnyouhussies
+317-ARCAN from damnyouhussies  receives 053-TRIAS from fateswanderer
+053-TRIAS from fateswanderer   receives 243-NEXUS from batcut
+243-NEXUS from batcut          receives $30 from Hida Mann
+$30 from Hida Mann             receives 135-THORH from GeminiWeb
+135-THORH from GeminiWeb       receives 341-INTRI from Mark_Owen_Reich
+341-INTRI from Mark_Owen_Reich receives 027-LEMMY from Thiessi
+027-LEMMY from Thiessi         receives 593-WAROF from PBrennan
+593-WAROF from PBrennan        receives 010-ANDRO from revgiblet
+010-ANDRO from revgiblet       receives 332-RUNEB from Ykikamucow
+332-RUNEB from Ykikamucow      receives 528-HEROE from freelunch
+528-HEROE from freelunch       receives 576-DRACU from PBrennan
+576-DRACU from PBrennan        receives 512-SUMMO from Phil81
+512-SUMMO from Phil81          receives 654-BABEL from hxbx
+654-BABEL from hxbx            receives 148-MONST from some_guy
+148-MONST from some_guy        receives 429-ENTBG from Kinosness
+429-ENTBG from Kinosness       receives 652-WIZWA from shawn_low
+652-WIZWA from shawn_low       receives 054-WESTE from petegs
+054-WESTE from petegs          receives 117-INCUR from chengr05
+117-INCUR from chengr05        receives 214-NEHEX from Lucky Phil
+214-NEHEX from Lucky Phil      receives 526-DUNGE from freelunch
+526-DUNGE from freelunch       receives 626-KEYTH from ausminstrel
+626-KEYTH from ausminstrel     receives 479-PANIC from vanadamme
+479-PANIC from vanadamme       receives 426-WARRI from Kinosness
+426-WARRI from Kinosness       receives 394-DOOMZ from petegs
+394-DOOMZ from petegs          receives 422-TALI2 from shawn_low
+422-TALI2 from shawn_low       receives 358-IACTA from batcut
+358-IACTA from batcut          receives $35 from tiggers
+$35 from tiggers               receives 521-KINGS from fFish
+521-KINGS from fFish           receives 004-ALIEN from anomander64
+004-ALIEN from anomander64     receives $60 from JoeMcLaughlin
+$60 from JoeMcLaughlin         receives 550-FINES from ausminstrel
+550-FINES from ausminstrel     receives 046-ASLSK from Phil81
+046-ASLSK from Phil81          receives 079-CARCD from Friendless
+079-CARCD from Friendless      receives 328-RENOW from Neil Thomson
+328-RENOW from Neil Thomson    receives 042-BEOWU from Phil81
+042-BEOWU from Phil81          receives 315-BSACK from earthboot
+315-BSACK from earthboot       receives 171-CUTTH from spectre2661
+171-CUTTH from spectre2661     receives 028-SAHUL from srand
+028-SAHUL from srand           receives 617-BAKER from mr_lunch
+617-BAKER from mr_lunch        receives $10 from cyberkev63
+$10 from cyberkev63            receives 285-4SALE from Mariana
+285-4SALE from Mariana         receives 607-EINFA from nnf1
+607-EINFA from nnf1            receives $25 from fFish
+$25 from fFish                 receives 608-ZOFFI from nnf1
+608-ZOFFI from nnf1            receives 104-ORDER from da pyrate
+104-ORDER from da pyrate       receives 142-CARDS from some_guy
+
+186-DUNEX from Hida Mann       receives $17 from Duke Leto
+$17 from Duke Leto             receives 186-DUNEX from Hida Mann
+
+$25 from spectre2661           receives 071-PROPH from Friendless
+071-PROPH from Friendless      receives $20 from srand
+$20 from srand                 receives 648-CAPEH from djlg
+648-CAPEH from djlg            receives $25 from spectre2661
+
+050-SEASI from Friendless      receives $50 from hxbx
+$50 from hxbx                  receives 255-CONTR from snog
+255-CONTR from snog            receives 427-CIVIL from shawn_low
+427-CIVIL from shawn_low       receives 050-SEASI from Friendless
+
+085-TOLED from wilderness      receives 348-ARKAD from Mark_Owen_Reich
+348-ARKAD from Mark_Owen_Reich receives 085-TOLED from wilderness
+
+ITEM SUMMARY (446 total trades):
+
+$10 from Player_1              receives 182-EXPAN from Hida Mann       and sends to 467-SPIEL from gmcnish
+$10 from cyberkev63            receives 285-4SALE from Mariana         and sends to 617-BAKER from mr_lunch
+$10 from mr_lunch              receives 516-SWCUR from Phil81          and sends to 184-EXPAN from Hida Mann
+$10 from sbszine               receives 184-EXPAN from Hida Mann       and sends to 182-EXPAN from Hida Mann
+$10 from tiggers               receives 641-UNOXM from Duke Leto       and sends to 172-BEOWU from Duke Leto
+$100 from Kinosness            receives 463-RUNEB from Dr Corey        and sends to 043-RUNEW from Dr Corey
+$100 from Kinosness            receives 642-CIVIL from Duke Leto       and sends to 267-ACQUI from cyberkev63
+$15 from dlow                  receives 578-ARMYO from nnf1            and sends to 200-ENTCG from the_pirate
+$15 from mr_lunch              receives 541-HEROS from ausminstrel     and sends to 516-SWCUR from Phil81
+$17 from Duke Leto             receives 186-DUNEX from Hida Mann       and sends to 186-DUNEX from Hida Mann
+$20 from Aneirin               receives 073-KEESD from Friendless      and sends to 045-PHOEN from Phil81
+$20 from Damhsa_Roisin         receives 622-TICKE from ausminstrel     and sends to 591-KIDSR from nnf1
+$20 from Phil81                receives 235-ATONX from GeneSteeler     and sends to 073-KEESD from Friendless
+$20 from damnyouhussies        receives 367-BACK2 from Hida Mann       and sends to 641-UNOXM from Duke Leto
+$20 from damnyouhussies        receives 598-DUNGT from nnf1            and sends to 350-PICKP from Mark_Owen_Reich
+$20 from spectre2661           receives 080-STRAD from Friendless      and sends to 610-DUCKG from nnf1
+$20 from srand                 receives 369-DEADL from Hida Mann       and sends to 412-KAHUN from gmcnish
+$20 from srand                 receives 590-TRIAS from PBrennan        and sends to 080-STRAD from Friendless
+$20 from srand                 receives 592-LASTR from djlg            and sends to 170-BLACK from Duke Leto
+$20 from srand                 receives 648-CAPEH from djlg            and sends to 071-PROPH from Friendless
+$25 from Hida Mann             receives 232-TRIAS from Mikey           and sends to 167-FUNNY from Duke Leto
+$25 from Moose_Head            receives 357-THURN from batcut          and sends to 176-ALERT from Duke Leto
+$25 from Phil81                receives 122-MARVE from GeneSteeler     and sends to 466-AOSJP from gmcnish
+$25 from Player_1              receives 668-BLUEM from Lucky Phil      and sends to 178-DLORD from Duke Leto
+$25 from ausminstrel           receives 192-DIPLO from Hida Mann       and sends to 345-LOSBA from Mark_Owen_Reich
+$25 from fFish                 receives 608-ZOFFI from nnf1            and sends to 607-EINFA from nnf1
+$25 from shawn_low             receives 130-DIPLO from Oiler           and sends to 517-POCKE from Phil81
+$25 from spectre2661           receives 071-PROPH from Friendless      and sends to 648-CAPEH from djlg
+$30 from Aneirin               receives 196-BLCUP from Mikey           and sends to 125-BLUEV from dlow
+$30 from Aneirin               receives 238-DYNAS from sysyphus        and sends to 578-ARMYO from nnf1
+$30 from Hida Mann             receives 135-THORH from GeminiWeb       and sends to 243-NEXUS from batcut
+$30 from Kinosness             receives 040-ROBOR from Dr Corey        and sends to 356-TRIAS from batcut
+$30 from Lucky Phil            receives 106-NUMBA from da pyrate       and sends to 649-STREE from djlg
+$30 from Lucky Phil            receives 227-TEMPU from prd1982         and sends to 595-EDELS from djlg
+$30 from Mikey                 receives 039-DARJE from Phil81          and sends to 561-PIZAR from djlg
+$30 from Ozludo                receives 530-SEVEN from ausminstrel     and sends to 503-LEONA from Tyndal
+$30 from Phil81                receives 386-HACIE from regor           and sends to 366-ROBOT from Ozludo
+$30 from Phil81                receives 639-DUNGQ from Duke Leto       and sends to 500-SAMUR from Tyndal
+$30 from fFish                 receives 612-PIRAT from nnf1            and sends to 357-THURN from batcut
+$30 from hxbx                  receives 522-LORDO from fFish           and sends to 239-LOTRC from sysyphus
+$30 from mr_lunch              receives 313-CLIPZ from MrBaggy         and sends to 670-RARAR from prd1982
+$30 from srand                 receives 250-LOUIS from ateh            and sends to 346-BUYWO from Mark_Owen_Reich
+$35 from Friendless            receives 098-ZOOLO from da pyrate       and sends to 600-DUNGT from nnf1
+$35 from Ozludo                receives 133-ATTIL from GeminiWeb       and sends to 238-DYNAS from sysyphus
+$35 from Ozludo                receives 291-HOITY from tiggers         and sends to 569-TORRE from djlg
+$35 from Phil81                receives 272-ATTIK from sysyphus        and sends to 237-MOTAB from sysyphus
+$35 from Tezza                 receives 392-MODER from regor           and sends to 492-REEFE from Tyndal
+$35 from cyberkev63            receives 419-GROOG from Hida Mann       and sends to 598-DUNGT from nnf1
+$35 from spectre2661           receives 008-CUUBA from revgiblet       and sends to 198-ARKAD from the_pirate
+$35 from srand                 receives 187-CUUBA from Hida Mann       and sends to 615-AMAZE from nnf1
+$35 from srand                 receives 482-REEFE from anomander64     and sends to 601-DUNGM from nnf1
+$35 from tiggers               receives 521-KINGS from fFish           and sends to 358-IACTA from batcut
+$40 from Damhsa_Roisin         receives 363-KELTI from Thiessi         and sends to 360-WASAB from batcut
+$40 from Friendless            receives 484-ELRIC from Kinosness       and sends to 566-AFRIC from djlg
+$40 from Kinosness             receives 057-KALIM from Friendless      and sends to 201-GALAC from the_pirate
+$40 from Lucky Phil            receives 218-FINCA from chengr05        and sends to 076-BEANS from Friendless
+$40 from Ykikamucow            receives 055-PERRY from fateswanderer   and sends to 246-BLUEM from batcut
+$40 from ateh                  receives 400-PUERT from MrBaggy         and sends to 504-WILDL from Tyndal
+$40 from damnyouhussies        receives 631-PONYE from pusboyau        and sends to 392-MODER from regor
+$40 from srand                 receives 318-SPETE from damnyouhussies  and sends to 196-BLCUP from Mikey
+$40 from srand                 receives 611-SANMA from djlg            and sends to 650-CASTL from hxbx
+$40 from srand                 receives 650-CASTL from hxbx            and sends to 387-DARJE from regor
+$45 from Mariana               receives 664-MEDIM from cyberkev63      and sends to 568-WINGS from djlg
+$45 from MrBaggy               receives 391-CASHN from regor           and sends to 664-MEDIM from cyberkev63
+$45 from Tezza                 receives 533-LOYAN from ausminstrel     and sends to 564-BBLUE from djlg
+$45 from hxbx                  receives 402-KLAUS from prd1982         and sends to 596-DOMAI from nnf1
+$50 from Friendless            receives 131-MARKL from Mikey           and sends to 571-MYSTE from djlg
+$50 from Kinosness             receives 413-SHERL from Hida Mann       and sends to 386-HACIE from regor
+$50 from M_o_O                 receives 403-CAPEH from prd1982         and sends to 611-SANMA from djlg
+$50 from MrBaggy               receives 624-DUELI from ausminstrel     and sends to 270-MEM44 from Duke Leto
+$50 from Phil81                receives 488-LOWEN from otaku           and sends to 134-DARKE from GeminiWeb
+$50 from hxbx                  receives 255-CONTR from snog            and sends to 050-SEASI from Friendless
+$55 from Critical Mass         receives 651-PCOVE from shawn_low       and sends to 393-OLTRE from regor
+$55 from anomander64           receives 180-ADVEN from Duke Leto       and sends to 616-WORLD from nnf1
+$55 from anomander64           receives 494-CLEOP from Tyndal          and sends to 562-HAMBU from djlg
+$60 from JoeMcLaughlin         receives 550-FINES from ausminstrel     and sends to 004-ALIEN from anomander64
+$60 from anomander64           receives 178-DLORD from Duke Leto       and sends to 606-GREAT from nnf1
+$60 from anomander64           receives 649-STREE from djlg            and sends to 343-HAVAN from Mark_Owen_Reich
+$60 from hxbx                  receives 305-MAGNU from Paul65          and sends to 359-ALERT from batcut
+$65 from Lucky Phil            receives 557-QUEBE from djlg            and sends to 667-DAYAN from cyberkev63
+$65 from ateh                  receives 469-CCANC from johnclark       and sends to 666-BSGCK from cyberkev63
+$70 from Hida Mann             receives 474-TYCOO from johnclark       and sends to 180-ADVEN from Duke Leto
+$70 from hxbx                  receives 553-WORLD from snog            and sends to 555-AGEOF from djlg
+$70 from prd1982               receives 401-WARLO from MrBaggy         and sends to 556-EASTF from djlg
+$90 from Dr Corey              receives 072-ROTHX from Friendless      and sends to 642-CIVIL from Duke Leto
+$90 from Kinosness             receives 037-DUNEY from Dr Corey        and sends to 557-QUEBE from djlg
+001-CONFL from Friendless      receives 118-PRUSS from petegs          and sends to 531-ADAST from ausminstrel
+002-BLOOD from chengr05                    does not trade
+003-PARTH from chengr05                    does not trade
+004-ALIEN from anomander64     receives $60 from JoeMcLaughlin         and sends to 521-KINGS from fFish
+005-ZOMBI from Amnese                      does not trade
+006-NAPPY from Amnese                      does not trade
+007-VCTRY from Amnese                      does not trade
+008-CUUBA from revgiblet       receives 246-BLUEM from batcut          and sends to $35 from spectre2661
+009-BLOOD from Amnese                      does not trade
+010-ANDRO from revgiblet       receives 332-RUNEB from Ykikamucow      and sends to 593-WAROF from PBrennan
+011-SPQRX from Amnese                      does not trade
+012-LOTRC from revgiblet                   does not trade
+013-SILEN from Amnese                      does not trade
+014-ARKHA from Thiessi         receives 406-GHOST from gmcnish         and sends to 491-PRESI from Tyndal
+015-BUZZY from Amnese          receives 140-ALHAM from some_guy        and sends to 407-DELTA from gmcnish
+016-TYCOO from revgiblet                   does not trade
+017-BARBA from petegs          receives 099-TIGER from da pyrate       and sends to 628-GREAT from JoeMcLaughlin
+018-CAUCA from petegs          receives 113-ROMUL from prd1982         and sends to 122-MARVE from GeneSteeler
+019-BOOTL from revgiblet                   does not trade
+020-BREAK from Amnese                      does not trade
+021-GRAND from Amnese                      does not trade
+022-AMBUS from petegs                      does not trade
+023-WETHE from petegs                      does not trade
+024-VCTRY from petegs          receives 134-DARKE from GeminiWeb       and sends to 530-SEVEN from ausminstrel
+025-NOTRK from Thiessi                     does not trade
+026-RATTY from srand           receives 552-COSMI from mr_lunch        and sends to 313-CLIPZ from MrBaggy
+027-LEMMY from Thiessi         receives 593-WAROF from PBrennan        and sends to 341-INTRI from Mark_Owen_Reich
+028-SAHUL from srand           receives 617-BAKER from mr_lunch        and sends to 171-CUTTH from spectre2661
+029-CHAOS from srand           receives 502-GENOA from Tyndal          and sends to 131-MARKL from Mikey
+030-MUNCH from freelunch                   does not trade
+031-BOOTY from freelunch                   does not trade
+032-SUPER from freelunch                   does not trade
+033-MONKY from freelunch                   does not trade
+034-STARM from freelunch                   does not trade
+035-BITES from freelunch                   does not trade
+036-MUNCH from freelunch                   does not trade
+037-DUNEY from Dr Corey        receives 303-BSGSG from some_guy        and sends to $90 from Kinosness
+038-THUND from Dr Corey        receives 316-ADVEN from damnyouhussies  and sends to 451-FITSY from shawn_low
+039-DARJE from Phil81          receives 407-DELTA from gmcnish         and sends to $30 from Mikey
+040-ROBOR from Dr Corey        receives 330-TALI4 from Ykikamucow      and sends to $30 from Kinosness
+041-MICRO from Dr Corey                    does not trade
+042-BEOWU from Phil81          receives 315-BSACK from earthboot       and sends to 328-RENOW from Neil Thomson
+043-RUNEW from Dr Corey        receives $100 from Kinosness            and sends to 397-TOWER from Tezza
+044-DICET from Phil81          receives 366-ROBOT from Ozludo          and sends to 213-NUNSS from Nights
+045-PHOEN from Phil81          receives $20 from Aneirin               and sends to 320-ODINS from Aneirin
+046-ASLSK from Phil81          receives 079-CARCD from Friendless      and sends to 550-FINES from ausminstrel
+047-CHAOS from chengr05        receives 119-SILEN from GeneSteeler     and sends to 294-ONIRI from tiggers
+048-TIKAL from chengr05        receives 379-CONDO from Player_1        and sends to 402-KLAUS from prd1982
+049-MEXIC from chengr05                    does not trade
+050-SEASI from Friendless      receives $50 from hxbx                  and sends to 427-CIVIL from shawn_low
+051-CAMP8 from fateswanderer               does not trade
+052-TRIUM from fateswanderer               does not trade
+053-TRIAS from fateswanderer   receives 243-NEXUS from batcut          and sends to 317-ARCAN from damnyouhussies
+054-WESTE from petegs          receives 117-INCUR from chengr05        and sends to 652-WIZWA from shawn_low
+055-PERRY from fateswanderer   receives 523-FAIRY from fFish           and sends to $40 from Ykikamucow
+056-CITAD from fateswanderer   receives 561-PIZAR from djlg            and sends to 093-WOWFA from wilderness
+057-KALIM from Friendless      receives 657-PANGE from shawn_low       and sends to $40 from Kinosness
+058-ALLEY from ChrisPayne                  does not trade
+059-BISMK from ChrisPayne      receives 571-MYSTE from djlg            and sends to 123-GUMBA from GeneSteeler
+060-PANZA from ChrisPayne      receives 491-PRESI from Tyndal          and sends to 542-MIDDL from ausminstrel
+061-WOFTR from ChrisPayne      receives 606-GREAT from nnf1            and sends to 165-PILAZ from chengr05
+062-DOMIN from Critical Mass               does not trade
+063-SANTI from Critical Mass   receives 244-REDPL from batcut          and sends to 087-QUEBE from wilderness
+064-VANIS from Critical Mass   receives 280-INKOG from Scholle         and sends to 590-TRIAS from PBrennan
+065-PGRID from Critical Mass   receives 165-PILAZ from chengr05        and sends to 314-LEDA1 from MrBaggy
+066-ACQUI from ChrisPayne                  does not trade
+067-ALERT from Critical Mass               does not trade
+068-LEONA from Critical Mass               does not trade
+069-FORBI from Critical Mass   receives 499-4SALE from Tyndal          and sends to 488-LOWEN from otaku
+070-NEXUS from ChrisPayne      receives 094-MIRON from wilderness      and sends to 168-DOMIN from Duke Leto
+071-PROPH from Friendless      receives $20 from srand                 and sends to $25 from spectre2661
+072-ROTHX from Friendless      receives 393-OLTRE from regor           and sends to $90 from Dr Corey
+073-KEESD from Friendless      receives $20 from Phil81                and sends to $20 from Aneirin
+074-WARHA from Friendless                  does not trade
+075-TOTEM from Friendless                  does not trade
+076-BEANS from Friendless      receives $40 from Lucky Phil            and sends to 339-HTMFD from GeneSteeler
+077-FEURI from Friendless                  does not trade
+078-SAHUL from Friendless                  does not trade
+079-CARCD from Friendless      receives 328-RENOW from Neil Thomson    and sends to 046-ASLSK from Phil81
+080-STRAD from Friendless      receives $20 from srand                 and sends to $20 from spectre2661
+081-SOLDD from Friendless                  does not trade
+082-MANOW from srand                       does not trade
+083-HONEY from srand                       does not trade
+084-CAMEL from wilderness      receives 088-LONDO from aaronseeber     and sends to 483-LIFEB from anomander64
+085-TOLED from wilderness      receives 348-ARKAD from Mark_Owen_Reich and sends to 348-ARKAD from Mark_Owen_Reich
+086-WINDS from wilderness      receives 324-MOTAB from Neil Thomson    and sends to 522-LORDO from fFish
+087-QUEBE from wilderness      receives 063-SANTI from Critical Mass   and sends to 215-ICEFL from Lucky Phil
+088-LONDO from aaronseeber     receives 437-VOLLD from shawn_low       and sends to 084-CAMEL from wilderness
+089-BOOTL from wilderness                  does not trade
+090-CLASH from wilderness                  does not trade
+091-EKETO from wilderness      receives 572-CHICA from PBrennan        and sends to 537-CADWA from ausminstrel
+092-ALEXA from wilderness      receives 440-PGFAC from shawn_low       and sends to 197-HEROC from Oiler
+093-WOWFA from wilderness      receives 056-CITAD from fateswanderer   and sends to 458-MYKER from hxbx
+094-MIRON from wilderness      receives 229-4PEPL from petegs          and sends to 070-NEXUS from ChrisPayne
+095-DIEDO from wilderness                  does not trade
+096-LANGF from wilderness      receives 105-MONTE from da pyrate       and sends to 509-LIFEE from Phil81
+097-EISEN from wilderness      receives 480-ASLSK from vanadamme       and sends to 121-LONDO from GeneSteeler
+098-ZOOLO from da pyrate       receives 625-FREYA from ausminstrel     and sends to $35 from Friendless
+099-TIGER from da pyrate       receives 397-TOWER from Tezza           and sends to 017-BARBA from petegs
+100-CCEUR from da pyrate       receives 286-CONFL from tiggers         and sends to 276-HAMBU from Scholle
+101-GLADI from da pyrate                   does not trade
+102-RANDY from da pyrate                   does not trade
+103-GRAND from da pyrate                   does not trade
+104-ORDER from da pyrate       receives 142-CARDS from some_guy        and sends to 608-ZOFFI from nnf1
+105-MONTE from da pyrate       receives 595-EDELS from djlg            and sends to 096-LANGF from wilderness
+106-NUMBA from da pyrate       receives 600-DUNGT from nnf1            and sends to $30 from Lucky Phil
+107-RDICE from da pyrate       receives 339-HTMFD from GeneSteeler     and sends to 554-DVONN from djlg
+108-STORM from da pyrate       receives 179-MUSKE from spectre2661     and sends to 119-SILEN from GeneSteeler
+109-ALHAM from da pyrate                   does not trade
+110-VCTRY from da pyrate       receives 601-DUNGM from nnf1            and sends to 112-STONE from hoostus
+111-LOSTC from hoostus         receives 128-CLOSE from wilderness      and sends to 620-KELLA from mr_lunch
+112-STONE from hoostus         receives 110-VCTRY from da pyrate       and sends to 463-RUNEB from Dr Corey
+113-ROMUL from prd1982         receives 248-TIDEI from ateh            and sends to 018-CAUCA from petegs
+114-SOLDD from chengr05                    does not trade
+115-SHANG from chengr05                    does not trade
+116-HALOW from chengr05                    does not trade
+117-INCUR from chengr05        receives 214-NEHEX from Lucky Phil      and sends to 054-WESTE from petegs
+118-PRUSS from petegs          receives 257-PANDE from spectre2661     and sends to 001-CONFL from Friendless
+119-SILEN from GeneSteeler     receives 108-STORM from da pyrate       and sends to 047-CHAOS from chengr05
+120-PANZE from GeneSteeler                 does not trade
+121-LONDO from GeneSteeler     receives 097-EISEN from wilderness      and sends to 437-VOLLD from shawn_low
+122-MARVE from GeneSteeler     receives 018-CAUCA from petegs          and sends to $25 from Phil81
+123-GUMBA from GeneSteeler     receives 059-BISMK from ChrisPayne      and sends to 362-CONFR from Thiessi
+124-YINSH from dlow            receives 144-RICOC from some_guy        and sends to 494-CLEOP from Tyndal
+125-BLUEV from dlow            receives $30 from Aneirin               and sends to 128-CLOSE from wilderness
+126-CASTL from wilderness                  does not trade
+127-CLASH from wilderness                  does not trade
+128-CLOSE from wilderness      receives 125-BLUEV from dlow            and sends to 111-LOSTC from hoostus
+129-FLINT from wilderness                  does not trade
+130-DIPLO from Oiler           receives 356-TRIAS from batcut          and sends to $25 from shawn_low
+131-MARKL from Mikey           receives 029-CHAOS from srand           and sends to $50 from Friendless
+132-TYPHO from wilderness      receives 483-LIFEB from anomander64     and sends to 586-TREEF from PBrennan
+133-ATTIL from GeminiWeb       receives 666-BSGCK from cyberkev63      and sends to $35 from Ozludo
+134-DARKE from GeminiWeb       receives $50 from Phil81                and sends to 024-VCTRY from petegs
+135-THORH from GeminiWeb       receives 341-INTRI from Mark_Owen_Reich and sends to $30 from Hida Mann
+136-BLOOD from GeminiWeb                   does not trade
+137-EMPIA from GeminiWeb       receives 264-IROND from sbszine         and sends to 634-HEREI from JoeMcLaughlin
+138-PANTH from GeminiWeb                   does not trade
+139-WARLO from GeminiWeb                   does not trade
+140-ALHAM from some_guy        receives 547-STARC from ausminstrel     and sends to 015-BUZZY from Amnese
+141-CAYLU from some_guy        receives 620-KELLA from mr_lunch        and sends to 272-ATTIK from sysyphus
+142-CARDS from some_guy        receives 569-TORRE from djlg            and sends to 104-ORDER from da pyrate
+143-COSMI from some_guy                    does not trade
+144-RICOC from some_guy        receives 201-GALAC from the_pirate      and sends to 124-YINSH from dlow
+145-JUNTA from some_guy                    does not trade
+146-WOWBG from some_guy        receives 290-REDPL from tiggers         and sends to 330-TALI4 from Ykikamucow
+147-KILLB from some_guy                    does not trade
+148-MONST from some_guy        receives 429-ENTBG from Kinosness       and sends to 654-BABEL from hxbx
+149-PKING from some_guy                    does not trade
+150-WARHA from some_guy                    does not trade
+151-SORRY from some_guy                    does not trade
+152-GHEOS from some_guy                    does not trade
+153-COSMI from some_guy        receives 172-BEOWU from Duke Leto       and sends to 532-ALADD from ausminstrel
+154-DRAGO from some_guy                    does not trade
+155-WARAI from some_guy                    does not trade
+156-HOBBI from earthboot                   does not trade
+157-PORTO from earthboot       receives 362-CONFR from Thiessi         and sends to 374-SEREN from Ozludo
+158-WATER from earthboot                   does not trade
+159-ABALO from earthboot                   does not trade
+160-GRAND from paco paco                   does not trade
+161-FLORE from paco paco                   does not trade
+162-PANDE from paco paco                   does not trade
+163-SKYBR from chengr05                    does not trade
+164-COWBY from chengr05                    does not trade
+165-PILAZ from chengr05        receives 061-WOFTR from ChrisPayne      and sends to 065-PGRID from Critical Mass
+166-STSHP from GeneSteeler                 does not trade
+167-FUNNY from Duke Leto       receives $25 from Hida Mann             and sends to 636-PRIMO from Friendless
+168-DOMIN from Duke Leto       receives 070-NEXUS from ChrisPayne      and sends to 364-ENTBG from Thiessi
+169-BATTU from spectre2661                 does not trade
+170-BLACK from Duke Leto       receives $20 from srand                 and sends to 187-CUUBA from Hida Mann
+171-CUTTH from spectre2661     receives 028-SAHUL from srand           and sends to 315-BSACK from earthboot
+172-BEOWU from Duke Leto       receives $10 from tiggers               and sends to 153-COSMI from some_guy
+173-TALIS from Duke Leto                   does not trade
+174-SULTA from spectre2661                 does not trade
+175-HIPPY from Duke Leto                   does not trade
+176-ALERT from Duke Leto       receives $25 from Moose_Head            and sends to 312-CIRCU from Dr Corey
+177-DUNWI from spectre2661                 does not trade
+178-DLORD from Duke Leto       receives $25 from Player_1              and sends to $60 from anomander64
+179-MUSKE from spectre2661     receives 195-SILKR from Hida Mann       and sends to 108-STORM from da pyrate
+180-ADVEN from Duke Leto       receives $70 from Hida Mann             and sends to $55 from anomander64
+181-NOTRK from spectre2661                 does not trade
+182-EXPAN from Hida Mann       receives $10 from sbszine               and sends to $10 from Player_1
+183-EXPAN from Hida Mann                   does not trade
+184-EXPAN from Hida Mann       receives $10 from mr_lunch              and sends to $10 from sbszine
+185-SOLDD from Hida Mann                   does not trade
+186-DUNEX from Hida Mann       receives $17 from Duke Leto             and sends to $17 from Duke Leto
+187-CUUBA from Hida Mann       receives 170-BLACK from Duke Leto       and sends to $35 from srand
+188-RCKTV from Hida Mann                   does not trade
+189-SWORD from Hida Mann                   does not trade
+190-CCGSS from Hida Mann                   does not trade
+191-CTHUL from Hida Mann                   does not trade
+192-DIPLO from Hida Mann       receives 509-LIFEE from Phil81          and sends to $25 from ausminstrel
+193-TBGGG from Hida Mann       receives 549-TEMPU from ausminstrel     and sends to 499-4SALE from Tyndal
+194-LOT5R from Hida Mann                   does not trade
+195-SILKR from Hida Mann       receives 500-SAMUR from Tyndal          and sends to 179-MUSKE from spectre2661
+196-BLCUP from Mikey           receives $40 from srand                 and sends to $30 from Aneirin
+197-HEROC from Oiler           receives 092-ALEXA from wilderness      and sends to 235-ATONX from GeneSteeler
+198-ARKAD from the_pirate      receives $35 from spectre2661           and sends to 482-REEFE from anomander64
+199-2RIOS from the_pirate                  does not trade
+200-ENTCG from the_pirate      receives $15 from dlow                  and sends to 379-CONDO from Player_1
+201-GALAC from the_pirate      receives $40 from Kinosness             and sends to 144-RICOC from some_guy
+202-TOLDU from the_pirate                  does not trade
+203-TOLDU from the_pirate                  does not trade
+204-AMSTE from the_pirate                  does not trade
+205-LIFEB from the_pirate                  does not trade
+206-LEONA from the_pirate                  does not trade
+207-ALADD from the_pirate                  does not trade
+208-REEFE from the_pirate                  does not trade
+209-BABEL from the_pirate                  does not trade
+210-FALLE from chengr05                    does not trade
+211-FOOTY from grosse_au                   does not trade
+212-TNUSA from grosse_au                   does not trade
+213-NUNSS from Nights          receives 044-DICET from Phil81          and sends to 502-GENOA from Tyndal
+214-NEHEX from Lucky Phil      receives 526-DUNGE from freelunch       and sends to 117-INCUR from chengr05
+215-ICEFL from Lucky Phil      receives 087-QUEBE from wilderness      and sends to 505-STARS from Tyndal
+216-BLUEM from Lucky Phil      receives 636-PRIMO from Friendless      and sends to 318-SPETE from damnyouhussies
+217-DREAM from chengr05                    does not trade
+218-FINCA from chengr05        receives 568-WINGS from djlg            and sends to $40 from Lucky Phil
+219-SYLLA from chengr05                    does not trade
+220-MIDGA from chengr05                    does not trade
+221-FRESC from chengr05        receives 374-SEREN from Ozludo          and sends to 302-SMALL from Paul65
+222-A2AJU from grosse_au                   does not trade
+223-KINGM from petegs                      does not trade
+224-CRCHG from Critical Mass               does not trade
+225-TWSTR from chengr05                    does not trade
+226-TARGU from prd1982                     does not trade
+227-TEMPU from prd1982         receives 537-CADWA from ausminstrel     and sends to $30 from Lucky Phil
+228-ROMMY from petegs          receives 628-GREAT from JoeMcLaughlin   and sends to 244-REDPL from batcut
+229-4PEPL from petegs          receives 659-AGONY from shawn_low       and sends to 094-MIRON from wilderness
+230-STALI from petegs                      does not trade
+231-CARPE from batcut                      does not trade
+232-TRIAS from Mikey           receives 504-WILDL from Tyndal          and sends to $25 from Hida Mann
+233-MONST from GeneSteeler                 does not trade
+234-DREAM from GeneSteeler                 does not trade
+235-ATONX from GeneSteeler     receives 197-HEROC from Oiler           and sends to $20 from Phil81
+236-GOANA from sysyphus        receives 395-ALIEN from Tezza           and sends to 286-CONFL from tiggers
+237-MOTAB from sysyphus        receives $35 from Phil81                and sends to 295-DRAGO from tiggers
+238-DYNAS from sysyphus        receives $35 from Ozludo                and sends to $30 from Aneirin
+239-LOTRC from sysyphus        receives $30 from hxbx                  and sends to 319-INCAN from grosse_au
+240-CLOD9 from sysyphus        receives 412-KAHUN from gmcnish         and sends to 410-GHEOS from gmcnish
+241-REDDR from batcut                      does not trade
+242-REDD2 from batcut                      does not trade
+243-NEXUS from batcut          receives $30 from Hida Mann             and sends to 053-TRIAS from fateswanderer
+244-REDPL from batcut          receives 228-ROMMY from petegs          and sends to 063-SANTI from Critical Mass
+245-TIMBU from batcut                      does not trade
+246-BLUEM from batcut          receives $40 from Ykikamucow            and sends to 008-CUUBA from revgiblet
+247-AUSTE from snog                        does not trade
+248-TIDEI from ateh            receives 501-BATTL from Tyndal          and sends to 113-ROMUL from prd1982
+249-SEREN from snog            receives 421-ROMMY from shawn_low       and sends to 643-TWILI from Duke Leto
+250-LOUIS from ateh            receives 384-FUNNY from regor           and sends to $30 from srand
+251-ANGEL from ateh            receives 387-DARJE from regor           and sends to 473-RUMMY from johnclark
+252-NEXUS from ateh                        does not trade
+253-OLTRE from snog            receives 298-MAHAR from tiggers         and sends to 541-HEROS from ausminstrel
+254-KNAIR from snog                        does not trade
+255-CONTR from snog            receives 427-CIVIL from shawn_low       and sends to $50 from hxbx
+256-CLASH from snog            receives 564-BBLUE from djlg            and sends to 421-ROMMY from shawn_low
+257-PANDE from spectre2661     receives 335-OASIS from Neil Thomson    and sends to 118-PRUSS from petegs
+258-HEROS from FinalAttack     receives 381-SHUNT from Player_1        and sends to 623-BUSHI from ausminstrel
+259-LLENA from ianwright       receives 508-FLICO from Phil81          and sends to 549-TEMPU from ausminstrel
+260-NEXUS from FinalAttack                 does not trade
+261-CRCHG from FinalAttack                 does not trade
+262-HOUSE from sbszine                     does not trade
+263-MAGNT from sbszine                     does not trade
+264-IROND from sbszine         receives 282-PITCH from Scholle         and sends to 137-EMPIA from GeminiWeb
+265-CRTG2 from sbszine                     does not trade
+266-CASHA from sbszine                     does not trade
+267-ACQUI from cyberkev63      receives $100 from Kinosness            and sends to 403-CAPEH from prd1982
+268-LFLIP from Friendless                  does not trade
+269-ARCHA from grosse_au                   does not trade
+270-MEM44 from Duke Leto       receives $50 from MrBaggy               and sends to 501-BATTL from Tyndal
+271-SHOGU from MrBaggy         receives 519-ADAST from fFish           and sends to 303-BSGSG from some_guy
+272-ATTIK from sysyphus        receives 141-CAYLU from some_guy        and sends to $35 from Phil81
+273-MANCA from Amiguero                    does not trade
+274-LUPUS from Amiguero                    does not trade
+275-FORDE from Amiguero                    does not trade
+276-HAMBU from Scholle         receives 100-CCEUR from da pyrate       and sends to 474-TYCOO from johnclark
+277-NEULA from Scholle         receives 546-SHOGU from ausminstrel     and sends to 651-PCOVE from shawn_low
+278-EBILD from Scholle                     does not trade
+279-HAMLN from Scholle                     does not trade
+280-INKOG from Scholle         receives 532-ALADD from ausminstrel     and sends to 064-VANIS from Critical Mass
+281-MAMMO from Scholle                     does not trade
+282-PITCH from Scholle         receives 510-WILDL from Phil81          and sends to 264-IROND from sbszine
+283-PCEX2 from Critical Mass               does not trade
+284-CARCA from Mariana         receives 331-SHADO from Neil Thomson    and sends to 369-DEADL from Hida Mann
+285-4SALE from Mariana         receives 607-EINFA from nnf1            and sends to $10 from cyberkev63
+286-CONFL from tiggers         receives 236-GOANA from sysyphus        and sends to 100-CCEUR from da pyrate
+287-YESRK from tiggers                     does not trade
+288-CAMP8 from tiggers                     does not trade
+289-BLOKU from tiggers                     does not trade
+290-REDPL from tiggers         receives 420-SLIDA from shawn_low       and sends to 146-WOWBG from some_guy
+291-HOITY from tiggers         receives 670-RARAR from prd1982         and sends to $35 from Ozludo
+292-PALAZ from tiggers                     does not trade
+293-PRINC from tiggers                     does not trade
+294-ONIRI from tiggers         receives 047-CHAOS from chengr05        and sends to 316-ADVEN from damnyouhussies
+295-DRAGO from tiggers         receives 237-MOTAB from sysyphus        and sends to 527-ASCEN from freelunch
+296-PIZZA from tiggers                     does not trade
+297-GWALL from tiggers                     does not trade
+298-MAHAR from tiggers         receives 405-SYLLA from wilderness      and sends to 253-OLTRE from snog
+299-YSNIK from tiggers         receives 554-DVONN from djlg            and sends to 538-CHICA from ausminstrel
+300-CCITY from Paul65                      does not trade
+301-CATAN from Paul65          receives 597-VASCO from PBrennan        and sends to 484-ELRIC from Kinosness
+302-SMALL from Paul65          receives 221-FRESC from chengr05        and sends to 659-AGONY from shawn_low
+303-BSGSG from some_guy        receives 271-SHOGU from MrBaggy         and sends to 037-DUNEY from Dr Corey
+304-TALIS from Hida Mann                   does not trade
+305-MAGNU from Paul65          receives 377-SPETE from Player_1        and sends to $60 from hxbx
+306-BACCH from Paul65                      does not trade
+307-POCKY from Paul65                      does not trade
+308-SHEEP from Paul65                      does not trade
+309-YESRK from Paul65                      does not trade
+310-SPICK from Paul65                      does not trade
+311-APPLZ from Paul65          receives 319-INCAN from grosse_au       and sends to 612-PIRAT from nnf1
+312-CIRCU from Dr Corey        receives 176-ALERT from Duke Leto       and sends to 432-PROPH from Kinosness
+313-CLIPZ from MrBaggy         receives 026-RATTY from srand           and sends to $30 from mr_lunch
+314-LEDA1 from MrBaggy         receives 065-PGRID from Critical Mass   and sends to 420-SLIDA from shawn_low
+315-BSACK from earthboot       receives 171-CUTTH from spectre2661     and sends to 042-BEOWU from Phil81
+316-ADVEN from damnyouhussies  receives 294-ONIRI from tiggers         and sends to 038-THUND from Dr Corey
+317-ARCAN from damnyouhussies  receives 053-TRIAS from fateswanderer   and sends to 329-TWIST from Neil Thomson
+318-SPETE from damnyouhussies  receives 216-BLUEM from Lucky Phil      and sends to $40 from srand
+319-INCAN from grosse_au       receives 239-LOTRC from sysyphus        and sends to 311-APPLZ from Paul65
+320-ODINS from Aneirin         receives 045-PHOEN from Phil81          and sends to 622-TICKE from ausminstrel
+321-MOTOG from Neil Thomson                does not trade
+322-ACQUI from Ykikamucow                  does not trade
+323-DQ3RD from Neil Thomson                does not trade
+324-MOTAB from Neil Thomson    receives 345-LOSBA from Mark_Owen_Reich and sends to 086-WINDS from wilderness
+325-UBONG from Neil Thomson                does not trade
+326-JUNTA from Ykikamucow                  does not trade
+327-FLORE from Ykikamucow      receives 503-LEONA from Tyndal          and sends to 625-FREYA from ausminstrel
+328-RENOW from Neil Thomson    receives 042-BEOWU from Phil81          and sends to 079-CARCD from Friendless
+329-TWIST from Neil Thomson    receives 317-ARCAN from damnyouhussies  and sends to 361-DURCH from Thiessi
+330-TALI4 from Ykikamucow      receives 146-WOWBG from some_guy        and sends to 040-ROBOR from Dr Corey
+331-SHADO from Neil Thomson    receives 346-BUYWO from Mark_Owen_Reich and sends to 284-CARCA from Mariana
+332-RUNEB from Ykikamucow      receives 528-HEROE from freelunch       and sends to 010-ANDRO from revgiblet
+333-SUSHI from Neil Thomson                does not trade
+334-ATILA from Neil Thomson    receives 610-DUCKG from nnf1            and sends to 430-FIRST from shawn_low
+335-OASIS from Neil Thomson    receives 586-TREEF from PBrennan        and sends to 257-PANDE from spectre2661
+336-HURRY from Neil Thomson                does not trade
+337-PERPE from Neil Thomson                does not trade
+338-CHINA from Neil Thomson    receives 432-PROPH from Kinosness       and sends to 519-ADAST from fFish
+339-HTMFD from GeneSteeler     receives 076-BEANS from Friendless      and sends to 107-RDICE from da pyrate
+340-LOTRC from earthboot                   does not trade
+341-INTRI from Mark_Owen_Reich receives 027-LEMMY from Thiessi         and sends to 135-THORH from GeminiWeb
+342-BEOWU from Mark_Owen_Reich             does not trade
+343-HAVAN from Mark_Owen_Reich receives $60 from anomander64           and sends to 400-PUERT from MrBaggy
+344-SOLDD from Mark_Owen_Reich             does not trade
+345-LOSBA from Mark_Owen_Reich receives $25 from ausminstrel           and sends to 324-MOTAB from Neil Thomson
+346-BUYWO from Mark_Owen_Reich receives $30 from srand                 and sends to 331-SHADO from Neil Thomson
+347-LASCA from Mark_Owen_Reich             does not trade
+348-ARKAD from Mark_Owen_Reich receives 085-TOLED from wilderness      and sends to 085-TOLED from wilderness
+349-NEWEN from Mark_Owen_Reich             does not trade
+350-PICKP from Mark_Owen_Reich receives $20 from damnyouhussies        and sends to 363-KELTI from Thiessi
+351-SOLDD from Mark_Owen_Reich             does not trade
+352-MIDGA from Mark_Owen_Reich             does not trade
+353-PRIMU from Mark_Owen_Reich             does not trade
+354-MARRA from Mark_Owen_Reich             does not trade
+355-VIKIN from batcut                      does not trade
+356-TRIAS from batcut          receives $30 from Kinosness             and sends to 130-DIPLO from Oiler
+357-THURN from batcut          receives $30 from fFish                 and sends to $25 from Moose_Head
+358-IACTA from batcut          receives $35 from tiggers               and sends to 422-TALI2 from shawn_low
+359-ALERT from batcut          receives $60 from hxbx                  and sends to 405-SYLLA from wilderness
+360-WASAB from batcut          receives $40 from Damhsa_Roisin         and sends to 378-MAHAL from Player_1
+361-DURCH from Thiessi         receives 329-TWIST from Neil Thomson    and sends to 656-STRAD from hxbx
+362-CONFR from Thiessi         receives 123-GUMBA from GeneSteeler     and sends to 157-PORTO from earthboot
+363-KELTI from Thiessi         receives 350-PICKP from Mark_Owen_Reich and sends to $40 from Damhsa_Roisin
+364-ENTBG from Thiessi         receives 168-DOMIN from Duke Leto       and sends to 377-SPETE from Player_1
+365-CUTCA from Ozludo                      does not trade
+366-ROBOT from Ozludo          receives $30 from Phil81                and sends to 044-DICET from Phil81
+367-BACK2 from Hida Mann       receives 418-ARCAN from srand           and sends to $20 from damnyouhussies
+368-SIMPS from Hida Mann                   does not trade
+369-DEADL from Hida Mann       receives 284-CARCA from Mariana         and sends to $20 from srand
+370-HCLIX from Hida Mann                   does not trade
+371-BOUTG from Ozludo                      does not trade
+371-MAGB3 from Hida Mann                   does not trade
+373-CARCC from Ozludo                      does not trade
+374-SEREN from Ozludo          receives 157-PORTO from earthboot       and sends to 221-FRESC from chengr05
+375-CHAIN from Ozludo                      does not trade
+376-RISKL from Player_1                    does not trade
+377-SPETE from Player_1        receives 364-ENTBG from Thiessi         and sends to 305-MAGNU from Paul65
+378-MAHAL from Player_1        receives 360-WASAB from batcut          and sends to 510-WILDL from Phil81
+379-CONDO from Player_1        receives 200-ENTCG from the_pirate      and sends to 048-TIKAL from chengr05
+380-ILLEG from Player_1                    does not trade
+381-SHUNT from Player_1        receives 531-ADAST from ausminstrel     and sends to 258-HEROS from FinalAttack
+382-APPLZ from Player_1                    does not trade
+383-MUTAN from Dr Corey                    does not trade
+384-FUNNY from regor           receives 473-RUMMY from johnclark       and sends to 250-LOUIS from ateh
+385-KEYHA from regor                       does not trade
+386-HACIE from regor           receives $50 from Kinosness             and sends to $30 from Phil81
+387-DARJE from regor           receives $40 from srand                 and sends to 251-ANGEL from ateh
+388-MAGB2 from regor                       does not trade
+389-RDICE from regor                       does not trade
+390-2ORNO from regor                       does not trade
+391-CASHN from regor           receives 458-MYKER from hxbx            and sends to $45 from MrBaggy
+392-MODER from regor           receives $40 from damnyouhussies        and sends to $35 from Tezza
+393-OLTRE from regor           receives $55 from Critical Mass         and sends to 072-ROTHX from Friendless
+394-DOOMZ from petegs          receives 422-TALI2 from shawn_low       and sends to 426-WARRI from Kinosness
+395-ALIEN from Tezza           receives 643-TWILI from Duke Leto       and sends to 236-GOANA from sysyphus
+396-TBGGG from Tezza                       does not trade
+397-TOWER from Tezza           receives 043-RUNEW from Dr Corey        and sends to 099-TIGER from da pyrate
+398-221BB from aaronseeber                 does not trade
+399-FORMD from FinalAttack     receives 542-MIDDL from ausminstrel     and sends to 533-LOYAN from ausminstrel
+400-PUERT from MrBaggy         receives 343-HAVAN from Mark_Owen_Reich and sends to $40 from ateh
+401-WARLO from MrBaggy         receives 443-AGRIC from shawn_low       and sends to $70 from prd1982
+402-KLAUS from prd1982         receives 048-TIKAL from chengr05        and sends to $45 from hxbx
+403-CAPEH from prd1982         receives 267-ACQUI from cyberkev63      and sends to $50 from M_o_O
+404-DUNGT from da pyrate                   does not trade
+405-SYLLA from wilderness      receives 359-ALERT from batcut          and sends to 298-MAHAR from tiggers
+406-GHOST from gmcnish         receives 667-DAYAN from cyberkev63      and sends to 014-ARKHA from Thiessi
+407-DELTA from gmcnish         receives 015-BUZZY from Amnese          and sends to 039-DARJE from Phil81
+408-SORRY from gmcnish                     does not trade
+409-THEOP from gmcnish                     does not trade
+410-GHEOS from gmcnish         receives 240-CLOD9 from sysyphus        and sends to 480-ASLSK from vanadamme
+411-FRAGZ from gmcnish                     does not trade
+412-KAHUN from gmcnish         receives $20 from srand                 and sends to 240-CLOD9 from sysyphus
+413-SHERL from Hida Mann       receives 623-BUSHI from ausminstrel     and sends to $50 from Kinosness
+414-SCENE from Hida Mann                   does not trade
+415-SHADO from 40thann                     does not trade
+416-HAVRE from 40thann         receives 556-EASTF from djlg            and sends to 553-WORLD from snog
+417-FLUXX from Hida Mann                   does not trade
+418-ARCAN from srand           receives 465-PLUND from gmcnish         and sends to 367-BACK2 from Hida Mann
+419-GROOG from Hida Mann       receives 456-SEVEN from hxbx            and sends to $35 from cyberkev63
+420-SLIDA from shawn_low       receives 314-LEDA1 from MrBaggy         and sends to 290-REDPL from tiggers
+421-ROMMY from shawn_low       receives 256-CLASH from snog            and sends to 249-SEREN from snog
+422-TALI2 from shawn_low       receives 358-IACTA from batcut          and sends to 394-DOOMZ from petegs
+423-DARKW from Kinosness                   does not trade
+424-APOCA from Kinosness                   does not trade
+425-MANIF from shawn_low                   does not trade
+426-WARRI from Kinosness       receives 394-DOOMZ from petegs          and sends to 479-PANIC from vanadamme
+427-CIVIL from shawn_low       receives 050-SEASI from Friendless      and sends to 255-CONTR from snog
+428-FURYW from shawn_low                   does not trade
+429-ENTBG from Kinosness       receives 652-WIZWA from shawn_low       and sends to 148-MONST from some_guy
+430-FIRST from shawn_low       receives 334-ATILA from Neil Thomson    and sends to 546-SHOGU from ausminstrel
+431-SHADO from shawn_low                   does not trade
+432-PROPH from Kinosness       receives 312-CIRCU from Dr Corey        and sends to 338-CHINA from Neil Thomson
+433-SSHIP from shawn_low                   does not trade
+434-WARLO from Kinosness                   does not trade
+435-SMCIV from shawn_low                   does not trade
+436-GODSF from Kinosness                   does not trade
+437-VOLLD from shawn_low       receives 121-LONDO from GeneSteeler     and sends to 088-LONDO from aaronseeber
+438-FFOES from shawn_low                   does not trade
+439-FELLE from shawn_low                   does not trade
+440-PGFAC from shawn_low       receives 566-AFRIC from djlg            and sends to 092-ALEXA from wilderness
+441-LABYR from shawn_low                   does not trade
+442-AUSTR from shawn_low                   does not trade
+443-AGRIC from shawn_low       receives 634-HEREI from JoeMcLaughlin   and sends to 401-WARLO from MrBaggy
+444-DOGEY from shawn_low                   does not trade
+445-FEUDO from shawn_low                   does not trade
+446-POLIS from shawn_low                   does not trade
+447-TEDGE from shawn_low                   does not trade
+448-HAMLN from shawn_low                   does not trade
+449-ANTLR from shawn_low                   does not trade
+450-MOTLY from shawn_low                   does not trade
+451-FITSY from shawn_low       receives 038-THUND from Dr Corey        and sends to 631-PONYE from pusboyau
+452-PARTY from shawn_low                   does not trade
+453-FORBI from shawn_low                   does not trade
+454-MONOP from Hida Mann                   does not trade
+455-GUADA from hxbx                        does not trade
+456-SEVEN from hxbx            receives 538-CHICA from ausminstrel     and sends to 419-GROOG from Hida Mann
+457-DUELA from hxbx                        does not trade
+458-MYKER from hxbx            receives 093-WOWFA from wilderness      and sends to 391-CASHN from regor
+459-MYKER from shawn_low                   does not trade
+460-OLTRE from shawn_low                   does not trade
+461-TROOP from shawn_low                   does not trade
+462-ELVES from da pyrate                   does not trade
+463-RUNEB from Dr Corey        receives 112-STONE from hoostus         and sends to $100 from Kinosness
+464-KONIG from gmcnish                     does not trade
+465-PLUND from gmcnish         receives 591-KIDSR from nnf1            and sends to 418-ARCAN from srand
+466-AOSJP from gmcnish         receives $25 from Phil81                and sends to 592-LASTR from djlg
+467-SPIEL from gmcnish         receives $10 from Player_1              and sends to 508-FLICO from Phil81
+468-BLORE from johnclark                   does not trade
+469-CCANC from johnclark       receives 562-HAMBU from djlg            and sends to $65 from ateh
+470-DOOMG from johnclark                   does not trade
+471-HONOR from johnclark                   does not trade
+472-LASCO from johnclark                   does not trade
+473-RUMMY from johnclark       receives 251-ANGEL from ateh            and sends to 384-FUNNY from regor
+474-TYCOO from johnclark       receives 276-HAMBU from Scholle         and sends to $70 from Hida Mann
+475-WOWBG from johnclark                   does not trade
+476-SPIGS from gmcnish                     does not trade
+477-BUFFY from gmcnish                     does not trade
+478-NIGHT from vanadamme                   does not trade
+479-PANIC from vanadamme       receives 426-WARRI from Kinosness       and sends to 626-KEYTH from ausminstrel
+480-ASLSK from vanadamme       receives 410-GHEOS from gmcnish         and sends to 097-EISEN from wilderness
+481-TWIST from vanadamme                   does not trade
+482-REEFE from anomander64     receives 198-ARKAD from the_pirate      and sends to $35 from srand
+483-LIFEB from anomander64     receives 084-CAMEL from wilderness      and sends to 132-TYPHO from wilderness
+484-ELRIC from Kinosness       receives 301-CATAN from Paul65          and sends to $40 from Friendless
+485-MARIN from Kinosness                   does not trade
+486-GETTA from Friendless                  does not trade
+487-AMSTE from otaku                       does not trade
+488-LOWEN from otaku           receives 069-FORBI from Critical Mass   and sends to $50 from Phil81
+489-RALLY from otaku                       does not trade
+490-CAMLY from otaku                       does not trade
+491-PRESI from Tyndal          receives 014-ARKHA from Thiessi         and sends to 060-PANZA from ChrisPayne
+492-REEFE from Tyndal          receives $35 from Tezza                 and sends to 511-NDUNG from Phil81
+493-TORRE from Tyndal                      does not trade
+494-CLEOP from Tyndal          receives 124-YINSH from dlow            and sends to $55 from anomander64
+495-CLUZZ from Tyndal                      does not trade
+496-GHEOS from Tyndal                      does not trade
+497-ASSES from Tyndal                      does not trade
+498-BOOTL from Tyndal                      does not trade
+499-4SALE from Tyndal          receives 193-TBGGG from Hida Mann       and sends to 069-FORBI from Critical Mass
+500-SAMUR from Tyndal          receives $30 from Phil81                and sends to 195-SILKR from Hida Mann
+501-BATTL from Tyndal          receives 270-MEM44 from Duke Leto       and sends to 248-TIDEI from ateh
+502-GENOA from Tyndal          receives 213-NUNSS from Nights          and sends to 029-CHAOS from srand
+503-LEONA from Tyndal          receives $30 from Ozludo                and sends to 327-FLORE from Ykikamucow
+504-WILDL from Tyndal          receives $40 from ateh                  and sends to 232-TRIAS from Mikey
+505-STARS from Tyndal          receives 215-ICEFL from Lucky Phil      and sends to 639-DUNGQ from Duke Leto
+506-BEOWU from Phil81                      does not trade
+507-BRIDG from Phil81                      does not trade
+508-FLICO from Phil81          receives 467-SPIEL from gmcnish         and sends to 259-LLENA from ianwright
+509-LIFEE from Phil81          receives 096-LANGF from wilderness      and sends to 192-DIPLO from Hida Mann
+510-WILDL from Phil81          receives 378-MAHAL from Player_1        and sends to 282-PITCH from Scholle
+511-NDUNG from Phil81          receives 492-REEFE from Tyndal          and sends to 657-PANGE from shawn_low
+512-SUMMO from Phil81          receives 654-BABEL from hxbx            and sends to 576-DRACU from PBrennan
+513-TRADE from Phil81                      does not trade
+514-ULYSS from Phil81                      does not trade
+515-WACKY from Phil81                      does not trade
+516-SWCUR from Phil81          receives $15 from mr_lunch              and sends to $10 from mr_lunch
+517-POCKE from Phil81          receives $25 from shawn_low             and sends to 523-FAIRY from fFish
+518-ENDEA from fFish           receives 527-ASCEN from freelunch       and sends to 629-ASCEN from Damhsa_Roisin
+519-ADAST from fFish           receives 338-CHINA from Neil Thomson    and sends to 271-SHOGU from MrBaggy
+520-NEXUS from fFish                       does not trade
+521-KINGS from fFish           receives 004-ALIEN from anomander64     and sends to $35 from tiggers
+522-LORDO from fFish           receives 086-WINDS from wilderness      and sends to $30 from hxbx
+523-FAIRY from fFish           receives 517-POCKE from Phil81          and sends to 055-PERRY from fateswanderer
+524-SLUSH from fFish                       does not trade
+525-MIDEV from freelunch                   does not trade
+526-DUNGE from freelunch       receives 626-KEYTH from ausminstrel     and sends to 214-NEHEX from Lucky Phil
+527-ASCEN from freelunch       receives 295-DRAGO from tiggers         and sends to 518-ENDEA from fFish
+528-HEROE from freelunch       receives 576-DRACU from PBrennan        and sends to 332-RUNEB from Ykikamucow
+529-CONSE from freelunch                   does not trade
+530-SEVEN from ausminstrel     receives 024-VCTRY from petegs          and sends to $30 from Ozludo
+531-ADAST from ausminstrel     receives 001-CONFL from Friendless      and sends to 381-SHUNT from Player_1
+532-ALADD from ausminstrel     receives 153-COSMI from some_guy        and sends to 280-INKOG from Scholle
+533-LOYAN from ausminstrel     receives 399-FORMD from FinalAttack     and sends to $45 from Tezza
+534-AXISA from ausminstrel                 does not trade
+535-AXISP from ausminstrel                 does not trade
+536-BLOOD from ausminstrel                 does not trade
+537-CADWA from ausminstrel     receives 091-EKETO from wilderness      and sends to 227-TEMPU from prd1982
+538-CHICA from ausminstrel     receives 299-YSNIK from tiggers         and sends to 456-SEVEN from hxbx
+539-COSMI from ausminstrel                 does not trade
+540-FIFTH from ausminstrel                 does not trade
+541-HEROS from ausminstrel     receives 253-OLTRE from snog            and sends to $15 from mr_lunch
+542-MIDDL from ausminstrel     receives 060-PANZA from ChrisPayne      and sends to 399-FORMD from FinalAttack
+543-REEFE from ausminstrel                 does not trade
+544-ROBBE from ausminstrel                 does not trade
+545-RISEA from ausminstrel                 does not trade
+546-SHOGU from ausminstrel     receives 430-FIRST from shawn_low       and sends to 277-NEULA from Scholle
+547-STARC from ausminstrel     receives 596-DOMAI from nnf1            and sends to 140-ALHAM from some_guy
+548-TALIS from ausminstrel                 does not trade
+549-TEMPU from ausminstrel     receives 259-LLENA from ianwright       and sends to 193-TBGGG from Hida Mann
+550-FINES from ausminstrel     receives 046-ASLSK from Phil81          and sends to $60 from JoeMcLaughlin
+551-TRIBU from ausminstrel                 does not trade
+552-COSMI from mr_lunch        receives 656-STRAD from hxbx            and sends to 026-RATTY from srand
+553-WORLD from snog            receives 416-HAVRE from 40thann         and sends to $70 from hxbx
+554-DVONN from djlg            receives 107-RDICE from da pyrate       and sends to 299-YSNIK from tiggers
+555-AGEOF from djlg            receives $70 from hxbx                  and sends to 597-VASCO from PBrennan
+556-EASTF from djlg            receives $70 from prd1982               and sends to 416-HAVRE from 40thann
+557-QUEBE from djlg            receives $90 from Kinosness             and sends to $65 from Lucky Phil
+558-HELLA from djlg                        does not trade
+559-ODINS from djlg                        does not trade
+560-YESNO from djlg                        does not trade
+561-PIZAR from djlg            receives $30 from Mikey                 and sends to 056-CITAD from fateswanderer
+562-HAMBU from djlg            receives $55 from anomander64           and sends to 469-CCANC from johnclark
+563-KINGD from djlg                        does not trade
+564-BBLUE from djlg            receives $45 from Tezza                 and sends to 256-CLASH from snog
+565-VICTO from djlg                        does not trade
+566-AFRIC from djlg            receives $40 from Friendless            and sends to 440-PGFAC from shawn_low
+567-UPFRO from djlg                        does not trade
+568-WINGS from djlg            receives $45 from Mariana               and sends to 218-FINCA from chengr05
+569-TORRE from djlg            receives $35 from Ozludo                and sends to 142-CARDS from some_guy
+570-JUNKY from djlg                        does not trade
+571-MYSTE from djlg            receives $50 from Friendless            and sends to 059-BISMK from ChrisPayne
+572-CHICA from PBrennan        receives 629-ASCEN from Damhsa_Roisin   and sends to 091-EKETO from wilderness
+573-SEVEN from PBrennan                    does not trade
+574-ARMYO from PBrennan                    does not trade
+575-CRUSA from djlg                        does not trade
+576-DRACU from PBrennan        receives 512-SUMMO from Phil81          and sends to 528-HEROE from freelunch
+577-GUERI from PBrennan                    does not trade
+578-ARMYO from nnf1            receives $30 from Aneirin               and sends to $15 from dlow
+579-AUSTR from nnf1                        does not trade
+580-LUNAL from PBrennan                    does not trade
+581-MALLW from PBrennan                    does not trade
+582-MERCH from PBrennan                    does not trade
+583-MESOP from PBrennan                    does not trade
+584-PALAZ from PBrennan                    does not trade
+585-PIZAR from PBrennan                    does not trade
+586-TREEF from PBrennan        receives 132-TYPHO from wilderness      and sends to 335-OASIS from Neil Thomson
+587-SANMA from PBrennan                    does not trade
+588-GENER from djlg                        does not trade
+589-TICKE from PBrennan                    does not trade
+590-TRIAS from PBrennan        receives 064-VANIS from Critical Mass   and sends to $20 from srand
+591-KIDSR from nnf1            receives $20 from Damhsa_Roisin         and sends to 465-PLUND from gmcnish
+592-LASTR from djlg            receives 466-AOSJP from gmcnish         and sends to $20 from srand
+593-WAROF from PBrennan        receives 010-ANDRO from revgiblet       and sends to 027-LEMMY from Thiessi
+594-MYKER from PBrennan                    does not trade
+595-EDELS from djlg            receives $30 from Lucky Phil            and sends to 105-MONTE from da pyrate
+596-DOMAI from nnf1            receives $45 from hxbx                  and sends to 547-STARC from ausminstrel
+597-VASCO from PBrennan        receives 555-AGEOF from djlg            and sends to 301-CATAN from Paul65
+598-DUNGT from nnf1            receives $35 from cyberkev63            and sends to $20 from damnyouhussies
+599-WEINH from djlg                        does not trade
+600-DUNGT from nnf1            receives $35 from Friendless            and sends to 106-NUMBA from da pyrate
+601-DUNGM from nnf1            receives $35 from srand                 and sends to 110-VCTRY from da pyrate
+602-FORMU from nnf1                        does not trade
+603-WINEC from djlg                        does not trade
+604-KINGO from nnf1                        does not trade
+605-KEYTH from djlg                        does not trade
+606-GREAT from nnf1            receives $60 from anomander64           and sends to 061-WOFTR from ChrisPayne
+607-EINFA from nnf1            receives $25 from fFish                 and sends to 285-4SALE from Mariana
+608-ZOFFI from nnf1            receives 104-ORDER from da pyrate       and sends to $25 from fFish
+609-SCHOT from djlg                        does not trade
+610-DUCKG from nnf1            receives $20 from spectre2661           and sends to 334-ATILA from Neil Thomson
+611-SANMA from djlg            receives $50 from M_o_O                 and sends to $40 from srand
+612-PIRAT from nnf1            receives 311-APPLZ from Paul65          and sends to $30 from fFish
+613-RAVEN from nnf1                        does not trade
+614-RUSSE from nnf1                        does not trade
+615-AMAZE from nnf1            receives $35 from srand                 and sends to 668-BLUEM from Lucky Phil
+616-WORLD from nnf1            receives $55 from anomander64           and sends to 624-DUELI from ausminstrel
+617-BAKER from mr_lunch        receives $10 from cyberkev63            and sends to 028-SAHUL from srand
+618-HEROQ from mr_lunch                    does not trade
+619-WITCH from mr_lunch                    does not trade
+620-KELLA from mr_lunch        receives 111-LOSTC from hoostus         and sends to 141-CAYLU from some_guy
+621-TOMBB from mr_lunch                    does not trade
+622-TICKE from ausminstrel     receives 320-ODINS from Aneirin         and sends to $20 from Damhsa_Roisin
+623-BUSHI from ausminstrel     receives 258-HEROS from FinalAttack     and sends to 413-SHERL from Hida Mann
+624-DUELI from ausminstrel     receives 616-WORLD from nnf1            and sends to $50 from MrBaggy
+625-FREYA from ausminstrel     receives 327-FLORE from Ykikamucow      and sends to 098-ZOOLO from da pyrate
+626-KEYTH from ausminstrel     receives 479-PANIC from vanadamme       and sends to 526-DUNGE from freelunch
+627-CIVIL from JoeMcLaughlin               does not trade
+628-GREAT from JoeMcLaughlin   receives 017-BARBA from petegs          and sends to 228-ROMMY from petegs
+629-ASCEN from Damhsa_Roisin   receives 518-ENDEA from fFish           and sends to 572-CHICA from PBrennan
+630-INKOG from Aneirin                     does not trade
+631-PONYE from pusboyau        receives 451-FITSY from shawn_low       and sends to $40 from damnyouhussies
+632-AGRIC from Kinosness                   does not trade
+633-SWORD from JoeMcLaughlin               does not trade
+634-HEREI from JoeMcLaughlin   receives 137-EMPIA from GeminiWeb       and sends to 443-AGRIC from shawn_low
+635-GRAVE from pusboyau                    does not trade
+636-PRIMO from Friendless      receives 167-FUNNY from Duke Leto       and sends to 216-BLUEM from Lucky Phil
+637-SPYAL from Friendless                  does not trade
+638-DRAGO from Duke Leto                   does not trade
+639-DUNGQ from Duke Leto       receives 505-STARS from Tyndal          and sends to $30 from Phil81
+640-KINGS from Duke Leto                   does not trade
+641-UNOXM from Duke Leto       receives $20 from damnyouhussies        and sends to $10 from tiggers
+642-CIVIL from Duke Leto       receives $90 from Dr Corey              and sends to $100 from Kinosness
+643-TWILI from Duke Leto       receives 249-SEREN from snog            and sends to 395-ALIEN from Tezza
+644-TIMES from pusboyau                    does not trade
+645-PILLA from Paul65                      does not trade
+646-SHERW from Moose_Head                  does not trade
+647-USNAV from djlg                        does not trade
+648-CAPEH from djlg            receives $25 from spectre2661           and sends to $20 from srand
+649-STREE from djlg            receives $30 from Lucky Phil            and sends to $60 from anomander64
+650-CASTL from hxbx            receives $40 from srand                 and sends to $40 from srand
+651-PCOVE from shawn_low       receives 277-NEULA from Scholle         and sends to $55 from Critical Mass
+652-WIZWA from shawn_low       receives 054-WESTE from petegs          and sends to 429-ENTBG from Kinosness
+653-COLOS from hxbx                        does not trade
+654-BABEL from hxbx            receives 148-MONST from some_guy        and sends to 512-SUMMO from Phil81
+655-OASIS from shawn_low                   does not trade
+656-STRAD from hxbx            receives 361-DURCH from Thiessi         and sends to 552-COSMI from mr_lunch
+657-PANGE from shawn_low       receives 511-NDUNG from Phil81          and sends to 057-KALIM from Friendless
+658-4PEOP from shawn_low                   does not trade
+659-AGONY from shawn_low       receives 302-SMALL from Paul65          and sends to 229-4PEPL from petegs
+660-AUSTR from cyberkev63                  does not trade
+661-ZAUBE from cyberkev63                  does not trade
+662-SANTI from cyberkev63                  does not trade
+663-NEXUS from cyberkev63                  does not trade
+664-MEDIM from cyberkev63      receives $45 from MrBaggy               and sends to $45 from Mariana
+665-CONQU from cyberkev63                  does not trade
+666-BSGCK from cyberkev63      receives $65 from ateh                  and sends to 133-ATTIL from GeminiWeb
+667-DAYAN from cyberkev63      receives $65 from Lucky Phil            and sends to 406-GHOST from gmcnish
+668-BLUEM from Lucky Phil      receives 615-AMAZE from nnf1            and sends to $25 from Player_1
+669-TRIGO from shawn_low                   does not trade
+670-RARAR from prd1982         receives $30 from mr_lunch              and sends to 291-HOITY from tiggers
+
+Num trades  = 446
+Total cost  = 407235 (avg 913.08)
+Num groups  = 6
+Group sizes = 376 58 4 4 2 2
+Sum squares = 144780
+
+ITEMS FOR WHICH NO WANTS HAVE BEEN SUBMITTED (0)
+
+USERS WHO STILL HAVE TO SUBMIT WANTS (0)
+
+Process finished with exit code 0
+

@@ -1,0 +1,1217 @@
+/usr/lib/jvm/default-jvm/bin/java -Didea.launcher.port=7567 -Didea.launcher.bin.path=/home/john/idea-IU-95.66/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/jdk1.6.0_21/jre/lib/javaws.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/jce.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/plugin.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/alt-rt.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/deploy.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/rt.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/management-agent.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/resources.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/dnsns.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/localedata.jar:/home/john/projects/TradeMaximizer-1.3a/out/production/TradeMaximizer-1.3a:/home/john/idea-IU-95.66/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain TradeMaximizer inputneil.txt
+TradeMaximizer Version 1.3.Friendless
+Options: SCALED-PRIORITIES ALLOW-DUMMIES REQUIRE-COLONS REQUIRE-USERNAMES GEEKLIST=65650 CODE-DIGITS=3 CODE-LETTERS=5
+
+Retrieving http://boardgamegeek.com/xmlapi/geeklist/65650?comments=1
+User Alleyooper is not in the geeklist but has submitted wants.
+User Phil81 is not in the geeklist but has submitted wants.
+User gerald is not in the geeklist but has submitted wants.
+User pnit is not in the geeklist but has submitted wants.
+User Abanon is not in the geeklist but has submitted wants.
+
+MOST WANTED
+107-REALM: Defenders of the Realm wanted in exchange for 126 items
+080-KINGS: Kingsburg wanted in exchange for 84 items
+309-MEIER: Sid Meier's Civilization: The Board Game wanted in exchange for 84 items
+112-LONDN: London wanted in exchange for 82 items
+079-GIANT: Giants wanted in exchange for 76 items
+364-TBAGO: Tobago wanted in exchange for 75 items
+268-LABBY: Labyrinth: The War on Terror, 2001-? wanted in exchange for 73 items
+295-AWSME: Through the Ages: A Story of Civilization wanted in exchange for 67 items
+034-SMALL: Small World wanted in exchange for 63 items
+048-STONE: Stone Age wanted in exchange for 63 items
+358-BSACK: Bausack wanted in exchange for 61 items
+306-FROZN: K2 wanted in exchange for 60 items
+397-ACOLA: Agricola wanted in exchange for 57 items
+271-CNTRY: 20th Century wanted in exchange for 57 items
+108-SHIPY: Shipyard wanted in exchange for 57 items
+275-SIZLE: The Downfall of Pompeii wanted in exchange for 57 items
+259-JAMCA: Jamaica wanted in exchange for 55 items
+258-FRSCO: Fresco wanted in exchange for 53 items
+069-PRINC: The Princes of Florence wanted in exchange for 53 items
+243-SHOGN: Shogun wanted in exchange for 52 items
+331-GLENM: Glen More wanted in exchange for 51 items
+010-SPICE: Dune wanted in exchange for 51 items
+144-ALHAM: Alhambra: The City Gates wanted in exchange for 47 items
+337-POWER: Power Grid wanted in exchange for 46 items
+402-VILLA: Villa Paletti wanted in exchange for 46 items
+404-INNOV: Innovation wanted in exchange for 45 items
+054-WORLD: World Without End wanted in exchange for 45 items
+177-FINCA: Finca wanted in exchange for 45 items
+195-UPFNT: Up Front wanted in exchange for 43 items
+077-FURYD: Fury of Dracula wanted in exchange for 43 items
+120-NGHTY: Nuns on the Run wanted in exchange for 43 items
+386-PACKS: Pack & Stack wanted in exchange for 42 items
+113-BWEST: Battles of Westeros wanted in exchange for 42 items
+317-LEADR: Leader 1 wanted in exchange for 41 items
+329-IBOSS: I'm the Boss! wanted in exchange for 40 items
+257-CRSON: Carson City wanted in exchange for 39 items
+078-ACQUI: Acquire wanted in exchange for 39 items
+384-FLIPR: Aquaretto wanted in exchange for 38 items
+059-GHOST: Ghost Stories wanted in exchange for 38 items
+274-VASCO: Vasco da Gama wanted in exchange for 38 items
+387-DIXIT: Dixit wanted in exchange for 37 items
+149-CUUBA: Cuba wanted in exchange for 36 items
+157-ABEAR: Conflict of Heroes: Awakening the Bear! Russia 1941-1942 wanted in exchange for 36 items
+379-RFTGY: Race for the Galaxy wanted in exchange for 36 items
+075-TIDEY: Tide of Iron wanted in exchange for 36 items
+147-SAMRI: Samurai wanted in exchange for 35 items
+188-HAVAN: Havana wanted in exchange for 35 items
+030-DICET: Dice Towers wanted in exchange for 34 items
+168-TTRSW: Ticket to Ride: Switzerland wanted in exchange for 33 items
+196-EGULF: Europe Engulfed wanted in exchange for 32 items
+335-EMINE: Eminent Domain wanted in exchange for 32 items
+349-CHATR: Chateau Roquefort wanted in exchange for 31 items
+367-FALLN: Conquest of the Fallen Lands wanted in exchange for 31 items
+406-CRTHG: Traders of Carthage wanted in exchange for 30 items
+273-HANNI: Hannibal: Rome vs. Carthage wanted in exchange for 29 items
+277-LCTBG: Lost Cities: The Board Game wanted in exchange for 29 items
+307-UNION: Union Pacific wanted in exchange for 28 items
+299-EFRNT: EastFront wanted in exchange for 28 items
+162-RAVEN: Dungeons & Dragons: Castle Ravenloft Board Game wanted in exchange for 28 items
+244-RFTGY: Race for the Galaxy wanted in exchange for 27 items
+377-ROMNS: Tribune: Primus Inter Pares wanted in exchange for 27 items
+330-LUUNA: Luna wanted in exchange for 26 items
+116-OPERA: Sator Arepo Tenet Opera Rotas wanted in exchange for 26 items
+388-TOLDO: Toledo wanted in exchange for 26 items
+426-LLATE: High Frontier wanted in exchange for 26 items
+055-COLOR: Commands & Colors: Ancients Expansion Pack #1: Greece & Eastern Kingdoms wanted in exchange for 26 items
+261-CTHLU: Arkham Horror wanted in exchange for 25 items
+200-DIGGY: Thebes wanted in exchange for 25 items
+324-WINGS: Wings of War: Famous Aces wanted in exchange for 25 items
+056-KRAKO: Krakow 1325 AD wanted in exchange for 24 items
+027-SUMON: Summoner Wars: Phoenix Elves vs Tundra Orcs wanted in exchange for 24 items
+286-AMUNR: Amun-Re wanted in exchange for 23 items
+087-CITTA: La Città wanted in exchange for 23 items
+146-BUNDL: Race for the Galaxy wanted in exchange for 23 items
+276-DLORD: Dungeon Lords wanted in exchange for 23 items
+399-ITYOD: In the Year of the Dragon wanted in exchange for 23 items
+281-BTLGR: Battleground: Crossbows & Catapults Tower Attack Expansion Pack wanted in exchange for 23 items
+001-EMINE: Eminent Domain wanted in exchange for 23 items
+392-ROMAN: Tribune: Primus Inter Pares wanted in exchange for 22 items
+226-LOUIE: Loopin' Louie wanted in exchange for 22 items
+228-FACFU: Factory Fun wanted in exchange for 22 items
+263-KLUSS: Caylus wanted in exchange for 22 items
+023-GENOA: Genoa wanted in exchange for 22 items
+083-BBALL: Battleball wanted in exchange for 22 items
+133-ZOOLO: Zooloretto wanted in exchange for 21 items
+411-GOSUU: Gosu wanted in exchange for 20 items
+297-RANDY: Dungeon Lords wanted in exchange for 20 items
+165-LNOEZ: Last Night on Earth: The Zombie Game wanted in exchange for 20 items
+013-MEXIC: Mexica wanted in exchange for 20 items
+093-TOUCH: A Touch of Evil: The Supernatural Game wanted in exchange for 20 items
+311-VINET: Vineta wanted in exchange for 20 items
+338-NIGRA: Niagara wanted in exchange for 20 items
+086-BANDO: Baltimore and Ohio wanted in exchange for 20 items
+242-HACIE: Hacienda wanted in exchange for 20 items
+006-MISRP: Mission: Red Planet wanted in exchange for 20 items
+004-PRIMO: Primordial Soup wanted in exchange for 19 items
+118-WILDW: Wilderness War wanted in exchange for 19 items
+272-HOMES: Homesteaders wanted in exchange for 19 items
+314-DOMIN: Dominion wanted in exchange for 19 items
+158-LEONV: Leonardo da Vinci wanted in exchange for 18 items
+179-LYCRA: Um Reifenbreite wanted in exchange for 18 items
+018-KINGD: Kingdoms wanted in exchange for 18 items
+145-DREAM: Dream Factory wanted in exchange for 18 items
+130-PROPH: Prophecy wanted in exchange for 18 items
+308-DUTCH: Revolution: The Dutch Revolt 1568-1648 wanted in exchange for 17 items
+115-DESRT: Through the Desert wanted in exchange for 17 items
+169-RAVEN: Dungeons & Dragons: Castle Ravenloft Board Game wanted in exchange for 17 items
+020-AMBUS: Ambush! wanted in exchange for 17 items
+339-VEGAS: Vegas Showdown wanted in exchange for 16 items
+174-ITYOD: In the Year of the Dragon wanted in exchange for 16 items
+269-HAMMA: Hammer of the Scots wanted in exchange for 16 items
+053-CAVUM: Cavum wanted in exchange for 16 items
+394-MCASH: Marracash wanted in exchange for 16 items
+183-BUNDL: Euphrates & Tigris Card Game wanted in exchange for 16 items
+305-INSRT: Colosseum wanted in exchange for 16 items
+011-DOMAL: Dominion: Alchemy wanted in exchange for 15 items
+091-SINKS: Atlantis wanted in exchange for 15 items
+121-NWRLD: New World: A Carcassonne Game wanted in exchange for 15 items
+176-RUMPY: Rum & Pirates wanted in exchange for 15 items
+222-KLUUS: Caylus wanted in exchange for 15 items
+267-WEARP: Wyatt Earp wanted in exchange for 15 items
+049-UNDER: Under the Shadow of the Dragon wanted in exchange for 14 items
+173-RFTGY: Race for the Galaxy wanted in exchange for 14 items
+382-DORIS: Igel Ärgern + Tante Tarantel wanted in exchange for 14 items
+102-CATAN: The Settlers of Catan wanted in exchange for 14 items
+234-HOBIT: The Hobbit wanted in exchange for 14 items
+301-MERCH: Merchants of Amsterdam wanted in exchange for 14 items
+348-MAGIC: Magical Athlete wanted in exchange for 14 items
+143-TAXIS: Thurn and Taxis wanted in exchange for 14 items
+051-FLOOD: After the Flood wanted in exchange for 13 items
+412-CORTM: Court of the Medici wanted in exchange for 13 items
+401-FACMA: Power Grid: Factory Manager wanted in exchange for 13 items
+413-DAYUS: 10 Days in the USA wanted in exchange for 13 items
+094-LARGO: Key Largo wanted in exchange for 13 items
+289-AARGH: Pirate's Cove wanted in exchange for 12 items
+155-SANTI: Santiago wanted in exchange for 12 items
+150-ARKAD: Arkadia wanted in exchange for 12 items
+014-POWFM: Power Grid: Factory Manager wanted in exchange for 12 items
+202-TBGGG: The BoardGameGeek Game wanted in exchange for 12 items
+035-ARCTI: Arctic Scavengers wanted in exchange for 12 items
+101-ANGEL: Space Hulk: Death Angel - The Card Game wanted in exchange for 12 items
+092-BTCRY: Battle Cry wanted in exchange for 12 items
+320-DREAM: Dream Factory wanted in exchange for 12 items
+106-TWIST: Dungeon Twister wanted in exchange for 12 items
+383-DANGL: Space Hulk: Death Angel - The Card Game wanted in exchange for 12 items
+046-CITAD: Citadels wanted in exchange for 12 items
+354-ZOFFY: Zoff im Hühnerhof wanted in exchange for 11 items
+310-ANTKE: Antike wanted in exchange for 11 items
+414-DANGL: Space Hulk: Death Angel - The Card Game wanted in exchange for 11 items
+161-NENGL: New England wanted in exchange for 11 items
+038-PRICO: Puerto Rico wanted in exchange for 11 items
+060-BUNDL: Ticket to Ride: The Card Game wanted in exchange for 11 items
+315-CATAN: The Settlers of Catan wanted in exchange for 11 items
+262-DMAYO: 2 de Mayo wanted in exchange for 11 items
+302-MODRT: Modern Art wanted in exchange for 10 items
+359-BTROL: Bridge Troll wanted in exchange for 10 items
+103-PRICO: Puerto Rico wanted in exchange for 10 items
+039-TIKAL: Tikal wanted in exchange for 10 items
+109-NORMY: Normandy '44 wanted in exchange for 10 items
+419-KLTIS: Keltis: Der Weg der Steine wanted in exchange for 10 items
+416-BLORE: BattleLore: Hill Giant wanted in exchange for 10 items
+252-CCITY: Carcassonne: The City wanted in exchange for 10 items
+391-NWENG: New England wanted in exchange for 10 items
+283-CATAN: Catan: Cities & Knights - 5-6 Player Extension wanted in exchange for 10 items
+153-CAMEL: Shadows over Camelot wanted in exchange for 9 items
+209-BRIGE: The Bridges of Shangri-La wanted in exchange for 9 items
+036-ACQUI: Acquire wanted in exchange for 9 items
+154-MONBY: Montego Bay wanted in exchange for 9 items
+293-ARCDE: Arkadia wanted in exchange for 9 items
+254-MEDIC: Medici wanted in exchange for 9 items
+381-RMBLE: Total Rumble wanted in exchange for 9 items
+117-ABBEY: Mystery of the Abbey wanted in exchange for 9 items
+255-BUNDL: Saboteur wanted in exchange for 9 items
+423-CURRY: Taj Mahal wanted in exchange for 9 items
+172-BSAFE: Break the Safe wanted in exchange for 9 items
+319-COWBY: Cowboys: The Way of the Gun wanted in exchange for 9 items
+100-BLORE: BattleLore: Heroes Expansion wanted in exchange for 8 items
+266-MONMA: Monsters Menace America wanted in exchange for 8 items
+265-HIIVE: Hive wanted in exchange for 8 items
+343-MHING: Mhing wanted in exchange for 8 items
+127-TORES: Torres wanted in exchange for 8 items
+017-BAANG: Bang! wanted in exchange for 8 items
+346-GREAT: Great Wall of China wanted in exchange for 8 items
+396-SPEED: Speed Circuit wanted in exchange for 8 items
+081-TIKAL: Tikal wanted in exchange for 8 items
+095-KNITE: Warrior Knights wanted in exchange for 7 items
+096-CAMEL: Shadows over Camelot wanted in exchange for 7 items
+025-TRUMP: Tycoon wanted in exchange for 7 items
+015-NEXOP: Nexus Ops wanted in exchange for 7 items
+352-RBRGR: Ravensburger wanted in exchange for 7 items
+231-BATAV: Batavia wanted in exchange for 7 items
+374-RUMPY: Rum & Pirates wanted in exchange for 7 items
+156-LBOAT: Lifeboats wanted in exchange for 7 items
+325-SKYBR: Skybridge wanted in exchange for 7 items
+369-DUELA: Duel of Ages Set 1: Worldspanner wanted in exchange for 7 items
+219-FELIX: Felix: The Cat in the Sack wanted in exchange for 7 items
+114-GZAGA: Gonzaga wanted in exchange for 7 items
+347-STRUG: Twilight Struggle wanted in exchange for 7 items
+232-INYOD: In the Year of the Dragon wanted in exchange for 7 items
+044-TRIDE: Ticket to Ride: The Card Game wanted in exchange for 7 items
+211-DRUID: DruidenWalzer wanted in exchange for 7 items
+204-HOGAN: Wrasslin' wanted in exchange for 7 items
+070-STEEL: Steel Driver wanted in exchange for 7 items
+410-BUZZZ: Hive wanted in exchange for 7 items
+140-CARCA: Carcassonne wanted in exchange for 7 items
+126-WIZWR: Wiz-War wanted in exchange for 7 items
+041-FRONT: Frontiers wanted in exchange for 7 items
+280-CAMEL: Shadows over Camelot wanted in exchange for 7 items
+058-WAROR: War of the Ring wanted in exchange for 7 items
+378-VICTR: A Victory Denied wanted in exchange for 7 items
+137-MYKER: Mykerinos wanted in exchange for 6 items
+328-MABEY: Mystery of the Abbey wanted in exchange for 6 items
+425-MNSTA: Monsterpocalypse wanted in exchange for 6 items
+024-LORDO: Lord of the Rings wanted in exchange for 6 items
+253-CARCC: Carcassonne: The Castle wanted in exchange for 6 items
+229-LIARD: Liar's Dice wanted in exchange for 6 items
+189-MOART: Modern Art: The Card Game wanted in exchange for 6 items
+009-DRUNT: Wacky Wacky West wanted in exchange for 6 items
+288-ETORP: Eketorp wanted in exchange for 6 items
+007-CUTCA: Cutthroat Caverns wanted in exchange for 6 items
+191-ARMOR: Chainmail wanted in exchange for 6 items
+294-ALADD: Aladdin's Dragons wanted in exchange for 6 items
+152-CASTL: Castle Merchants wanted in exchange for 6 items
+028-CAMPM: Campaign Manager 2008 wanted in exchange for 6 items
+365-BHILL: Betrayal at House on the Hill wanted in exchange for 6 items
+005-CARCA: Carcassonne: The Castle wanted in exchange for 6 items
+085-LIBER: Liberty: The American Revolution 1775-83 wanted in exchange for 6 items
+256-CATHE: Cathedral wanted in exchange for 6 items
+194-HELLA: Hellas wanted in exchange for 6 items
+296-WDRWN: Caylus wanted in exchange for 6 items
+148-MEDIC: Medici wanted in exchange for 6 items
+129-BUZZZ: Hive wanted in exchange for 6 items
+141-HANSA: Hansa wanted in exchange for 5 items
+063-CARCD: Carcassonne: The Discovery wanted in exchange for 5 items
+088-GALAC: Galactic Emperor wanted in exchange for 5 items
+420-COLOS: Colossal Arena wanted in exchange for 5 items
+375-SHZAM: Shazamm! wanted in exchange for 5 items
+400-NEXUS: Nexus Ops wanted in exchange for 5 items
+250-FLAND: Flandern 1302 wanted in exchange for 5 items
+341-ARENA: Colossal Arena wanted in exchange for 5 items
+043-COLOS: Colossal Arena wanted in exchange for 5 items
+099-NEXUS: Nexus Ops wanted in exchange for 5 items
+264-NEXUS: Nexus Ops wanted in exchange for 5 items
+045-NEWEN: New England wanted in exchange for 5 items
+037-HANSA: Hansa wanted in exchange for 5 items
+350-TTRCG: Ticket to Ride: The Card Game wanted in exchange for 5 items
+366-BBOWL: Blood Bowl (Third Edition) wanted in exchange for 5 items
+166-BFUTR: Back to the Future: The Card Game wanted in exchange for 5 items
+245-CANYN: Canyon wanted in exchange for 5 items
+313-LBOAT: Lifeboat wanted in exchange for 5 items
+187-CCAVE: Cutthroat Caverns wanted in exchange for 5 items
+353-DUCKY: duck! duck! Go! wanted in exchange for 4 items
+021-BOOTS: Bootleggers wanted in exchange for 4 items
+032-TOOMB: Tomb wanted in exchange for 4 items
+418-PCAKE: Piece o' Cake wanted in exchange for 4 items
+062-EASTI: Easter Island wanted in exchange for 4 items
+104-DAYNI: Day & Night wanted in exchange for 4 items
+197-DNITE: Day & Night wanted in exchange for 4 items
+139-TIMBU: Timbuktu wanted in exchange for 4 items
+022-ABEAR: Conflict of Heroes: Awakening the Bear! Russia 1941-1942 wanted in exchange for 4 items
+131-FIELD: Field Commander: Alexander wanted in exchange for 4 items
+031-DUNGE: DungeonQuest (3rd edition) wanted in exchange for 4 items
+248-BACUS: Bacchus' Banquet wanted in exchange for 4 items
+303-TWIST: Dungeon Twister wanted in exchange for 4 items
+097-TOOMB: Tomb wanted in exchange for 4 items
+361-FTALE: Fairy Tale wanted in exchange for 4 items
+159-ZEERO: Zero! wanted in exchange for 4 items
+089-MIDGA: Midgard wanted in exchange for 4 items
+151-BOOTS: Bootleggers wanted in exchange for 4 items
+040-JUNTA: Junta wanted in exchange for 4 items
+246-HERAZ: Hera and Zeus wanted in exchange for 3 items
+203-GLADI: Gladiator wanted in exchange for 3 items
+300-WAWBB: World at War: Blood and Bridges wanted in exchange for 3 items
+290-WASTE: Industrial Waste wanted in exchange for 3 items
+318-CATAN: Catan: Traders & Barbarians wanted in exchange for 3 items
+111-GLORY: Glory III wanted in exchange for 3 items
+061-KAHUN: Kahuna wanted in exchange for 3 items
+285-WTHDR: Space Alert wanted in exchange for 3 items
+389-WULFL: Beowulf: The Legend wanted in exchange for 3 items
+163-DUNGQ: DungeonQuest (3rd edition) wanted in exchange for 3 items
+323-BATAV: Batavia wanted in exchange for 3 items
+393-MDGRD: Midgard wanted in exchange for 3 items
+249-BAAAA: Shear Panic wanted in exchange for 3 items
+270-DMANE: Domaine wanted in exchange for 3 items
+233-KHEXE: Die kleine Hexe wanted in exchange for 3 items
+321-HALOW: Risk: Halo Wars Collector's Edition wanted in exchange for 3 items
+213-LUNAL: Luna Llena: Full Moon wanted in exchange for 3 items
+201-ROLER: Roller Coaster Tycoon wanted in exchange for 3 items
+208-SAGES: 7 Ages wanted in exchange for 3 items
+214-PZARO: Pizarro & Co. wanted in exchange for 3 items
+135-SYARD: Scotland Yard wanted in exchange for 3 items
+057-TWIST: Dungeon Twister wanted in exchange for 3 items
+417-BUNNY: Bunny Bunny Moose Moose wanted in exchange for 3 items
+119-TTIDE: Turn the Tide wanted in exchange for 3 items
+216-ENTDK: Entdecker: Exploring New Horizons wanted in exchange for 3 items
+422-DMANE: Domaine wanted in exchange for 3 items
+026-REDNO: Red November wanted in exchange for 3 items
+333-BEANS: Bohnanza wanted in exchange for 3 items
+287-ASLSK: Advanced Squad Leader: Starter Kit #1 wanted in exchange for 3 items
+215-DIMVP: Die Magier von Pangea wanted in exchange for 2 items
+002-MOTOG: Moto Grand Prix wanted in exchange for 2 items
+345-DANCE: Dancing Dice wanted in exchange for 2 items
+071-ROMEQ: Rome At War III: Queen of the Celts wanted in exchange for 2 items
+019-RHOOD: Sherwood Forest wanted in exchange for 2 items
+282-CATAN: The Settlers of Catan: 5-6 Player Extension wanted in exchange for 2 items
+072-PILLP: Pillage & Plunder wanted in exchange for 2 items
+220-SLORD: Scarab Lords wanted in exchange for 2 items
+327-DIPLO: Diplomacy wanted in exchange for 2 items
+221-KTION: Koalition wanted in exchange for 2 items
+160-CLASH: Clash for a Continent:  Battles of the American Revolution and French & Indian War wanted in exchange for 2 items
+421-CAMPM: Campaign Manager 2008 wanted in exchange for 2 items
+370-TRIUM: The End of the Triumvirate wanted in exchange for 2 items
+012-BLOOD: Blood Feud In New York wanted in exchange for 2 items
+050-DEBEL: De Bellis Antiquitatis wanted in exchange for 2 items
+380-REICH: Rise and Decline of the Third Reich wanted in exchange for 2 items
+332-GENJI: Genji wanted in exchange for 2 items
+342-ASHIP: Airships wanted in exchange for 2 items
+074-NORMY: Panzer Grenadier: Beyond Normandy wanted in exchange for 2 items
+008-BAAAA: Shear Panic wanted in exchange for 2 items
+003-DUELO: Duel of Ages Set 1: Worldspanner wanted in exchange for 2 items
+376-TSMAN: Talisman (Fourth Edition) wanted in exchange for 2 items
+398-DOOOM: Doom: The Boardgame wanted in exchange for 2 items
+186-TYPHO: Pacific Typhoon wanted in exchange for 2 items
+298-PUNIC: Carthage: The First Punic War wanted in exchange for 2 items
+167-PUPPT: Illuminati:  Deluxe Edition wanted in exchange for 2 items
+371-LLENA: Luna Llena: Full Moon wanted in exchange for 2 items
+312-TRIUM: The End of the Triumvirate wanted in exchange for 2 items
+424-OMARE: Oltre Mare wanted in exchange for 2 items
+218-MONEY: Money! wanted in exchange for 2 items
+217-PLAZO: Palazzo wanted in exchange for 2 items
+066-LUPUS: Lupus in Tabula wanted in exchange for 2 items
+067-WARRI: Warriors wanted in exchange for 2 items
+105-WNITE: Warrior Knights wanted in exchange for 2 items
+098-CRCHG: Carcassonne: Hunters and Gatherers wanted in exchange for 2 items
+110-GANGS: Gangsters wanted in exchange for 2 items
+124-HONOR: Honor of the Samurai wanted in exchange for 2 items
+304-ROBOD: RoboDerby: Express wanted in exchange for 2 items
+372-PATON: Patton's Best wanted in exchange for 1 items
+180-MPIRE: Empires in Arms wanted in exchange for 1 items
+355-RANDY: Queen of the Cupcakes wanted in exchange for 1 items
+068-PANZA: Panzer Grenadier: Elsenborn Ridge wanted in exchange for 1 items
+090-MAAGS: The Best of Dragon Magazine Games wanted in exchange for 1 items
+052-WELLI: Wellington wanted in exchange for 1 items
+291-HARET: Hare & Tortoise wanted in exchange for 1 items
+390-LASCA: Lascaux wanted in exchange for 1 items
+073-PATON: Patton's Best wanted in exchange for 1 items
+047-CARTB: Carcassonne: Traders & Builders wanted in exchange for 1 items
+170-PANZA: Panzer Command wanted in exchange for 1 items
+033-MAGEK: Mage Knight Dungeons wanted in exchange for 1 items
+356-OZMEN: Australian Menagerie wanted in exchange for 1 items
+207-PATRI: Patrician wanted in exchange for 1 items
+123-LEAKY: Waterworks wanted in exchange for 1 items
+184-TWIMP: Twilight Imperium (second edition) wanted in exchange for 1 items
+373-ROBBR: Robber Knights wanted in exchange for 1 items
+138-BUNDL: Banana Republic wanted in exchange for 1 items
+042-ARRGH: Pirates of the Spanish Main wanted in exchange for 1 items
+198-MFITS: Mini FITS wanted in exchange for 1 items
+084-COLAZ: Agricola Z-Deck wanted in exchange for 1 items
+076-CASTL: The Castle of the Devil wanted in exchange for 1 items
+206-AHILL: Avalon Hill wanted in exchange for 1 items
+178-LOUIE: Loopin' Louie wanted in exchange for 1 items
+322-MDGRD: Midgard wanted in exchange for 1 items
+
+
+UNWANTED
+016-KILLR Killer Bunnies and the Quest for the Magic Carrot
+029-SOLDD The End of the Triumvirate
+064-SOLDD Formula Dé
+065-SOLDD Ticket to Ride: Märklin Edition
+082-WITHD Mag·Blast (Second Edition)
+122-GUESS 2nd Guess
+125-ROIDS Asteroid
+128-CAMPA Campaign
+132-STARS Starship Troopers Miniatures Game
+134-DEVIL The Castle of the Devil
+136-CRANI Cranium: The Family Fun Game
+142-SSOLD New England
+164-WOWAG World of Warcraft: The Adventure Game
+171-JAMES 007 James Bond: Goldfinger
+175-SWARM The Swarm
+181-SLEGL Street Illegal
+182-CATAN Catan: Cities & Knights - 5-6 Player Extension
+185-WQEST Wizard's Quest
+190-KINGQ Kingdom Quest
+192-SSOLD Silverton
+193-CORSR Corsairs
+199-BBURN Ubongo extrem: Mitbringspiel
+205-WATSE War at Sea
+210-SSOLD El Caballero
+212-GRLLA Guerilla
+223-BURST Outburst Remix!
+224-NRWCH Destination Norwich
+225-RISKY Risk
+227-TWIMP Twilight Imperium
+230-LORDY Lord of the Rings
+235-SSOLD Agricola
+236-SOPHI Sophie's World
+237-WDRWN Start Player
+238-TYRUS Tyrus
+239-DELTO Deltora Quest Game - the Battle to Save Deltora
+240-WDRWN Municipium
+241-WDRWN Comuni
+247-WARSE The War At Sea
+251-RROAD Rail/Road
+260-KCHIN Ka-Ching!
+278-KATUV Katuvu
+279-WARRI Warriors
+284-CATAN Catan: Seafarers - 5-6 Player Extension
+292-DOCTA Doctor Faust
+316-SSOLD Battlestar Galactica
+326-DELTA Delta V
+334-OWNER Owner's Choice
+336-ADVSL Advanced Squad Leader
+340-TBGGG The BoardGameGeek Game
+344-HURRY Hurry'Cup!
+351-WORDS Wordsearch
+357-BARBY Barbarossa
+360-DQCAT Dungeonquest: Catacombs
+362-MLABY Master Labyrinth
+363-POLAR Polarity
+368-DIPLO Diplomacy
+385-SCOTY Scotland Yard
+395-DIPLO Diplomacy
+403-TAXIS Thurn and Taxis: Power and Glory
+405-ARCAN Arcana
+407-MUNCH Munchkin
+408-BOMBR The Suicide Bomber Card Game
+409-ENKOU Enkounter
+415-SOCCR World Cup Tournament Football
+427-HOPEN Down In Flames: Aces High
+ERRORS:
+**** Item 034-SMALL is repeated in want list for 030-DICET.
+**** Item 034-SMALL is repeated in want list for 072-PILLP.
+**** Item 034-SMALL is repeated in want list for 179-LYCRA.
+**** Item 034-SMALL is repeated in want list for 181-SLEGL.
+**** Item 034-SMALL is repeated in want list for 202-TBGGG.
+**** Item 034-SMALL is repeated in want list for 203-GLADI.
+**** Item 034-SMALL is repeated in want list for 206-AHILL.
+**** Item 034-SMALL is repeated in want list for 207-PATRI.
+
+Ozludo exceeded spending limit by 120
+ERRORS:
+**** Item 034-SMALL is repeated in want list for 030-DICET.
+**** Item 034-SMALL is repeated in want list for 072-PILLP.
+**** Item 034-SMALL is repeated in want list for 179-LYCRA.
+**** Item 034-SMALL is repeated in want list for 181-SLEGL.
+**** Item 034-SMALL is repeated in want list for 202-TBGGG.
+**** Item 034-SMALL is repeated in want list for 203-GLADI.
+**** Item 034-SMALL is repeated in want list for 206-AHILL.
+**** Item 034-SMALL is repeated in want list for 207-PATRI.
+
+Amiguero exceeded spending limit by 70
+ERRORS:
+**** Item 034-SMALL is repeated in want list for 030-DICET.
+**** Item 034-SMALL is repeated in want list for 072-PILLP.
+**** Item 034-SMALL is repeated in want list for 179-LYCRA.
+**** Item 034-SMALL is repeated in want list for 181-SLEGL.
+**** Item 034-SMALL is repeated in want list for 202-TBGGG.
+**** Item 034-SMALL is repeated in want list for 203-GLADI.
+**** Item 034-SMALL is repeated in want list for 206-AHILL.
+**** Item 034-SMALL is repeated in want list for 207-PATRI.
+
+happy_squid exceeded spending limit by 40
+ERRORS:
+**** Item 034-SMALL is repeated in want list for 030-DICET.
+**** Item 034-SMALL is repeated in want list for 072-PILLP.
+**** Item 034-SMALL is repeated in want list for 179-LYCRA.
+**** Item 034-SMALL is repeated in want list for 181-SLEGL.
+**** Item 034-SMALL is repeated in want list for 202-TBGGG.
+**** Item 034-SMALL is repeated in want list for 203-GLADI.
+**** Item 034-SMALL is repeated in want list for 206-AHILL.
+**** Item 034-SMALL is repeated in want list for 207-PATRI.
+
+Mark_Owen_Reich exceeded spending limit by 15
+ERRORS:
+**** Item 034-SMALL is repeated in want list for 030-DICET.
+**** Item 034-SMALL is repeated in want list for 072-PILLP.
+**** Item 034-SMALL is repeated in want list for 179-LYCRA.
+**** Item 034-SMALL is repeated in want list for 181-SLEGL.
+**** Item 034-SMALL is repeated in want list for 202-TBGGG.
+**** Item 034-SMALL is repeated in want list for 203-GLADI.
+**** Item 034-SMALL is repeated in want list for 206-AHILL.
+**** Item 034-SMALL is repeated in want list for 207-PATRI.
+
+TRADE LOOPS (227 total trades):
+
+062-EASTI from Friendless      receives $20 from Phil81
+$20 from Phil81                receives 062-EASTI from Friendless
+
+091-SINKS from Friendless      receives $30 from gerald
+$30 from gerald                receives 421-CAMPM from cyberkev63
+421-CAMPM from cyberkev63      receives $30 from Moose_Head
+$30 from Moose_Head            receives 070-STEEL from GeneSteeler
+070-STEEL from GeneSteeler     receives 073-PATON from petegs
+073-PATON from petegs          receives 160-CLASH from wilderness
+160-CLASH from wilderness      receives 006-MISRP from red turtle
+006-MISRP from red turtle      receives 156-LBOAT from wilderness
+156-LBOAT from wilderness      receives 177-FINCA from tiggers
+177-FINCA from tiggers         receives 306-FROZN from pusboyau
+306-FROZN from pusboyau        receives 145-DREAM from Unhalfbricking
+145-DREAM from Unhalfbricking  receives $45 from cyberkev63
+$45 from cyberkev63            receives 162-RAVEN from Neil Thomson
+162-RAVEN from Neil Thomson    receives 309-MEIER from hxbx
+309-MEIER from hxbx            receives 426-LLATE from PBrennan
+426-LLATE from PBrennan        receives 268-LABBY from AdamP
+268-LABBY from AdamP           receives 001-EMINE from tiggers
+001-EMINE from tiggers         receives 349-CHATR from Neil Thomson
+349-CHATR from Neil Thomson    receives 406-CRTHG from fFish
+406-CRTHG from fFish           receives 383-DANGL from nnf1
+383-DANGL from nnf1            receives $30 from gerald
+$30 from gerald                receives 091-SINKS from Friendless
+
+094-LARGO from Friendless      receives 393-MDGRD from Mark_Owen_Reich
+393-MDGRD from Mark_Owen_Reich receives $30 from Ozludo
+$30 from Ozludo                receives 374-RUMPY from ausminstrel
+374-RUMPY from ausminstrel     receives 135-SYARD from renacreon
+135-SYARD from renacreon       receives 337-POWER from Tezza
+337-POWER from Tezza           receives 023-GENOA from revgiblet
+023-GENOA from revgiblet       receives 313-LBOAT from hxbx
+313-LBOAT from hxbx            receives $30 from gerald
+$30 from gerald                receives 369-DUELA from ausminstrel
+369-DUELA from ausminstrel     receives 168-TTRSW from Kerbster76
+168-TTRSW from Kerbster76      receives 043-COLOS from Ykikamucow
+043-COLOS from Ykikamucow      receives $30 from Lucky Phil
+$30 from Lucky Phil            receives 201-ROLER from Oiler
+201-ROLER from Oiler           receives 410-BUZZZ from ubermensch
+410-BUZZZ from ubermensch      receives 046-CITAD from kathyb
+046-CITAD from kathyb          receives 350-TTRCG from Neil Thomson
+350-TTRCG from Neil Thomson    receives 418-PCAKE from tiggers
+418-PCAKE from tiggers         receives 211-DRUID from PBrennan
+211-DRUID from PBrennan        receives $30 from gerald
+$30 from gerald                receives 088-GALAC from some_guy
+088-GALAC from some_guy        receives 173-RFTGY from MrBaggy
+173-RFTGY from MrBaggy         receives 188-HAVAN from Ozludo
+188-HAVAN from Ozludo          receives 176-RUMPY from tiggers
+176-RUMPY from tiggers         receives 115-DESRT from AdamP
+115-DESRT from AdamP           receives 030-DICET from da pyrate
+030-DICET from da pyrate       receives 416-BLORE from tiggers
+416-BLORE from tiggers         receives 166-BFUTR from damnyouhussies
+166-BFUTR from damnyouhussies  receives 219-FELIX from PBrennan
+219-FELIX from PBrennan        receives $20 from gerald
+$20 from gerald                receives 198-MFITS from tiggers
+198-MFITS from tiggers         receives 265-HIIVE from Vila
+265-HIIVE from Vila            receives 390-LASCA from Mark_Owen_Reich
+390-LASCA from Mark_Owen_Reich receives $20 from spectre2661
+$20 from spectre2661           receives 356-OZMEN from nnf1
+356-OZMEN from nnf1            receives $20 from FinalAttack
+$20 from FinalAttack           receives 129-BUZZZ from Lucky Phil
+129-BUZZZ from Lucky Phil      receives 172-BSAFE from earthboot
+172-BSAFE from earthboot       receives 028-CAMPM from fateswanderer
+028-CAMPM from fateswanderer   receives $40 from gerald
+$40 from gerald                receives 038-PRICO from Ykikamucow
+038-PRICO from Ykikamucow      receives $40 from gerald
+$40 from gerald                receives 358-BSACK from nnf1
+358-BSACK from nnf1            receives $50 from pnit
+$50 from pnit                  receives 364-TBAGO from nnf1
+364-TBAGO from nnf1            receives $50 from Alleyooper
+$50 from Alleyooper            receives 400-NEXUS from fFish
+400-NEXUS from fFish           receives 411-GOSUU from cyberkev63
+411-GOSUU from cyberkev63      receives 165-LNOEZ from damnyouhussies
+165-LNOEZ from damnyouhussies  receives 094-LARGO from Friendless
+
+027-SUMON from goonahboy       receives 075-TIDEY from ateh
+075-TIDEY from ateh            receives 402-VILLA from fFish
+402-VILLA from fFish           receives 258-FRSCO from ubermensch
+258-FRSCO from ubermensch      receives 054-WORLD from AdamP
+054-WORLD from AdamP           receives 202-TBGGG from da pyrate
+202-TBGGG from da pyrate       receives 381-RMBLE from nnf1
+381-RMBLE from nnf1            receives 343-MHING from Neil Thomson
+343-MHING from Neil Thomson    receives 032-TOOMB from petegs
+032-TOOMB from petegs          receives 366-BBOWL from ausminstrel
+366-BBOWL from ausminstrel     receives 059-GHOST from Thiessi
+059-GHOST from Thiessi         receives 102-CATAN from FinalAttack
+102-CATAN from FinalAttack     receives 261-CTHLU from wilderness
+261-CTHLU from wilderness      receives 108-SHIPY from AdamP
+108-SHIPY from AdamP           receives 307-UNION from Scholle
+307-UNION from Scholle         receives $65 from Phil81
+$65 from Phil81                receives 147-SAMRI from Unhalfbricking
+147-SAMRI from Unhalfbricking  receives 014-POWFM from some_guy
+014-POWFM from some_guy        receives 283-CATAN from dlow
+283-CATAN from dlow            receives 256-CATHE from Paul65
+256-CATHE from Paul65          receives 282-CATAN from dlow
+282-CATAN from dlow            receives 359-BTROL from nnf1
+359-BTROL from nnf1            receives $25 from Phil81
+$25 from Phil81                receives 346-GREAT from Neil Thomson
+346-GREAT from Neil Thomson    receives 396-SPEED from Mark_Owen_Reich
+396-SPEED from Mark_Owen_Reich receives 419-KLTIS from tiggers
+419-KLTIS from tiggers         receives 024-LORDO from revgiblet
+024-LORDO from revgiblet       receives 187-CCAVE from Ozludo
+187-CCAVE from Ozludo          receives 025-TRUMP from revgiblet
+025-TRUMP from revgiblet       receives 131-FIELD from petegs
+131-FIELD from petegs          receives 287-ASLSK from wilderness
+287-ASLSK from wilderness      receives 026-REDNO from Dr Corey
+026-REDNO from Dr Corey        receives 229-LIARD from Kerbster76
+229-LIARD from Kerbster76      receives 361-FTALE from nnf1
+361-FTALE from nnf1            receives $15 from spectre2661
+$15 from spectre2661           receives 352-RBRGR from nnf1
+352-RBRGR from nnf1            receives $15 from Lucky Phil
+$15 from Lucky Phil            receives 355-RANDY from nnf1
+355-RANDY from nnf1            receives $15 from Moose_Head
+$15 from Moose_Head            receives 148-MEDIC from Lucky Phil
+148-MEDIC from Lucky Phil      receives 245-CANYN from Mariana
+245-CANYN from Mariana         receives 232-INYOD from Scholle
+232-INYOD from Scholle         receives $40 from pnit
+$40 from pnit                  receives 117-ABBEY from AdamP
+117-ABBEY from AdamP           receives 263-KLUSS from Vila
+263-KLUSS from Vila            receives 286-AMUNR from wilderness
+286-AMUNR from wilderness      receives 037-HANSA from Ykikamucow
+037-HANSA from Ykikamucow      receives $40 from cyberkev63
+$40 from cyberkev63            receives 146-BUNDL from Unhalfbricking
+146-BUNDL from Unhalfbricking  receives 386-PACKS from nnf1
+386-PACKS from nnf1            receives $55 from placid
+$55 from placid                receives 113-BWEST from AdamP
+113-BWEST from AdamP           receives 107-REALM from vanadamme
+107-REALM from vanadamme       receives 010-SPICE from some_guy
+010-SPICE from some_guy        receives 392-ROMAN from Mark_Owen_Reich
+392-ROMAN from Mark_Owen_Reich receives 384-FLIPR from nnf1
+384-FLIPR from nnf1            receives 329-IBOSS from happy_squid
+329-IBOSS from happy_squid     receives 222-KLUUS from Morka
+222-KLUUS from Morka           receives 034-SMALL from Ykikamucow
+034-SMALL from Ykikamucow      receives $50 from hxbx
+$50 from hxbx                  receives 191-ARMOR from Ozludo
+191-ARMOR from Ozludo          receives 018-KINGD from some_guy
+018-KINGD from some_guy        receives 414-DANGL from cyberkev63
+414-DANGL from cyberkev63      receives $25 from Tezza
+$25 from Tezza                 receives 417-BUNNY from cyberkev63
+417-BUNNY from cyberkev63      receives $30 from Moose_Head
+$30 from Moose_Head            receives 394-MCASH from Mark_Owen_Reich
+394-MCASH from Mark_Owen_Reich receives $40 from gerald
+$40 from gerald                receives 103-PRICO from FinalAttack
+103-PRICO from FinalAttack     receives 027-SUMON from goonahboy
+
+180-MPIRE from da pyrate       receives 055-COLOR from AdamP
+055-COLOR from AdamP           receives 169-RAVEN from earthboot
+169-RAVEN from earthboot       receives 093-TOUCH from MrBaggy
+093-TOUCH from MrBaggy         receives 120-NGHTY from ateh
+120-NGHTY from ateh            receives 133-ZOOLO from djcassar
+133-ZOOLO from djcassar        receives 315-CATAN from coxy_fc
+315-CATAN from coxy_fc         receives 294-ALADD from Scholle
+294-ALADD from Scholle         receives 377-ROMNS from ausminstrel
+377-ROMNS from ausminstrel     receives 086-BANDO from GeneSteeler
+086-BANDO from GeneSteeler     receives 195-UPFNT from Ozludo
+195-UPFNT from Ozludo          receives 299-EFRNT from petegs
+299-EFRNT from petegs          receives 184-TWIMP from Ozludo
+184-TWIMP from Ozludo          receives 049-UNDER from Dr Corey
+049-UNDER from Dr Corey        receives 194-HELLA from Ozludo
+194-HELLA from Ozludo          receives $25 from gerald
+$25 from gerald                receives 044-TRIDE from Ykikamucow
+044-TRIDE from Ykikamucow      receives $25 from Moose_Head
+$25 from Moose_Head            receives 138-BUNDL from Unhalfbricking
+138-BUNDL from Unhalfbricking  receives $30 from Lucky Phil
+$30 from Lucky Phil            receives 354-ZOFFY from nnf1
+354-ZOFFY from nnf1            receives $35 from cyberkev63
+$35 from cyberkev63            receives 379-RFTGY from ausminstrel
+379-RFTGY from ausminstrel     receives 330-LUUNA from happy_squid
+330-LUUNA from happy_squid     receives 244-RFTGY from pusboyau
+244-RFTGY from pusboyau        receives 317-LEADR from anomander64
+317-LEADR from anomander64     receives 045-NEWEN from some_guy
+045-NEWEN from some_guy        receives 130-PROPH from spectre2661
+130-PROPH from spectre2661     receives 250-FLAND from Paul65
+250-FLAND from Paul65          receives 387-DIXIT from nnf1
+387-DIXIT from nnf1            receives $35 from MrBaggy
+$35 from MrBaggy               receives 404-INNOV from fFish
+404-INNOV from fFish           receives 267-WEARP from Vila
+267-WEARP from Vila            receives 302-MODRT from prd1982
+302-MODRT from prd1982         receives 022-ABEAR from revgiblet
+022-ABEAR from revgiblet       receives 320-DREAM from chengr05
+320-DREAM from chengr05        receives 412-CORTM from grosse_au
+412-CORTM from grosse_au       receives 127-TORES from jod999
+127-TORES from jod999          receives 328-MABEY from happy_squid
+328-MABEY from happy_squid     receives 036-ACQUI from Ykikamucow
+036-ACQUI from Ykikamucow      receives $35 from Lucky Phil
+$35 from Lucky Phil            receives 382-DORIS from nnf1
+382-DORIS from nnf1            receives 281-BTLGR from dlow
+281-BTLGR from dlow            receives 104-DAYNI from vanadamme
+104-DAYNI from vanadamme       receives 264-NEXUS from Vila
+264-NEXUS from Vila            receives 121-NWRLD from ateh
+121-NWRLD from ateh            receives 179-LYCRA from da pyrate
+179-LYCRA from da pyrate       receives 106-TWIST from vanadamme
+106-TWIST from vanadamme       receives 095-KNITE from MrBaggy
+095-KNITE from MrBaggy         receives 040-JUNTA from Ykikamucow
+040-JUNTA from Ykikamucow      receives $40 from gerald
+$40 from gerald                receives 272-HOMES from AdamP
+272-HOMES from AdamP           receives 069-PRINC from GeneSteeler
+069-PRINC from GeneSteeler     receives 109-NORMY from petegs
+109-NORMY from petegs          receives 058-WAROR from Thiessi
+058-WAROR from Thiessi         receives 353-DUCKY from nnf1
+353-DUCKY from nnf1            receives $45 from prd1982
+$45 from prd1982               receives 243-SHOGN from Scholle
+243-SHOGN from Scholle         receives $60 from gerald
+$60 from gerald                receives 140-CARCA from Unhalfbricking
+140-CARCA from Unhalfbricking  receives 248-BACUS from Paul65
+248-BACUS from Paul65          receives 324-WINGS from chengr05
+324-WINGS from chengr05        receives 226-LOUIE from intheclear
+226-LOUIE from intheclear      receives 367-FALLN from ausminstrel
+367-FALLN from ausminstrel     receives 228-FACFU from intheclear
+228-FACFU from intheclear      receives 311-VINET from hxbx
+311-VINET from hxbx            receives 388-TOLDO from Mark_Owen_Reich
+388-TOLDO from Mark_Owen_Reich receives $40 from gerald
+$40 from gerald                receives 013-MEXIC from chengr05
+013-MEXIC from chengr05        receives 399-ITYOD from fFish
+399-ITYOD from fFish           receives 234-HOBIT from Scholle
+234-HOBIT from Scholle         receives 154-MONBY from wilderness
+154-MONBY from wilderness      receives 031-DUNGE from petegs
+031-DUNGE from petegs          receives 180-MPIRE from da pyrate
+
+170-PANZA from earthboot       receives 378-VICTR from ausminstrel
+378-VICTR from ausminstrel     receives 300-WAWBB from petegs
+300-WAWBB from petegs          receives 170-PANZA from earthboot
+
+144-ALHAM from Unhalfbricking  receives $35 from FinalAttack
+$35 from FinalAttack           receives 425-MNSTA from nnf1
+425-MNSTA from nnf1            receives $35 from Abanon
+$35 from Abanon                receives 331-GLENM from happy_squid
+331-GLENM from happy_squid     receives 335-EMINE from fateswanderer
+335-EMINE from fateswanderer   receives $45 from Lucky Phil
+$45 from Lucky Phil            receives 144-ALHAM from Unhalfbricking
+
+218-MONEY from PBrennan        receives $15 from pnit
+$15 from pnit                  receives 218-MONEY from PBrennan
+
+ITEM SUMMARY (227 total trades):
+
+$15 from Lucky Phil            receives 355-RANDY from nnf1            and sends to 352-RBRGR from nnf1
+$15 from Moose_Head            receives 148-MEDIC from Lucky Phil      and sends to 355-RANDY from nnf1
+$15 from pnit                  receives 218-MONEY from PBrennan        and sends to 218-MONEY from PBrennan
+$15 from spectre2661           receives 352-RBRGR from nnf1            and sends to 361-FTALE from nnf1
+$20 from FinalAttack           receives 129-BUZZZ from Lucky Phil      and sends to 356-OZMEN from nnf1
+$20 from Phil81                receives 062-EASTI from Friendless      and sends to 062-EASTI from Friendless
+$20 from gerald                receives 198-MFITS from tiggers         and sends to 219-FELIX from PBrennan
+$20 from spectre2661           receives 356-OZMEN from nnf1            and sends to 390-LASCA from Mark_Owen_Reich
+$25 from Moose_Head            receives 138-BUNDL from Unhalfbricking  and sends to 044-TRIDE from Ykikamucow
+$25 from Phil81                receives 346-GREAT from Neil Thomson    and sends to 359-BTROL from nnf1
+$25 from Tezza                 receives 417-BUNNY from cyberkev63      and sends to 414-DANGL from cyberkev63
+$25 from gerald                receives 044-TRIDE from Ykikamucow      and sends to 194-HELLA from Ozludo
+$30 from Lucky Phil            receives 201-ROLER from Oiler           and sends to 043-COLOS from Ykikamucow
+$30 from Lucky Phil            receives 354-ZOFFY from nnf1            and sends to 138-BUNDL from Unhalfbricking
+$30 from Moose_Head            receives 070-STEEL from GeneSteeler     and sends to 421-CAMPM from cyberkev63
+$30 from Moose_Head            receives 394-MCASH from Mark_Owen_Reich and sends to 417-BUNNY from cyberkev63
+$30 from Ozludo                receives 374-RUMPY from ausminstrel     and sends to 393-MDGRD from Mark_Owen_Reich
+$30 from gerald                receives 088-GALAC from some_guy        and sends to 211-DRUID from PBrennan
+$30 from gerald                receives 091-SINKS from Friendless      and sends to 383-DANGL from nnf1
+$30 from gerald                receives 369-DUELA from ausminstrel     and sends to 313-LBOAT from hxbx
+$30 from gerald                receives 421-CAMPM from cyberkev63      and sends to 091-SINKS from Friendless
+$35 from Abanon                receives 331-GLENM from happy_squid     and sends to 425-MNSTA from nnf1
+$35 from FinalAttack           receives 425-MNSTA from nnf1            and sends to 144-ALHAM from Unhalfbricking
+$35 from Lucky Phil            receives 382-DORIS from nnf1            and sends to 036-ACQUI from Ykikamucow
+$35 from MrBaggy               receives 404-INNOV from fFish           and sends to 387-DIXIT from nnf1
+$35 from cyberkev63            receives 379-RFTGY from ausminstrel     and sends to 354-ZOFFY from nnf1
+$40 from cyberkev63            receives 146-BUNDL from Unhalfbricking  and sends to 037-HANSA from Ykikamucow
+$40 from gerald                receives 013-MEXIC from chengr05        and sends to 388-TOLDO from Mark_Owen_Reich
+$40 from gerald                receives 038-PRICO from Ykikamucow      and sends to 028-CAMPM from fateswanderer
+$40 from gerald                receives 103-PRICO from FinalAttack     and sends to 394-MCASH from Mark_Owen_Reich
+$40 from gerald                receives 272-HOMES from AdamP           and sends to 040-JUNTA from Ykikamucow
+$40 from gerald                receives 358-BSACK from nnf1            and sends to 038-PRICO from Ykikamucow
+$40 from pnit                  receives 117-ABBEY from AdamP           and sends to 232-INYOD from Scholle
+$45 from Lucky Phil            receives 144-ALHAM from Unhalfbricking  and sends to 335-EMINE from fateswanderer
+$45 from cyberkev63            receives 162-RAVEN from Neil Thomson    and sends to 145-DREAM from Unhalfbricking
+$45 from prd1982               receives 243-SHOGN from Scholle         and sends to 353-DUCKY from nnf1
+$50 from Alleyooper            receives 400-NEXUS from fFish           and sends to 364-TBAGO from nnf1
+$50 from hxbx                  receives 191-ARMOR from Ozludo          and sends to 034-SMALL from Ykikamucow
+$50 from pnit                  receives 364-TBAGO from nnf1            and sends to 358-BSACK from nnf1
+$55 from placid                receives 113-BWEST from AdamP           and sends to 386-PACKS from nnf1
+$60 from gerald                receives 140-CARCA from Unhalfbricking  and sends to 243-SHOGN from Scholle
+$65 from Phil81                receives 147-SAMRI from Unhalfbricking  and sends to 307-UNION from Scholle
+001-EMINE from tiggers         receives 349-CHATR from Neil Thomson    and sends to 268-LABBY from AdamP
+002-MOTOG from Neil Thomson                does not trade
+003-DUELO from red turtle                  does not trade
+004-PRIMO from red turtle                  does not trade
+005-CARCA from red turtle                  does not trade
+006-MISRP from red turtle      receives 156-LBOAT from wilderness      and sends to 160-CLASH from wilderness
+007-CUTCA from red turtle                  does not trade
+008-BAAAA from red turtle                  does not trade
+009-DRUNT from red turtle                  does not trade
+010-SPICE from some_guy        receives 392-ROMAN from Mark_Owen_Reich and sends to 107-REALM from vanadamme
+011-DOMAL from placid                      does not trade
+012-BLOOD from chengr05                    does not trade
+013-MEXIC from chengr05        receives 399-ITYOD from fFish           and sends to $40 from gerald
+014-POWFM from some_guy        receives 283-CATAN from dlow            and sends to 147-SAMRI from Unhalfbricking
+015-NEXOP from some_guy                    does not trade
+016-KILLR from some_guy                    does not trade
+017-BAANG from some_guy                    does not trade
+018-KINGD from some_guy        receives 414-DANGL from cyberkev63      and sends to 191-ARMOR from Ozludo
+019-RHOOD from Moose_Head                  does not trade
+020-AMBUS from revgiblet                   does not trade
+021-BOOTS from revgiblet                   does not trade
+022-ABEAR from revgiblet       receives 320-DREAM from chengr05        and sends to 302-MODRT from prd1982
+023-GENOA from revgiblet       receives 313-LBOAT from hxbx            and sends to 337-POWER from Tezza
+024-LORDO from revgiblet       receives 187-CCAVE from Ozludo          and sends to 419-KLTIS from tiggers
+025-TRUMP from revgiblet       receives 131-FIELD from petegs          and sends to 187-CCAVE from Ozludo
+026-REDNO from Dr Corey        receives 229-LIARD from Kerbster76      and sends to 287-ASLSK from wilderness
+027-SUMON from goonahboy       receives 075-TIDEY from ateh            and sends to 103-PRICO from FinalAttack
+028-CAMPM from fateswanderer   receives $40 from gerald                and sends to 172-BSAFE from earthboot
+029-SOLDD from fateswanderer               does not trade
+030-DICET from da pyrate       receives 416-BLORE from tiggers         and sends to 115-DESRT from AdamP
+031-DUNGE from petegs          receives 180-MPIRE from da pyrate       and sends to 154-MONBY from wilderness
+032-TOOMB from petegs          receives 366-BBOWL from ausminstrel     and sends to 343-MHING from Neil Thomson
+033-MAGEK from Ykikamucow                  does not trade
+034-SMALL from Ykikamucow      receives $50 from hxbx                  and sends to 222-KLUUS from Morka
+035-ARCTI from Ykikamucow                  does not trade
+036-ACQUI from Ykikamucow      receives $35 from Lucky Phil            and sends to 328-MABEY from happy_squid
+037-HANSA from Ykikamucow      receives $40 from cyberkev63            and sends to 286-AMUNR from wilderness
+038-PRICO from Ykikamucow      receives $40 from gerald                and sends to $40 from gerald
+039-TIKAL from Ykikamucow                  does not trade
+040-JUNTA from Ykikamucow      receives $40 from gerald                and sends to 095-KNITE from MrBaggy
+041-FRONT from Ykikamucow                  does not trade
+042-ARRGH from Ykikamucow                  does not trade
+043-COLOS from Ykikamucow      receives $30 from Lucky Phil            and sends to 168-TTRSW from Kerbster76
+044-TRIDE from Ykikamucow      receives $25 from Moose_Head            and sends to $25 from gerald
+045-NEWEN from some_guy        receives 130-PROPH from spectre2661     and sends to 317-LEADR from anomander64
+046-CITAD from kathyb          receives 350-TTRCG from Neil Thomson    and sends to 410-BUZZZ from ubermensch
+047-CARTB from kathyb                      does not trade
+048-STONE from Dr Corey                    does not trade
+049-UNDER from Dr Corey        receives 194-HELLA from Ozludo          and sends to 184-TWIMP from Ozludo
+050-DEBEL from Friendless                  does not trade
+051-FLOOD from AdamP                       does not trade
+052-WELLI from AdamP                       does not trade
+053-CAVUM from AdamP                       does not trade
+054-WORLD from AdamP           receives 202-TBGGG from da pyrate       and sends to 258-FRSCO from ubermensch
+055-COLOR from AdamP           receives 169-RAVEN from earthboot       and sends to 180-MPIRE from da pyrate
+056-KRAKO from AdamP                       does not trade
+057-TWIST from Thiessi                     does not trade
+058-WAROR from Thiessi         receives 353-DUCKY from nnf1            and sends to 109-NORMY from petegs
+059-GHOST from Thiessi         receives 102-CATAN from FinalAttack     and sends to 366-BBOWL from ausminstrel
+060-BUNDL from da pyrate                   does not trade
+061-KAHUN from Friendless                  does not trade
+062-EASTI from Friendless      receives $20 from Phil81                and sends to $20 from Phil81
+063-CARCD from Amiguero                    does not trade
+064-SOLDD from Amiguero                    does not trade
+065-SOLDD from Amiguero                    does not trade
+066-LUPUS from Amiguero                    does not trade
+067-WARRI from GeneSteeler                 does not trade
+068-PANZA from GeneSteeler                 does not trade
+069-PRINC from GeneSteeler     receives 109-NORMY from petegs          and sends to 272-HOMES from AdamP
+070-STEEL from GeneSteeler     receives 073-PATON from petegs          and sends to $30 from Moose_Head
+071-ROMEQ from GeneSteeler                 does not trade
+072-PILLP from da pyrate                   does not trade
+073-PATON from petegs          receives 160-CLASH from wilderness      and sends to 070-STEEL from GeneSteeler
+074-NORMY from petegs                      does not trade
+075-TIDEY from ateh            receives 402-VILLA from fFish           and sends to 027-SUMON from goonahboy
+076-CASTL from ateh                        does not trade
+077-FURYD from prd1982                     does not trade
+078-ACQUI from prd1982                     does not trade
+079-GIANT from prd1982                     does not trade
+080-KINGS from prd1982                     does not trade
+081-TIKAL from prd1982                     does not trade
+082-WITHD from prd1982                     does not trade
+083-BBALL from prd1982                     does not trade
+084-COLAZ from Friendless                  does not trade
+085-LIBER from Lucky Phil                  does not trade
+086-BANDO from GeneSteeler     receives 195-UPFNT from Ozludo          and sends to 377-ROMNS from ausminstrel
+087-CITTA from GeneSteeler                 does not trade
+088-GALAC from some_guy        receives 173-RFTGY from MrBaggy         and sends to $30 from gerald
+089-MIDGA from some_guy                    does not trade
+090-MAAGS from some_guy                    does not trade
+091-SINKS from Friendless      receives $30 from gerald                and sends to $30 from gerald
+092-BTCRY from MrBaggy                     does not trade
+093-TOUCH from MrBaggy         receives 120-NGHTY from ateh            and sends to 169-RAVEN from earthboot
+094-LARGO from Friendless      receives 393-MDGRD from Mark_Owen_Reich and sends to 165-LNOEZ from damnyouhussies
+095-KNITE from MrBaggy         receives 040-JUNTA from Ykikamucow      and sends to 106-TWIST from vanadamme
+096-CAMEL from MrBaggy                     does not trade
+097-TOOMB from FinalAttack                 does not trade
+098-CRCHG from FinalAttack                 does not trade
+099-NEXUS from FinalAttack                 does not trade
+100-BLORE from FinalAttack                 does not trade
+101-ANGEL from FinalAttack                 does not trade
+102-CATAN from FinalAttack     receives 261-CTHLU from wilderness      and sends to 059-GHOST from Thiessi
+103-PRICO from FinalAttack     receives 027-SUMON from goonahboy       and sends to $40 from gerald
+104-DAYNI from vanadamme       receives 264-NEXUS from Vila            and sends to 281-BTLGR from dlow
+105-WNITE from vanadamme                   does not trade
+106-TWIST from vanadamme       receives 095-KNITE from MrBaggy         and sends to 179-LYCRA from da pyrate
+107-REALM from vanadamme       receives 010-SPICE from some_guy        and sends to 113-BWEST from AdamP
+108-SHIPY from AdamP           receives 307-UNION from Scholle         and sends to 261-CTHLU from wilderness
+109-NORMY from petegs          receives 058-WAROR from Thiessi         and sends to 069-PRINC from GeneSteeler
+110-GANGS from petegs                      does not trade
+111-GLORY from petegs                      does not trade
+112-LONDN from AdamP                       does not trade
+113-BWEST from AdamP           receives 107-REALM from vanadamme       and sends to $55 from placid
+114-GZAGA from AdamP                       does not trade
+115-DESRT from AdamP           receives 030-DICET from da pyrate       and sends to 176-RUMPY from tiggers
+116-OPERA from AdamP                       does not trade
+117-ABBEY from AdamP           receives 263-KLUSS from Vila            and sends to $40 from pnit
+118-WILDW from AdamP                       does not trade
+119-TTIDE from Amiguero                    does not trade
+120-NGHTY from ateh            receives 133-ZOOLO from djcassar        and sends to 093-TOUCH from MrBaggy
+121-NWRLD from ateh            receives 179-LYCRA from da pyrate       and sends to 264-NEXUS from Vila
+122-GUESS from jod999                      does not trade
+123-LEAKY from jod999                      does not trade
+124-HONOR from jod999                      does not trade
+125-ROIDS from jod999                      does not trade
+126-WIZWR from jod999                      does not trade
+127-TORES from jod999          receives 328-MABEY from happy_squid     and sends to 412-CORTM from grosse_au
+128-CAMPA from jod999                      does not trade
+129-BUZZZ from Lucky Phil      receives 172-BSAFE from earthboot       and sends to $20 from FinalAttack
+130-PROPH from spectre2661     receives 250-FLAND from Paul65          and sends to 045-NEWEN from some_guy
+131-FIELD from petegs          receives 287-ASLSK from wilderness      and sends to 025-TRUMP from revgiblet
+132-STARS from GeneSteeler                 does not trade
+133-ZOOLO from djcassar        receives 315-CATAN from coxy_fc         and sends to 120-NGHTY from ateh
+134-DEVIL from djcassar                    does not trade
+135-SYARD from renacreon       receives 337-POWER from Tezza           and sends to 374-RUMPY from ausminstrel
+136-CRANI from renacreon                   does not trade
+137-MYKER from Unhalfbricking              does not trade
+138-BUNDL from Unhalfbricking  receives $30 from Lucky Phil            and sends to $25 from Moose_Head
+139-TIMBU from Unhalfbricking              does not trade
+140-CARCA from Unhalfbricking  receives 248-BACUS from Paul65          and sends to $60 from gerald
+141-HANSA from Unhalfbricking              does not trade
+142-SSOLD from Unhalfbricking              does not trade
+143-TAXIS from kathyb                      does not trade
+144-ALHAM from Unhalfbricking  receives $35 from FinalAttack           and sends to $45 from Lucky Phil
+145-DREAM from Unhalfbricking  receives $45 from cyberkev63            and sends to 306-FROZN from pusboyau
+146-BUNDL from Unhalfbricking  receives 386-PACKS from nnf1            and sends to $40 from cyberkev63
+147-SAMRI from Unhalfbricking  receives 014-POWFM from some_guy        and sends to $65 from Phil81
+148-MEDIC from Lucky Phil      receives 245-CANYN from Mariana         and sends to $15 from Moose_Head
+149-CUUBA from wilderness                  does not trade
+150-ARKAD from wilderness                  does not trade
+151-BOOTS from wilderness                  does not trade
+152-CASTL from wilderness                  does not trade
+153-CAMEL from wilderness                  does not trade
+154-MONBY from wilderness      receives 031-DUNGE from petegs          and sends to 234-HOBIT from Scholle
+155-SANTI from wilderness                  does not trade
+156-LBOAT from wilderness      receives 177-FINCA from tiggers         and sends to 006-MISRP from red turtle
+157-ABEAR from wilderness                  does not trade
+158-LEONV from wilderness                  does not trade
+159-ZEERO from wilderness                  does not trade
+160-CLASH from wilderness      receives 006-MISRP from red turtle      and sends to 073-PATON from petegs
+161-NENGL from wilderness                  does not trade
+162-RAVEN from Neil Thomson    receives 309-MEIER from hxbx            and sends to $45 from cyberkev63
+163-DUNGQ from Neil Thomson                does not trade
+164-WOWAG from Neil Thomson                does not trade
+165-LNOEZ from damnyouhussies  receives 094-LARGO from Friendless      and sends to 411-GOSUU from cyberkev63
+166-BFUTR from damnyouhussies  receives 219-FELIX from PBrennan        and sends to 416-BLORE from tiggers
+167-PUPPT from Kerbster76                  does not trade
+168-TTRSW from Kerbster76      receives 043-COLOS from Ykikamucow      and sends to 369-DUELA from ausminstrel
+169-RAVEN from earthboot       receives 093-TOUCH from MrBaggy         and sends to 055-COLOR from AdamP
+170-PANZA from earthboot       receives 378-VICTR from ausminstrel     and sends to 300-WAWBB from petegs
+171-JAMES from earthboot                   does not trade
+172-BSAFE from earthboot       receives 028-CAMPM from fateswanderer   and sends to 129-BUZZZ from Lucky Phil
+173-RFTGY from MrBaggy         receives 188-HAVAN from Ozludo          and sends to 088-GALAC from some_guy
+174-ITYOD from MrBaggy                     does not trade
+175-SWARM from tiggers                     does not trade
+176-RUMPY from tiggers         receives 115-DESRT from AdamP           and sends to 188-HAVAN from Ozludo
+177-FINCA from tiggers         receives 306-FROZN from pusboyau        and sends to 156-LBOAT from wilderness
+178-LOUIE from earthboot                   does not trade
+179-LYCRA from da pyrate       receives 106-TWIST from vanadamme       and sends to 121-NWRLD from ateh
+180-MPIRE from da pyrate       receives 055-COLOR from AdamP           and sends to 031-DUNGE from petegs
+181-SLEGL from da pyrate                   does not trade
+182-CATAN from some_guy                    does not trade
+183-BUNDL from red_gamster                 does not trade
+184-TWIMP from Ozludo          receives 049-UNDER from Dr Corey        and sends to 299-EFRNT from petegs
+185-WQEST from Ozludo                      does not trade
+186-TYPHO from Ozludo                      does not trade
+187-CCAVE from Ozludo          receives 025-TRUMP from revgiblet       and sends to 024-LORDO from revgiblet
+188-HAVAN from Ozludo          receives 176-RUMPY from tiggers         and sends to 173-RFTGY from MrBaggy
+189-MOART from Ozludo                      does not trade
+190-KINGQ from Ozludo                      does not trade
+191-ARMOR from Ozludo          receives 018-KINGD from some_guy        and sends to $50 from hxbx
+192-SSOLD from Ozludo                      does not trade
+193-CORSR from Ozludo                      does not trade
+194-HELLA from Ozludo          receives $25 from gerald                and sends to 049-UNDER from Dr Corey
+195-UPFNT from Ozludo          receives 299-EFRNT from petegs          and sends to 086-BANDO from GeneSteeler
+196-EGULF from Ozludo                      does not trade
+197-DNITE from Aneirin                     does not trade
+198-MFITS from tiggers         receives 265-HIIVE from Vila            and sends to $20 from gerald
+199-BBURN from tiggers                     does not trade
+200-DIGGY from prd1982                     does not trade
+201-ROLER from Oiler           receives 410-BUZZZ from ubermensch      and sends to $30 from Lucky Phil
+202-TBGGG from da pyrate       receives 381-RMBLE from nnf1            and sends to 054-WORLD from AdamP
+203-GLADI from da pyrate                   does not trade
+204-HOGAN from da pyrate                   does not trade
+205-WATSE from da pyrate                   does not trade
+206-AHILL from da pyrate                   does not trade
+207-PATRI from da pyrate                   does not trade
+208-SAGES from PBrennan                    does not trade
+209-BRIGE from PBrennan                    does not trade
+210-SSOLD from PBrennan                    does not trade
+211-DRUID from PBrennan        receives $30 from gerald                and sends to 418-PCAKE from tiggers
+212-GRLLA from PBrennan                    does not trade
+213-LUNAL from PBrennan                    does not trade
+214-PZARO from PBrennan                    does not trade
+215-DIMVP from PBrennan                    does not trade
+216-ENTDK from PBrennan                    does not trade
+217-PLAZO from PBrennan                    does not trade
+218-MONEY from PBrennan        receives $15 from pnit                  and sends to $15 from pnit
+219-FELIX from PBrennan        receives $20 from gerald                and sends to 166-BFUTR from damnyouhussies
+220-SLORD from PBrennan                    does not trade
+221-KTION from PBrennan                    does not trade
+222-KLUUS from Morka           receives 034-SMALL from Ykikamucow      and sends to 329-IBOSS from happy_squid
+223-BURST from Morka                       does not trade
+224-NRWCH from Morka                       does not trade
+225-RISKY from Morka                       does not trade
+226-LOUIE from intheclear      receives 367-FALLN from ausminstrel     and sends to 324-WINGS from chengr05
+227-TWIMP from intheclear                  does not trade
+228-FACFU from intheclear      receives 311-VINET from hxbx            and sends to 367-FALLN from ausminstrel
+229-LIARD from Kerbster76      receives 361-FTALE from nnf1            and sends to 026-REDNO from Dr Corey
+230-LORDY from GeneSteeler                 does not trade
+231-BATAV from Scholle                     does not trade
+232-INYOD from Scholle         receives $40 from pnit                  and sends to 245-CANYN from Mariana
+233-KHEXE from Scholle                     does not trade
+234-HOBIT from Scholle         receives 154-MONBY from wilderness      and sends to 399-ITYOD from fFish
+235-SSOLD from Scholle                     does not trade
+236-SOPHI from Scholle                     does not trade
+237-WDRWN from Scholle                     does not trade
+238-TYRUS from Scholle                     does not trade
+239-DELTO from Scholle                     does not trade
+240-WDRWN from Scholle                     does not trade
+241-WDRWN from Scholle                     does not trade
+242-HACIE from Scholle                     does not trade
+243-SHOGN from Scholle         receives $60 from gerald                and sends to $45 from prd1982
+244-RFTGY from pusboyau        receives 317-LEADR from anomander64     and sends to 330-LUUNA from happy_squid
+245-CANYN from Mariana         receives 232-INYOD from Scholle         and sends to 148-MEDIC from Lucky Phil
+246-HERAZ from Mariana                     does not trade
+247-WARSE from Mariana                     does not trade
+248-BACUS from Paul65          receives 324-WINGS from chengr05        and sends to 140-CARCA from Unhalfbricking
+249-BAAAA from Paul65                      does not trade
+250-FLAND from Paul65          receives 387-DIXIT from nnf1            and sends to 130-PROPH from spectre2661
+251-RROAD from Paul65                      does not trade
+252-CCITY from Paul65                      does not trade
+253-CARCC from Paul65                      does not trade
+254-MEDIC from Paul65                      does not trade
+255-BUNDL from Paul65                      does not trade
+256-CATHE from Paul65          receives 282-CATAN from dlow            and sends to 283-CATAN from dlow
+257-CRSON from ubermensch                  does not trade
+258-FRSCO from ubermensch      receives 054-WORLD from AdamP           and sends to 402-VILLA from fFish
+259-JAMCA from ubermensch                  does not trade
+260-KCHIN from ubermensch                  does not trade
+261-CTHLU from wilderness      receives 108-SHIPY from AdamP           and sends to 102-CATAN from FinalAttack
+262-DMAYO from Vila                        does not trade
+263-KLUSS from Vila            receives 286-AMUNR from wilderness      and sends to 117-ABBEY from AdamP
+264-NEXUS from Vila            receives 121-NWRLD from ateh            and sends to 104-DAYNI from vanadamme
+265-HIIVE from Vila            receives 390-LASCA from Mark_Owen_Reich and sends to 198-MFITS from tiggers
+266-MONMA from Vila                        does not trade
+267-WEARP from Vila            receives 302-MODRT from prd1982         and sends to 404-INNOV from fFish
+268-LABBY from AdamP           receives 001-EMINE from tiggers         and sends to 426-LLATE from PBrennan
+269-HAMMA from AdamP                       does not trade
+270-DMANE from AdamP                       does not trade
+271-CNTRY from AdamP                       does not trade
+272-HOMES from AdamP           receives 069-PRINC from GeneSteeler     and sends to $40 from gerald
+273-HANNI from AdamP                       does not trade
+274-VASCO from AdamP                       does not trade
+275-SIZLE from AdamP                       does not trade
+276-DLORD from AdamP                       does not trade
+277-LCTBG from AdamP                       does not trade
+278-KATUV from dlow                        does not trade
+279-WARRI from dlow                        does not trade
+280-CAMEL from AdamP                       does not trade
+281-BTLGR from dlow            receives 104-DAYNI from vanadamme       and sends to 382-DORIS from nnf1
+282-CATAN from dlow            receives 359-BTROL from nnf1            and sends to 256-CATHE from Paul65
+283-CATAN from dlow            receives 256-CATHE from Paul65          and sends to 014-POWFM from some_guy
+284-CATAN from dlow                        does not trade
+285-WTHDR from wilderness                  does not trade
+286-AMUNR from wilderness      receives 037-HANSA from Ykikamucow      and sends to 263-KLUSS from Vila
+287-ASLSK from wilderness      receives 026-REDNO from Dr Corey        and sends to 131-FIELD from petegs
+288-ETORP from Scholle                     does not trade
+289-AARGH from Scholle                     does not trade
+290-WASTE from Scholle                     does not trade
+291-HARET from Scholle                     does not trade
+292-DOCTA from Scholle                     does not trade
+293-ARCDE from Scholle                     does not trade
+294-ALADD from Scholle         receives 377-ROMNS from ausminstrel     and sends to 315-CATAN from coxy_fc
+295-AWSME from Scholle                     does not trade
+296-WDRWN from Scholle                     does not trade
+297-RANDY from Scholle                     does not trade
+298-PUNIC from petegs                      does not trade
+299-EFRNT from petegs          receives 184-TWIMP from Ozludo          and sends to 195-UPFNT from Ozludo
+300-WAWBB from petegs          receives 170-PANZA from earthboot       and sends to 378-VICTR from ausminstrel
+301-MERCH from the_pirate                  does not trade
+302-MODRT from prd1982         receives 022-ABEAR from revgiblet       and sends to 267-WEARP from Vila
+303-TWIST from FinalAttack                 does not trade
+304-ROBOD from prd1982                     does not trade
+305-INSRT from prd1982                     does not trade
+306-FROZN from pusboyau        receives 145-DREAM from Unhalfbricking  and sends to 177-FINCA from tiggers
+307-UNION from Scholle         receives $65 from Phil81                and sends to 108-SHIPY from AdamP
+308-DUTCH from Scholle                     does not trade
+309-MEIER from hxbx            receives 426-LLATE from PBrennan        and sends to 162-RAVEN from Neil Thomson
+310-ANTKE from hxbx                        does not trade
+311-VINET from hxbx            receives 388-TOLDO from Mark_Owen_Reich and sends to 228-FACFU from intheclear
+312-TRIUM from hxbx                        does not trade
+313-LBOAT from hxbx            receives $30 from gerald                and sends to 023-GENOA from revgiblet
+314-DOMIN from coxy_fc                     does not trade
+315-CATAN from coxy_fc         receives 294-ALADD from Scholle         and sends to 133-ZOOLO from djcassar
+316-SSOLD from lokides                     does not trade
+317-LEADR from anomander64     receives 045-NEWEN from some_guy        and sends to 244-RFTGY from pusboyau
+318-CATAN from FinalAttack                 does not trade
+319-COWBY from chengr05                    does not trade
+320-DREAM from chengr05        receives 412-CORTM from grosse_au       and sends to 022-ABEAR from revgiblet
+321-HALOW from chengr05                    does not trade
+322-MDGRD from chengr05                    does not trade
+323-BATAV from chengr05                    does not trade
+324-WINGS from chengr05        receives 226-LOUIE from intheclear      and sends to 248-BACUS from Paul65
+325-SKYBR from chengr05                    does not trade
+326-DELTA from chengr05                    does not trade
+327-DIPLO from happy_squid                 does not trade
+328-MABEY from happy_squid     receives 036-ACQUI from Ykikamucow      and sends to 127-TORES from jod999
+329-IBOSS from happy_squid     receives 222-KLUUS from Morka           and sends to 384-FLIPR from nnf1
+330-LUUNA from happy_squid     receives 244-RFTGY from pusboyau        and sends to 379-RFTGY from ausminstrel
+331-GLENM from happy_squid     receives 335-EMINE from fateswanderer   and sends to $35 from Abanon
+332-GENJI from fateswanderer               does not trade
+333-BEANS from fateswanderer               does not trade
+334-OWNER from fateswanderer               does not trade
+335-EMINE from fateswanderer   receives $45 from Lucky Phil            and sends to 331-GLENM from happy_squid
+336-ADVSL from red_gamster                 does not trade
+337-POWER from Tezza           receives 023-GENOA from revgiblet       and sends to 135-SYARD from renacreon
+338-NIGRA from Tezza                       does not trade
+339-VEGAS from Tezza                       does not trade
+340-TBGGG from Tezza                       does not trade
+341-ARENA from Neil Thomson                does not trade
+342-ASHIP from Neil Thomson                does not trade
+343-MHING from Neil Thomson    receives 032-TOOMB from petegs          and sends to 381-RMBLE from nnf1
+344-HURRY from Neil Thomson                does not trade
+345-DANCE from Neil Thomson                does not trade
+346-GREAT from Neil Thomson    receives 396-SPEED from Mark_Owen_Reich and sends to $25 from Phil81
+347-STRUG from Neil Thomson                does not trade
+348-MAGIC from Neil Thomson                does not trade
+349-CHATR from Neil Thomson    receives 406-CRTHG from fFish           and sends to 001-EMINE from tiggers
+350-TTRCG from Neil Thomson    receives 418-PCAKE from tiggers         and sends to 046-CITAD from kathyb
+351-WORDS from djcassar                    does not trade
+352-RBRGR from nnf1            receives $15 from Lucky Phil            and sends to $15 from spectre2661
+353-DUCKY from nnf1            receives $45 from prd1982               and sends to 058-WAROR from Thiessi
+354-ZOFFY from nnf1            receives $35 from cyberkev63            and sends to $30 from Lucky Phil
+355-RANDY from nnf1            receives $15 from Moose_Head            and sends to $15 from Lucky Phil
+356-OZMEN from nnf1            receives $20 from FinalAttack           and sends to $20 from spectre2661
+357-BARBY from nnf1                        does not trade
+358-BSACK from nnf1            receives $50 from pnit                  and sends to $40 from gerald
+359-BTROL from nnf1            receives $25 from Phil81                and sends to 282-CATAN from dlow
+360-DQCAT from nnf1                        does not trade
+361-FTALE from nnf1            receives $15 from spectre2661           and sends to 229-LIARD from Kerbster76
+362-MLABY from nnf1                        does not trade
+363-POLAR from nnf1                        does not trade
+364-TBAGO from nnf1            receives $50 from Alleyooper            and sends to $50 from pnit
+365-BHILL from ausminstrel                 does not trade
+366-BBOWL from ausminstrel     receives 059-GHOST from Thiessi         and sends to 032-TOOMB from petegs
+367-FALLN from ausminstrel     receives 228-FACFU from intheclear      and sends to 226-LOUIE from intheclear
+368-DIPLO from ausminstrel                 does not trade
+369-DUELA from ausminstrel     receives 168-TTRSW from Kerbster76      and sends to $30 from gerald
+370-TRIUM from ausminstrel                 does not trade
+371-LLENA from ausminstrel                 does not trade
+372-PATON from ausminstrel                 does not trade
+373-ROBBR from ausminstrel                 does not trade
+374-RUMPY from ausminstrel     receives 135-SYARD from renacreon       and sends to $30 from Ozludo
+375-SHZAM from ausminstrel                 does not trade
+376-TSMAN from ausminstrel                 does not trade
+377-ROMNS from ausminstrel     receives 086-BANDO from GeneSteeler     and sends to 294-ALADD from Scholle
+378-VICTR from ausminstrel     receives 300-WAWBB from petegs          and sends to 170-PANZA from earthboot
+379-RFTGY from ausminstrel     receives 330-LUUNA from happy_squid     and sends to $35 from cyberkev63
+380-REICH from ausminstrel                 does not trade
+381-RMBLE from nnf1            receives 343-MHING from Neil Thomson    and sends to 202-TBGGG from da pyrate
+382-DORIS from nnf1            receives 281-BTLGR from dlow            and sends to $35 from Lucky Phil
+383-DANGL from nnf1            receives $30 from gerald                and sends to 406-CRTHG from fFish
+384-FLIPR from nnf1            receives 329-IBOSS from happy_squid     and sends to 392-ROMAN from Mark_Owen_Reich
+385-SCOTY from nnf1                        does not trade
+386-PACKS from nnf1            receives $55 from placid                and sends to 146-BUNDL from Unhalfbricking
+387-DIXIT from nnf1            receives $35 from MrBaggy               and sends to 250-FLAND from Paul65
+388-TOLDO from Mark_Owen_Reich receives $40 from gerald                and sends to 311-VINET from hxbx
+389-WULFL from Mark_Owen_Reich             does not trade
+390-LASCA from Mark_Owen_Reich receives $20 from spectre2661           and sends to 265-HIIVE from Vila
+391-NWENG from Mark_Owen_Reich             does not trade
+392-ROMAN from Mark_Owen_Reich receives 384-FLIPR from nnf1            and sends to 010-SPICE from some_guy
+393-MDGRD from Mark_Owen_Reich receives $30 from Ozludo                and sends to 094-LARGO from Friendless
+394-MCASH from Mark_Owen_Reich receives $40 from gerald                and sends to $30 from Moose_Head
+395-DIPLO from Mark_Owen_Reich             does not trade
+396-SPEED from Mark_Owen_Reich receives 419-KLTIS from tiggers         and sends to 346-GREAT from Neil Thomson
+397-ACOLA from fFish                       does not trade
+398-DOOOM from fFish                       does not trade
+399-ITYOD from fFish           receives 234-HOBIT from Scholle         and sends to 013-MEXIC from chengr05
+400-NEXUS from fFish           receives 411-GOSUU from cyberkev63      and sends to $50 from Alleyooper
+401-FACMA from fFish                       does not trade
+402-VILLA from fFish           receives 258-FRSCO from ubermensch      and sends to 075-TIDEY from ateh
+403-TAXIS from fFish                       does not trade
+404-INNOV from fFish           receives 267-WEARP from Vila            and sends to $35 from MrBaggy
+405-ARCAN from fFish                       does not trade
+406-CRTHG from fFish           receives 383-DANGL from nnf1            and sends to 349-CHATR from Neil Thomson
+407-MUNCH from fFish                       does not trade
+408-BOMBR from ubermensch                  does not trade
+409-ENKOU from ubermensch                  does not trade
+410-BUZZZ from ubermensch      receives 046-CITAD from kathyb          and sends to 201-ROLER from Oiler
+411-GOSUU from cyberkev63      receives 165-LNOEZ from damnyouhussies  and sends to 400-NEXUS from fFish
+412-CORTM from grosse_au       receives 127-TORES from jod999          and sends to 320-DREAM from chengr05
+413-DAYUS from grosse_au                   does not trade
+414-DANGL from cyberkev63      receives $25 from Tezza                 and sends to 018-KINGD from some_guy
+415-SOCCR from grosse_au                   does not trade
+416-BLORE from tiggers         receives 166-BFUTR from damnyouhussies  and sends to 030-DICET from da pyrate
+417-BUNNY from cyberkev63      receives $30 from Moose_Head            and sends to $25 from Tezza
+418-PCAKE from tiggers         receives 211-DRUID from PBrennan        and sends to 350-TTRCG from Neil Thomson
+419-KLTIS from tiggers         receives 024-LORDO from revgiblet       and sends to 396-SPEED from Mark_Owen_Reich
+420-COLOS from tiggers                     does not trade
+421-CAMPM from cyberkev63      receives $30 from Moose_Head            and sends to $30 from gerald
+422-DMANE from Paul65                      does not trade
+423-CURRY from Paul65                      does not trade
+424-OMARE from Paul65                      does not trade
+425-MNSTA from nnf1            receives $35 from Abanon                and sends to $35 from FinalAttack
+426-LLATE from PBrennan        receives 268-LABBY from AdamP           and sends to 309-MEIER from hxbx
+427-HOPEN from da pyrate                   does not trade
+
+Num trades  = 227
+Total cost  = 200922 (avg 885.12)
+Num groups  = 8
+Group sizes = 73 69 49 22 7 3 2 2
+Sum squares = 13041
+
+ITEMS FOR WHICH NO WANTS HAVE BEEN SUBMITTED (0)
+
+USERS WHO STILL HAVE TO SUBMIT WANTS (0)
+
+Process finished with exit code 0
+

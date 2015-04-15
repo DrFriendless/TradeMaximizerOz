@@ -1,0 +1,931 @@
+/usr/lib/jvm/default-jvm/bin/java -Didea.launcher.port=7534 -Didea.launcher.bin.path=/home/john/idea-IU-95.66/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/jdk1.6.0_21/jre/lib/javaws.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/jce.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/plugin.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/alt-rt.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/deploy.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/rt.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/management-agent.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/resources.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/dnsns.jar:/usr/lib/jvm/jdk1.6.0_21/jre/lib/ext/localedata.jar:/home/john/projects/TradeMaximizer-1.3a/out/production/TradeMaximizer-1.3a:/home/john/idea-IU-95.66/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain TradeMaximizer
+TradeMaximizer Version 1.3a
+Options: SCALED-PRIORITIES ALLOW-DUMMIES REQUIRE-COLONS REQUIRE-USERNAMES GEEKLIST=35609 CODE-DIGITS=3 CODE-LETTERS=5 SHOW-UNSUBMITTED
+
+Retrieving http://boardgamegeek.com/xmlapi/geeklist/35609?comments=1
+Unknown game 068-STARS: [(DA#PYRATE), 242-ROMML, 068-STARS, 250-CHICA, 012-TALUV, 014-ELFEN, 311-LOSTV]
+Unknown game 068-STARS: [(DA#PYRATE), 245-BOSWO, 068-STARS, 205-CAPEH, 181-BISON]
+Unknown game 068-STARS: [(GLENTRAFF), 337-ARKAD, 315-THEBE, 280-STONE, 290-HEROQ, 038-ELFEN, 060-STARC, 219-GALAC, 136-NEXUS, 068-STARS, 066-CATAN, 018-EUPHR, 351-MAGIC, 092-INGEN, 100-LOTRC]
+Unknown game 069-WINGS: [(BIGJOBBIES), 081-INFER, %HOITY, 019-SANTA, %ALEXG, 041-MIDGA, %COMBA, 053-PITCH, 069-WINGS, %CHANG, 071-MEXIC, 073-TYPOO, 078-HACIE, 119-INDUS, %SEASI, %WWEST, 146-QUIRK, 154-COWBO, 186-SANTI, 193-AGEOF, 201-SHARK, 205-CAPEH, 217-CCXP2, 218-CCXP3, 221-REDPL, 227-4THEP, 239-KRETA, 244-PALAZ, 247-SIENA, 257-MAHAR, 263-YSPAH, 275-HANSA, 280-STONE, 282-HOUSE, 298-SILKR, 310-ATTIL, 332-WOWMI, 333-RUNEB, 360-PGRID]
+Unknown game 069-WINGS: [(BIGJOBBIES), 086-WRECK, %HOITY, 019-SANTA, %ALEXG, 041-MIDGA, %COMBA, 053-PITCH, 069-WINGS, %CHANG, 071-MEXIC, 073-TYPOO, 078-HACIE, 119-INDUS, %SEASI, %WWEST, 146-QUIRK, 154-COWBO, 186-SANTI, 193-AGEOF, 201-SHARK, 205-CAPEH, 217-CCXP2, 218-CCXP3, 221-REDPL, 227-4THEP, 239-KRETA, 244-PALAZ, 247-SIENA, 257-MAHAR, 263-YSPAH, 275-HANSA, 280-STONE, 282-HOUSE, 298-SILKR, 310-ATTIL, 332-WOWMI, 333-RUNEB, 360-PGRID]
+Unknown game 069-WINGS: [(BIGJOBBIES), 089-ANNOF, %HOITY, 019-SANTA, %ALEXG, 041-MIDGA, %COMBA, 053-PITCH, 069-WINGS, %CHANG, 071-MEXIC, 073-TYPOO, 078-HACIE, 119-INDUS, %SEASI, %WWEST, 146-QUIRK, 154-COWBO, 186-SANTI, 193-AGEOF, 201-SHARK, 205-CAPEH, 217-CCXP2, 218-CCXP3, 221-REDPL, 227-4THEP, 239-KRETA, 244-PALAZ, 247-SIENA, 257-MAHAR, 263-YSPAH, 275-HANSA, 280-STONE, 282-HOUSE, 298-SILKR, 310-ATTIL, 332-WOWMI, 333-RUNEB, 360-PGRID]
+Unknown game 069-WINGS: [(BIGJOBBIES), 102-TWIXT, %HOITY, 019-SANTA, %ALEXG, 041-MIDGA, %COMBA, 053-PITCH, 069-WINGS, %CHANG, 071-MEXIC, 073-TYPOO, 078-HACIE, 119-INDUS, %SEASI, %WWEST, 146-QUIRK, 154-COWBO, 186-SANTI, 193-AGEOF, 201-SHARK, 205-CAPEH, 217-CCXP2, 218-CCXP3, 221-REDPL, 227-4THEP, 239-KRETA, 244-PALAZ, 247-SIENA, 257-MAHAR, 263-YSPAH, 275-HANSA, 280-STONE, 282-HOUSE, 298-SILKR, 310-ATTIL, 332-WOWMI, 333-RUNEB, 360-PGRID]
+Unknown game 069-WINGS: [(BIGJOBBIES), 103-QINTO, %HOITY, 019-SANTA, %ALEXG, 041-MIDGA, %COMBA, 053-PITCH, 069-WINGS, %CHANG, 071-MEXIC, 073-TYPOO, 078-HACIE, 119-INDUS, %SEASI, %WWEST, 146-QUIRK, 154-COWBO, 186-SANTI, 193-AGEOF, 201-SHARK, 205-CAPEH, 217-CCXP2, 218-CCXP3, 221-REDPL, 227-4THEP, 239-KRETA, 244-PALAZ, 247-SIENA, 257-MAHAR, 263-YSPAH, 275-HANSA, 280-STONE, 282-HOUSE, 298-SILKR, 310-ATTIL, 332-WOWMI, 333-RUNEB, 360-PGRID]
+Unknown game 069-WINGS: [(BIGJOBBIES), 106-PICKO, %HOITY, 019-SANTA, %ALEXG, 041-MIDGA, %COMBA, 053-PITCH, 069-WINGS, %CHANG, 071-MEXIC, 073-TYPOO, 078-HACIE, 119-INDUS, %SEASI, %WWEST, 146-QUIRK, 154-COWBO, 186-SANTI, 193-AGEOF, 201-SHARK, 205-CAPEH, 217-CCXP2, 218-CCXP3, 221-REDPL, 227-4THEP, 239-KRETA, 244-PALAZ, 247-SIENA, 257-MAHAR, 263-YSPAH, 275-HANSA, 280-STONE, 282-HOUSE, 298-SILKR, 310-ATTIL, 332-WOWMI, 333-RUNEB, 360-PGRID]
+Unknown game 063-BETRA: [(AVENELL), 063-BETRA, 060-STARC, 219-GALAC, %TIDEO, 018-EUPHR, %COMBA, 360-PGRID]
+Unknown game 068-STARS: [(AVENELL), 068-STARS, 060-STARC, 219-GALAC, %TIDEO, 018-EUPHR, %COMBA, 360-PGRID, %ROBOR, %DIPLO, 136-NEXUS]
+Unknown game 069-WINGS: [(AVENELL), 069-WINGS, 060-STARC, 219-GALAC, %TIDEO, 018-EUPHR, %COMBA, 360-PGRID, %ROBOR, %DIPLO, 136-NEXUS]
+Unknown game 063-BETRA: [(LOKIDES), 170-LUCCA, 004-COLSS, 012-TALUV, 019-SANTA, 023-VINCI, 025-FRIED, 032-A1503, 033-A1520, 043-REIFE, 051-MOTOR, 053-PITCH, 056-AGEOF, 063-BETRA, 070-CHANG, 071-MEXIC, 074-DUELO, 077-CLANS, 079-CONDO, 104-MAKIN, 106-PICKO, 116-UNITO, 119-INDUS, 123-WAYOU, 127-TOMBZ, 128-ONTHE, 151-REEFE, 154-COWBO, 183-BETRA, 196-DALMU, 219-GALAC, 236-DOFA1, 239-KRETA, 244-PALAZ, 247-SIENA, 249-CAROL, 250-CHICA, 252-RHEIN, 261-WAYOW, 263-YSPAH, 270-EDISO, 277-WYATT, 280-STONE, 283-GWALL, 295-AGOTS, 297-ARCHA, 298-SILKR, 307-CAFIN, 309-BULCS, 310-ATTIL, 313-AQUIR, 337-ARKAD, 339-AUGSB, 350-AUSTR, 360-PGRID]
+Unknown game 068-STARS: [(KERBSTER76), 289-STRAT, 360-PGRID, 264-THRUD, 012-TALUV, 316-HOLLY, 004-COLSS, 263-YSPAH, 093-BMCIT, 300-ODINS, 173-CATAN, 200-ZOOLO, 222-AMUNR, 369-BLCUP, 340-ARKOF, 257-MAHAR, 276-CLANS, 153-HIVEZ, 110-CCAST, 342-HOLLY, 268-BLUEM, 366-COVEN, 068-STARS]
+Unknown game 068-STARS: [(KERBSTER76), 290-HEROQ, 360-PGRID, 264-THRUD, 012-TALUV, 316-HOLLY, 004-COLSS, 263-YSPAH, 093-BMCIT, 300-ODINS, 173-CATAN, 200-ZOOLO, 222-AMUNR, 369-BLCUP, 340-ARKOF, 257-MAHAR, 276-CLANS, 153-HIVEZ, 110-CCAST, 342-HOLLY, 268-BLUEM, 366-COVEN, 068-STARS]
+Unknown game 068-STARS: [(KERBSTER76), 291-JAILB, 360-PGRID, 264-THRUD, 012-TALUV, 316-HOLLY, 004-COLSS, 263-YSPAH, 093-BMCIT, 300-ODINS, 173-CATAN, 200-ZOOLO, 222-AMUNR, 369-BLCUP, 340-ARKOF, 257-MAHAR, 276-CLANS, 153-HIVEZ, 110-CCAST, 342-HOLLY, 268-BLUEM, 366-COVEN, 068-STARS]
+Unknown game 063-BETRA: [(SCHOLLE), 174-GREAT, 075-EUROP, 253-CCANC, 108-COMBA, 288-TIDEI, 058-TIDEO, 360-PGRID, 104-MAKIN, 337-ARKAD, 131-CHANG, 070-CHANG, 025-FRIED, 139-BSACK, 119-INDUS, 298-SILKR, 315-THEBE, 359-ANTIK, 126-BYZAN, 023-VINCI, 249-CAROL, 041-MIDGA, 096-CORUN, 078-HACIE, 239-KRETA, 220-ABBEY, 191-FIRST, 280-STONE, 263-YSPAH, 310-ATTIL, 311-LOSTV, 367-MAGNA, 209-HARET, 200-ZOOLO, 169-TERRA, 001-DRACH, 283-GWALL, 306-KONIG, 093-BMCIT, 043-REIFE, 063-BETRA, 077-CLANS]
+Unknown game 063-BETRA: [(SCHOLLE), 175-ALEXA, 075-EUROP, 253-CCANC, 108-COMBA, 288-TIDEI, 058-TIDEO, 360-PGRID, 337-ARKAD, 131-CHANG, 070-CHANG, 025-FRIED, 139-BSACK, 104-MAKIN, 119-INDUS, 298-SILKR, 315-THEBE, 359-ANTIK, 126-BYZAN, 041-MIDGA, 023-VINCI, 249-CAROL, 096-CORUN, 078-HACIE, 239-KRETA, 220-ABBEY, 191-FIRST, 280-STONE, 263-YSPAH, 310-ATTIL, 311-LOSTV, 367-MAGNA, 209-HARET, 200-ZOOLO, 169-TERRA, 001-DRACH, 283-GWALL, 043-REIFE, 077-CLANS, 306-KONIG, 093-BMCIT, 063-BETRA]
+Unknown game 063-BETRA: [(SCHOLLE), 176-FJORD, 104-MAKIN, 360-PGRID, 337-ARKAD, 131-CHANG, 070-CHANG, 025-FRIED, 139-BSACK, 119-INDUS, 298-SILKR, 315-THEBE, 359-ANTIK, 078-HACIE, 126-BYZAN, 023-VINCI, 249-CAROL, 096-CORUN, 239-KRETA, 220-ABBEY, 191-FIRST, 280-STONE, 263-YSPAH, 310-ATTIL, 311-LOSTV, 367-MAGNA, 332-WOWMI, 209-HARET, 148-THATS, 001-DRACH, 200-ZOOLO, 110-CCAST, 283-GWALL, 169-TERRA, 306-KONIG, 093-BMCIT, 043-REIFE, 063-BETRA]
+Unknown game 069-WINGS: [(SCHOLLE), 178-NODWI, 169-TERRA, 332-WOWMI, 209-HARET, 148-THATS, 110-CCAST, 041-MIDGA, 113-SAINT, 107-SAINT, 001-DRACH, 200-ZOOLO, 356-LIARS, 084-BLUFF, 283-GWALL, 306-KONIG, 235-CARCD, 069-WINGS, 093-BMCIT, 309-BULCS, 038-ELFEN, 043-REIFE, 063-BETRA, 099-CCAST, 033-A1520, 300-ODINS, 031-SHADO, 369-BLCUP, 079-CONDO, 073-TYPOO, 035-CAMEL, 076-SJUAN, 100-LOTRC, 106-PICKO, 196-DALMU]
+Unknown game 063-BETRA: [(SCHOLLE), 178-NODWI, 169-TERRA, 332-WOWMI, 209-HARET, 148-THATS, 110-CCAST, 041-MIDGA, 113-SAINT, 107-SAINT, 001-DRACH, 200-ZOOLO, 356-LIARS, 084-BLUFF, 283-GWALL, 306-KONIG, 235-CARCD, 069-WINGS, 093-BMCIT, 309-BULCS, 038-ELFEN, 043-REIFE, 063-BETRA, 099-CCAST, 033-A1520, 300-ODINS, 031-SHADO, 369-BLCUP, 079-CONDO, 073-TYPOO, 035-CAMEL, 076-SJUAN, 100-LOTRC, 106-PICKO, 196-DALMU]
+Unknown game 069-WINGS: [(SCHOLLE), 189-AFFEN, 169-TERRA, 332-WOWMI, 209-HARET, 148-THATS, 110-CCAST, 041-MIDGA, 113-SAINT, 107-SAINT, 001-DRACH, 200-ZOOLO, 356-LIARS, 084-BLUFF, 283-GWALL, 306-KONIG, 235-CARCD, 069-WINGS, 093-BMCIT, 309-BULCS, 038-ELFEN, 043-REIFE, 063-BETRA, 099-CCAST, 033-A1520, 300-ODINS, 031-SHADO, 369-BLCUP, 079-CONDO, 073-TYPOO, 035-CAMEL, 076-SJUAN, 100-LOTRC, 106-PICKO, 196-DALMU]
+Unknown game 063-BETRA: [(SCHOLLE), 189-AFFEN, 169-TERRA, 332-WOWMI, 209-HARET, 148-THATS, 110-CCAST, 041-MIDGA, 113-SAINT, 107-SAINT, 001-DRACH, 200-ZOOLO, 356-LIARS, 084-BLUFF, 283-GWALL, 306-KONIG, 235-CARCD, 069-WINGS, 093-BMCIT, 309-BULCS, 038-ELFEN, 043-REIFE, 063-BETRA, 099-CCAST, 033-A1520, 300-ODINS, 031-SHADO, 369-BLCUP, 079-CONDO, 073-TYPOO, 035-CAMEL, 076-SJUAN, 100-LOTRC, 106-PICKO, 196-DALMU]
+Unknown game 063-BETRA: [(MIKEY), %BETRA, 183-BETRA, 063-BETRA]
+Unknown game 069-WINGS: [(NEIL#THOMSON), 094-LOTRC, %BLUFF, 184-SUBBU, 053-PITCH, 001-DRACH, %TWIST, %CONDT, 312-IVANH, 259-MALLH, 171-STREE, 298-SILKR, 315-THEBE, 104-MAKIN, 252-RHEIN, 332-WOWMI, 069-WINGS]
+Unknown game 069-WINGS: [(NEIL#THOMSON), 095-MAGBL, %BLUFF, 184-SUBBU, 053-PITCH, 001-DRACH, %TWIST, %CONDT, 312-IVANH, 259-MALLH, 171-STREE, 298-SILKR, 315-THEBE, 104-MAKIN, 252-RHEIN, 332-WOWMI, 069-WINGS]
+Unknown game 069-WINGS: [(NEIL#THOMSON), 191-FIRST, %BLUFF, 184-SUBBU, 053-PITCH, 001-DRACH, %TWIST, %CONDT, 312-IVANH, 259-MALLH, 171-STREE, 298-SILKR, 315-THEBE, 104-MAKIN, 252-RHEIN, 332-WOWMI, 069-WINGS]
+Unknown game 069-WINGS: [(NEIL#THOMSON), 216-WARRI, %BLUFF, 184-SUBBU, 053-PITCH, 001-DRACH, %TWIST, %CONDT, 312-IVANH, 259-MALLH, 171-STREE, 298-SILKR, 315-THEBE, 104-MAKIN, 252-RHEIN, 332-WOWMI, 069-WINGS]
+Unknown game 068-STARS: [(PHIL81), 279-TACTI, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 087-DUNGE, 106-PICKO, 224-LORDS, 244-PALAZ, 259-MALLH]
+Unknown game 068-STARS: [(PHIL81), 278-INKOG, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 087-DUNGE, 106-PICKO, 224-LORDS, 244-PALAZ, 259-MALLH]
+Unknown game 068-STARS: [(PHIL81), 318-CONDT, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 106-PICKO, 224-LORDS, 244-PALAZ, 259-MALLH]
+Unknown game 068-STARS: [(PHIL81), 276-CLANS, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR]
+Unknown game 068-STARS: [(PHIL81), 275-HANSA, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 306-KONIG, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 007-GENOA, 224-LORDS, 244-PALAZ, 259-MALLH]
+Unknown game 068-STARS: [(PHIL81), 312-IVANH, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 106-PICKO, 224-LORDS, 244-PALAZ]
+Unknown game 068-STARS: [(PHIL81), 274-KAHUN, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 106-PICKO, 224-LORDS, 244-PALAZ, 259-MALLH]
+Unknown game 068-STARS: [(PHIL81), 277-WYATT, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 106-PICKO]
+Unknown game 068-STARS: [(PHIL81), 319-FJORD, 311-LOSTV, 045-ACQUI, 222-AMUNR, 172-ACQUI, 038-ELFEN, %LOTRC, %TWIST, 068-STARS, 337-ARKAD, %HOLLY, 104-MAKIN, %SAINT, 252-RHEIN, %MYKER, %BETRA, 004-COLSS, 144-JACKR, 306-KONIG, 309-BULCS, 035-CAMEL, 287-HSCAP, %COMBA, 263-YSPAH, 268-BLUEM, 341-BRIDG, 344-OASIS, %LIARS, %DIPLO, %HEROQ, %ROBOR, %HOITY, 053-PITCH, 010-PCOVE, 072-WKING, 078-HACIE, 012-TALUV, 102-TWIXT, 232-DEADM, 007-GENOA, 048-HONOR, 106-PICKO, 224-LORDS, 244-PALAZ, 259-MALLH]
+Unknown game 063-BETRA: [(PHIL81), %BETRA, 063-BETRA, 183-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 339-AUGSB, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 340-ARKOF, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB]
+Unknown game 063-BETRA: [(CYBERKEV63), 341-BRIDG, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 342-HOLLY, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 344-OASIS, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 345-PIZAR, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 346-QUOVA, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 347-WARLO, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB]
+Unknown game 063-BETRA: [(CYBERKEV63), 348-TALIS, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB]
+Unknown game 063-BETRA: [(CYBERKEV63), 350-AUSTR, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 351-MAGIC, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA]
+Unknown game 063-BETRA: [(CYBERKEV63), 353-TIMEX, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB, 144-JACKR]
+Unknown game 063-BETRA: [(CYBERKEV63), 354-BEUTE, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB]
+Unknown game 063-BETRA: [(CYBERKEV63), 355-FFIJI, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB, 144-JACKR]
+Unknown game 063-BETRA: [(CYBERKEV63), 356-LIARS, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, %PALIN, 291-JAILB, 144-JACKR]
+Unknown game 063-BETRA: [(CYBERKEV63), 357-HQKEL, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, 095-MAGBL, 291-JAILB]
+Unknown game 063-BETRA: [(CYBERKEV63), 358-HQWIT, 014-ELFEN, 060-STARC, 317-FAMIL, 146-QUIRK, 029-WOFTR, %OBAMA, 187-NASTY, %BIDEN, 045-ACQUI, 171-STREE, 078-HACIE, 252-RHEIN, 312-IVANH, 104-MAKIN, 273-MAKEN, 183-BETRA, 063-BETRA, 095-MAGBL, 291-JAILB]
+Unknown game 068-STARS: [(CRAIG_H), 232-DEADM, 119-INDUS, 200-ZOOLO, 001-DRACH, 003-JAMBO, 009-HOITY, 018-EUPHR, 048-HONOR, 065-PIZZA, 068-STARS, 071-MEXIC, 023-VINCI, %BETRA, 076-SJUAN, %CLANS, 078-HACIE, 081-INFER, 093-BMCIT, 098-SEAFA, 107-SAINT, %CCAST, 111-ELGRA, 112-DUCKS, 113-SAINT, 118-ENTDE, 154-COWBO, 219-GALAC, 221-REDPL, 222-AMUNR, 235-CARCD, %TWIST, 257-MAHAR, 260-CRCHG, 268-BLUEM, 280-STONE, 300-ODINS, %HOLLY, 320-QWIRK, 337-ARKAD, 341-BRIDG, 353-TIMEX, 367-MAGNA]
+Unknown game 063-BETRA: [(CRAIG_H), %BETRA, 063-BETRA, 183-BETRA]
+Unknown game 068-STARS: [(MR_LUNCH), 011-KELLR, 144-JACKR, 014-ELFEN, 060-STARC, 010-PCOVE, 315-THEBE, 322-PUERT, 018-EUPHR, 119-INDUS, 280-STONE, 221-REDPL, 277-WYATT, 038-ELFEN, 200-ZOOLO, 012-TALUV, 349-TIMEA, 078-HACIE, 093-BMCIT, 030-WQEST, 041-MIDGA, 146-QUIRK, 188-BOOTL, 068-STARS, 287-HSCAP, %CARCC, %CLANS, %MYKER, %FJORDS]
+Unknown game 068-STARS: [(MR_LUNCH), 323-NOBOD, 144-JACKR, 014-ELFEN, 060-STARC, 010-PCOVE, 315-THEBE, 322-PUERT, 018-EUPHR, 119-INDUS, 280-STONE, 221-REDPL, 277-WYATT, 038-ELFEN, 200-ZOOLO, 012-TALUV, 349-TIMEA, 078-HACIE, 093-BMCIT, 030-WQEST, 041-MIDGA, 146-QUIRK, 188-BOOTL, 068-STARS, 287-HSCAP, %CARCC, %CLANS, %MYKER, %FJORDS, 274-KAHUN, 369-BLCUP, 300-ODINS, 321-CAESE, 235-CARCD, 240-TONGI, 083-POLAR, 251-ATTRI, 177-MAGBL, 297-ARCHA, 142-HOBBY]
+Unknown game 068-STARS: [(MR_LUNCH), 324-ARMCH, 144-JACKR, 014-ELFEN, 060-STARC, 010-PCOVE, 315-THEBE, 322-PUERT, 018-EUPHR, 119-INDUS, 280-STONE, 221-REDPL, 277-WYATT, 038-ELFEN, 200-ZOOLO, 012-TALUV, 349-TIMEA, 078-HACIE, 093-BMCIT, 030-WQEST, 041-MIDGA, 146-QUIRK, 188-BOOTL, 068-STARS, 287-HSCAP, %CARCC, %CLANS, %MYKER, %FJORDS, 274-KAHUN, 369-BLCUP, 300-ODINS, 321-CAESE, 235-CARCD, 240-TONGI, 083-POLAR, 251-ATTRI, 177-MAGBL, 297-ARCHA, 142-HOBBY]
+Unknown game 068-STARS: [(MR_LUNCH), 325-SCRAB, 144-JACKR, 014-ELFEN, 060-STARC, 010-PCOVE, 315-THEBE, 322-PUERT, 018-EUPHR, 119-INDUS, 280-STONE, 221-REDPL, 277-WYATT, 038-ELFEN, 200-ZOOLO, 012-TALUV, 349-TIMEA, 078-HACIE, 093-BMCIT, 030-WQEST, 041-MIDGA, 146-QUIRK, 188-BOOTL, 068-STARS, 287-HSCAP, %CARCC, %CLANS, %MYKER, %FJORDS, 274-KAHUN, 369-BLCUP, 300-ODINS, 321-CAESE, 235-CARCD, 240-TONGI, 083-POLAR, 251-ATTRI, 177-MAGBL, 297-ARCHA, 142-HOBBY]
+Unknown game 068-STARS: [(MR_LUNCH), 326-DUELL, 144-JACKR, 014-ELFEN, 060-STARC, 010-PCOVE, 315-THEBE, 322-PUERT, 018-EUPHR, 119-INDUS, 280-STONE, 221-REDPL, 277-WYATT, 038-ELFEN, 200-ZOOLO, 012-TALUV, 349-TIMEA, 078-HACIE, 093-BMCIT, 030-WQEST, 041-MIDGA, 146-QUIRK, 188-BOOTL, 068-STARS, 287-HSCAP, %CARCC, %CLANS, %MYKER, %FJORDS, 274-KAHUN, 369-BLCUP, 300-ODINS, 321-CAESE, 235-CARCD, 240-TONGI, 083-POLAR, 251-ATTRI, 177-MAGBL, 297-ARCHA, 142-HOBBY]
+Unknown game 068-STARS: [(MR_LUNCH), 327-TRSCR, 144-JACKR, 014-ELFEN, 060-STARC, 010-PCOVE, 315-THEBE, 322-PUERT, 018-EUPHR, 119-INDUS, 280-STONE, 221-REDPL, 277-WYATT, 038-ELFEN, 200-ZOOLO, 012-TALUV, 349-TIMEA, 078-HACIE, 093-BMCIT, 030-WQEST, 041-MIDGA, 146-QUIRK, 188-BOOTL, 068-STARS, 287-HSCAP, %CARCC, %CLANS, %MYKER, %FJORDS, 274-KAHUN, 369-BLCUP, 300-ODINS, 321-CAESE, 235-CARCD, 240-TONGI, 083-POLAR, 251-ATTRI, 177-MAGBL, 297-ARCHA, 142-HOBBY]
+
+MOST WANTED
+280-STONE: Stone Age wanted in exchange for 111 items
+104-MAKIN: 1960: The Making of the President wanted in exchange for 99 items
+053-PITCH: PitchCar wanted in exchange for 73 items
+078-HACIE: Hacienda wanted in exchange for 73 items
+014-ELFEN: Elfenroads wanted in exchange for 69 items
+311-LOSTV: Lost Valley wanted in exchange for 68 items
+263-YSPAH: Yspahan wanted in exchange for 67 items
+360-PGRID: Power Grid wanted in exchange for 62 items
+337-ARKAD: Arkadia wanted in exchange for 57 items
+239-KRETA: Kreta wanted in exchange for 55 items
+121-ROADS: Roads and Boats wanted in exchange for 54 items
+025-FRIED: Friedrich wanted in exchange for 54 items
+060-STARC: StarCraft: The Board Game wanted in exchange for 53 items
+119-INDUS: Industrial Waste wanted in exchange for 51 items
+310-ATTIL: Attila wanted in exchange for 50 items
+200-ZOOLO: Zooloretto wanted in exchange for 50 items
+252-RHEIN: Rheinländer wanted in exchange for 48 items
+185-STEPH: Stephensons Rocket wanted in exchange for 46 items
+315-THEBE: Thebes wanted in exchange for 45 items
+093-BMCIT: Blue Moon City wanted in exchange for 44 items
+146-QUIRK: Quirks wanted in exchange for 44 items
+249-CAROL: Carolus Magnus wanted in exchange for 43 items
+257-MAHAR: Maharaja: Palace Building in India wanted in exchange for 42 items
+253-CCANC: Commands & Colors: Ancients wanted in exchange for 42 items
+116-UNITO: 1825 Unit 1 wanted in exchange for 42 items
+004-COLSS: Colosseum wanted in exchange for 41 items
+012-TALUV: Taluva wanted in exchange for 40 items
+287-HSCAP: Heroscape Master Set: Rise of the Valkyrie wanted in exchange for 39 items
+041-MIDGA: Midgard wanted in exchange for 39 items
+221-REDPL: Mission: Red Planet wanted in exchange for 39 items
+219-GALAC: Galactic Emperor wanted in exchange for 39 items
+151-REEFE: Reef Encounter wanted in exchange for 38 items
+217-CCXP2: Commands & Colors: Ancients Expansion Pack #2: Rome and the Barbarians wanted in exchange for 38 items
+222-AMUNR: Amun-Re wanted in exchange for 38 items
+218-CCXP3: Commands & Colors: Ancients Expansion Pack #3: The Roman Civil Wars wanted in exchange for 38 items
+171-STREE: Streetcar wanted in exchange for 38 items
+092-INGEN: Ingenious wanted in exchange for 37 items
+075-EUROP: Europe Engulfed wanted in exchange for 37 items
+038-ELFEN: Elfenland wanted in exchange for 36 items
+320-QWIRK: Qwirkle wanted in exchange for 36 items
+227-4THEP: For the People wanted in exchange for 35 items
+045-ACQUI: Acquire wanted in exchange for 35 items
+074-DUELO: Duel of Ages Set 1: Worldspanner wanted in exchange for 34 items
+010-PCOVE: Pirate's Cove wanted in exchange for 34 items
+018-EUPHR: Tigris & Euphrates wanted in exchange for 33 items
+298-SILKR: Silk Road wanted in exchange for 33 items
+117-MONTY: Monty's Gamble: Market Garden wanted in exchange for 33 items
+184-SUBBU: Subbuteo wanted in exchange for 32 items
+333-RUNEB: Runebound: Artifacts and Allies wanted in exchange for 31 items
+128-ONTHE: On the Underground wanted in exchange for 30 items
+273-MAKEN: Make 'n' Break wanted in exchange for 30 items
+359-ANTIK: Antike wanted in exchange for 30 items
+144-JACKR: Mystery Rummy: Jack the Ripper wanted in exchange for 30 items
+023-VINCI: Vinci wanted in exchange for 30 items
+106-PICKO: Pickomino wanted in exchange for 29 items
+277-WYATT: Wyatt Earp wanted in exchange for 29 items
+306-KONIG: Im Auftrag des Königs wanted in exchange for 29 items
+019-SANTA: Santa Fe Rails wanted in exchange for 29 items
+003-JAMBO: Jambo wanted in exchange for 29 items
+029-WOFTR: War of the Ring wanted in exchange for 27 items
+001-DRACH: Wings of War: Burning Drachens wanted in exchange for 27 items
+071-MEXIC: Mexica wanted in exchange for 27 items
+332-WOWMI: Wings of War: Miniatures wanted in exchange for 27 items
+049-ITIDE: Iron Tide: Panzers in the Ardennes wanted in exchange for 27 items
+282-HOUSE: A House Divided wanted in exchange for 26 items
+275-HANSA: Hansa wanted in exchange for 26 items
+193-AGEOF: Age of Napoleon wanted in exchange for 25 items
+051-MOTOR: MotorChamp wanted in exchange for 25 items
+247-SIENA: Siena wanted in exchange for 24 items
+127-TOMBZ: Tomb wanted in exchange for 24 items
+007-GENOA: Genoa wanted in exchange for 24 items
+244-PALAZ: Palazzo wanted in exchange for 24 items
+040-LOUIS: Louis XIV wanted in exchange for 23 items
+183-BETRA: Betrayal at House on the Hill wanted in exchange for 23 items
+259-MALLH: Mall of Horror wanted in exchange for 23 items
+154-COWBO: Cowboys: The Way of the Gun wanted in exchange for 23 items
+312-IVANH: Ivanhoe wanted in exchange for 23 items
+169-TERRA: Terra Nova wanted in exchange for 22 items
+268-BLUEM: Blue Moon wanted in exchange for 21 items
+101-BBOWL: Blood Bowl (Third Edition) wanted in exchange for 21 items
+186-SANTI: Santiago wanted in exchange for 20 items
+166-NETRU: Netrunner wanted in exchange for 20 items
+187-NASTY: The Really Nasty Horse Racing Game wanted in exchange for 20 items
+334-WOTRG: War of the Ring wanted in exchange for 19 items
+043-REIFE: Um Reifenbreite wanted in exchange for 19 items
+096-CORUN: Corunea wanted in exchange for 19 items
+367-MAGNA: Caylus Magna Carta wanted in exchange for 18 items
+224-LORDS: Scarab Lords wanted in exchange for 18 items
+341-BRIDG: The Bridges of Shangri-La wanted in exchange for 18 items
+047-CCEUR: Combat Commander: Europe wanted in exchange for 18 items
+126-BYZAN: Byzantium wanted in exchange for 17 items
+250-CHICA: Chicago Express wanted in exchange for 17 items
+317-FAMIL: Familienbande wanted in exchange for 17 items
+108-COMBA: Combat Commander: Europe wanted in exchange for 17 items
+072-WKING: Wizard Kings wanted in exchange for 17 items
+288-TIDEI: Tide of Iron wanted in exchange for 16 items
+343-MERMA: Mermaid Rain wanted in exchange for 16 items
+300-ODINS: Odin's Ravens wanted in exchange for 16 items
+139-BSACK: Bausack wanted in exchange for 16 items
+011-KELLR: HeroQuest: Kellar's Keep wanted in exchange for 15 items
+066-CATAN: The Settlers of Catan wanted in exchange for 15 items
+110-CCAST: Carcassonne: The Castle wanted in exchange for 15 items
+285-MANAS: Three Battles of Manassas wanted in exchange for 15 items
+109-MYKER: Mykerinos wanted in exchange for 15 items
+349-TIMEA: Time Agent wanted in exchange for 15 items
+357-HQKEL: HeroQuest: Kellar's Keep wanted in exchange for 15 items
+358-HQWIT: HeroQuest: Return of the Witch Lord wanted in exchange for 14 items
+070-CHANG: Chang Cheng wanted in exchange for 14 items
+201-SHARK: Shark wanted in exchange for 14 items
+205-CAPEH: Cape Horn wanted in exchange for 14 items
+083-POLAR: Polarity wanted in exchange for 14 items
+136-NEXUS: Nexus Ops wanted in exchange for 14 items
+059-MAGIC: Magic: The Gathering wanted in exchange for 14 items
+290-HEROQ: HeroQuest wanted in exchange for 14 items
+073-TYPOO: Typo wanted in exchange for 13 items
+035-CAMEL: Camelot Legends wanted in exchange for 13 items
+017-HEROQ: HeroQuest wanted in exchange for 13 items
+142-HOBBY: Hobby Games: The 100 Best wanted in exchange for 13 items
+258-CONDO: Condottiere wanted in exchange for 13 items
+322-PUERT: Puerto Rico wanted in exchange for 13 items
+243-TWIST: Dungeon Twister wanted in exchange for 13 items
+191-FIRST: The First World War wanted in exchange for 12 items
+207-TADSC: Taj Mahal wanted in exchange for 12 items
+295-AGOTS: A Game of Thrones wanted in exchange for 12 items
+079-CONDO: Condottiere wanted in exchange for 12 items
+283-GWALL: Great Wall of China wanted in exchange for 12 items
+344-OASIS: Oasis wanted in exchange for 12 items
+111-ELGRA: El Grande wanted in exchange for 12 items
+180-PIRAT: Piratissimo wanted in exchange for 12 items
+342-HOLLY: Dream Factory wanted in exchange for 12 items
+118-ENTDE: Entdecker: Exploring New Horizons wanted in exchange for 12 items
+033-A1520: Augsburg 1520 wanted in exchange for 12 items
+058-TIDEO: Tide of Iron wanted in exchange for 11 items
+131-CHANG: Chang Cheng wanted in exchange for 11 items
+369-BLCUP: Balloon Cup wanted in exchange for 11 items
+294-BAZAR: Bazaar wanted in exchange for 11 items
+266-2038Z: 2038 wanted in exchange for 11 items
+031-SHADO: In the Shadow of the Emperor wanted in exchange for 11 items
+309-BULCS: Bull in a China Shop wanted in exchange for 11 items
+061-ASLSK: Advanced Squad Leader: Starter Kit #2 wanted in exchange for 11 items
+209-HARET: Hare & Tortoise wanted in exchange for 11 items
+048-HONOR: Honor of the Samurai wanted in exchange for 11 items
+138-BATTL: Battlestations wanted in exchange for 10 items
+125-PERIK: Perikles wanted in exchange for 10 items
+137-ARKEX: Ark wanted in exchange for 10 items
+255-DUELD: Duel in the Dark wanted in exchange for 10 items
+240-TONGI: Tongiaki wanted in exchange for 10 items
+279-TACTI: Tactics II wanted in exchange for 10 items
+264-THRUD: Through the Desert wanted in exchange for 10 items
+204-KINGS: King of the Elves wanted in exchange for 9 items
+355-FFIJI: Fiji wanted in exchange for 9 items
+235-CARCD: Carcassonne: The Discovery wanted in exchange for 9 items
+027-CORPS: Corps Command: Totensonntag wanted in exchange for 9 items
+350-AUSTR: Australia wanted in exchange for 9 items
+172-ACQUI: Acquire wanted in exchange for 9 items
+097-DUNEZ: Dune wanted in exchange for 9 items
+366-COVEN: The Ark of the Covenant wanted in exchange for 9 items
+291-JAILB: Jailbreak wanted in exchange for 9 items
+006-SHEAR: Shear Panic wanted in exchange for 9 items
+161-SPACE: Space Crusade wanted in exchange for 9 items
+297-ARCHA: Archaeology wanted in exchange for 8 items
+188-BOOTL: Bootleggers wanted in exchange for 8 items
+102-TWIXT: Twixt wanted in exchange for 8 items
+230-HOITY: Hoity Toity wanted in exchange for 8 items
+208-CAPRI: Caprice wanted in exchange for 8 items
+046-BOWL3: Blood Bowl (Third Edition) wanted in exchange for 8 items
+356-LIARS: Liar's Dice wanted in exchange for 8 items
+157-CAYLU: Caylus wanted in exchange for 8 items
+316-HOLLY: Dream Factory wanted in exchange for 8 items
+175-ALEXA: Alexandros wanted in exchange for 8 items
+232-DEADM: Dead Man's Treasure wanted in exchange for 8 items
+009-HOITY: Hoity Toity wanted in exchange for 8 items
+177-MAGBL: Mag·Blast (Third Edition) wanted in exchange for 7 items
+260-CRCHG: Carcassonne: Hunters and Gatherers wanted in exchange for 7 items
+210-MYKER: Mykerinos wanted in exchange for 7 items
+099-CCAST: Carcassonne: The Castle wanted in exchange for 7 items
+267-BULGE: Axis & Allies: Battle of the Bulge wanted in exchange for 7 items
+242-ROMML: Rommel in North Africa: The War in the Desert 1941-42 wanted in exchange for 7 items
+153-HIVEZ: Hive wanted in exchange for 7 items
+056-AGEOF: Age of Mythology: The Boardgame wanted in exchange for 7 items
+220-ABBEY: Mystery of the Abbey wanted in exchange for 7 items
+265-CIVIL: Civilization wanted in exchange for 7 items
+091-RUSSI: The Russian Campaign wanted in exchange for 7 items
+077-CLANS: Clans wanted in exchange for 6 items
+084-BLUFF: Liar's Dice wanted in exchange for 6 items
+032-A1503: Anno 1503 wanted in exchange for 6 items
+030-WQEST: Wizard's Quest wanted in exchange for 6 items
+055-WORLD: World in War: Combined Arms 1939-1945 wanted in exchange for 6 items
+353-TIMEX: Time's Up! - Expansion set #1 wanted in exchange for 6 items
+276-CLANS: Clans wanted in exchange for 6 items
+179-PAXRO: Pax Romana wanted in exchange for 6 items
+173-CATAN: The Settlers of Catan Card Game wanted in exchange for 6 items
+100-LOTRC: Lord of the Rings: The Confrontation wanted in exchange for 6 items
+329-EAGLE: Eagles: Waterloo wanted in exchange for 5 items
+330-PANZR: Panzer Grenadier wanted in exchange for 5 items
+321-CAESE: Caesar & Cleopatra wanted in exchange for 5 items
+274-KAHUN: Kahuna wanted in exchange for 5 items
+050-NAVAL: Modern Naval Battles wanted in exchange for 5 items
+251-ATTRI: Attribute wanted in exchange for 5 items
+340-ARKOF: The Ark of the Covenant wanted in exchange for 5 items
+229-HETZE: Hetzer Sniper! Sniper Companion Game #1 wanted in exchange for 5 items
+254-WOWCG: World of Warcraft Trading Card Game wanted in exchange for 5 items
+182-STARW: Star Wars Miniatures wanted in exchange for 5 items
+024-ROBOR: RoboRally wanted in exchange for 5 items
+113-SAINT: Saint Petersburg wanted in exchange for 5 items
+044-BEARD: Blackbeard wanted in exchange for 5 items
+107-SAINT: Saint Petersburg wanted in exchange for 5 items
+328-CIVIL: The Civil War wanted in exchange for 5 items
+156-FIREP: Firepower wanted in exchange for 5 items
+094-LOTRC: Lord of the Rings: The Confrontation wanted in exchange for 5 items
+370-TWIST: Dungeon Twister wanted in exchange for 5 items
+319-FJORD: Fjords wanted in exchange for 4 items
+123-WAYOU: Way Out West wanted in exchange for 4 items
+132-SOLEM: Sole Mio! wanted in exchange for 4 items
+308-LIFEB: Lifeboats wanted in exchange for 4 items
+262-DRUNT: Wacky Wacky West wanted in exchange for 4 items
+271-GUILL: Guillotine wanted in exchange for 4 items
+223-BOROD: Borodino: Battle of the Moskova, 1812 wanted in exchange for 4 items
+234-KINGM: Kingmaker wanted in exchange for 4 items
+318-CONDT: Condottiere wanted in exchange for 4 items
+281-CAYLU: Caylus wanted in exchange for 4 items
+346-QUOVA: Quo Vadis? wanted in exchange for 4 items
+261-WAYOW: Way Out West wanted in exchange for 4 items
+005-ROBOR: RoboRally wanted in exchange for 4 items
+174-GREAT: Alexander the Great wanted in exchange for 4 items
+176-FJORD: Fjords wanted in exchange for 4 items
+148-THATS: That's Life! wanted in exchange for 4 items
+152-FIFTH: Fifth Avenue wanted in exchange for 4 items
+026-ALEXA: Alexander the Great wanted in exchange for 4 items
+213-BLOOD: Blood Royale wanted in exchange for 3 items
+196-DALMU: The Great Dalmuti wanted in exchange for 3 items
+351-MAGIC: Magic: The Gathering wanted in exchange for 3 items
+087-DUNGE: Dungeoneer: Tomb of the Lich Lord wanted in exchange for 3 items
+270-EDISO: Edison & Co. wanted in exchange for 3 items
+098-SEAFA: Catan: Seafarers wanted in exchange for 3 items
+202-BACKP: Backpacks and Blisters wanted in exchange for 3 items
+021-EVERG: Evergreen wanted in exchange for 3 items
+020-WARPE: History of War - Pacific Edition wanted in exchange for 3 items
+120-SEASI: SeaSim wanted in exchange for 3 items
+076-SJUAN: San Juan wanted in exchange for 3 items
+206-SEASI: SeaSim wanted in exchange for 3 items
+170-LUCCA: Lucca Città wanted in exchange for 3 items
+095-MAGBL: Mag·Blast (Third Edition) wanted in exchange for 3 items
+313-AQUIR: Acquire wanted in exchange for 3 items
+307-CAFIN: Café International wanted in exchange for 3 items
+112-DUCKS: Sitting Ducks Gallery wanted in exchange for 3 items
+286-AIRBR: Air Bridge to Victory wanted in exchange for 2 items
+067-DIPLO: Diplomacy wanted in exchange for 2 items
+362-DIPLO: Diplomacy wanted in exchange for 2 items
+008-OCTIL: Octiles wanted in exchange for 2 items
+192-WARAT: The War At Sea wanted in exchange for 2 items
+065-PIZZA: Pizza Box Football wanted in exchange for 2 items
+339-AUGSB: Augsburg 1520 wanted in exchange for 2 items
+181-BISON: Bison: Thunder on the Prairie wanted in exchange for 2 items
+062-CCOWS: Cosmic Cows wanted in exchange for 2 items
+028-VENGE: Red Vengeance wanted in exchange for 2 items
+081-INFER: Infernal Contraption wanted in exchange for 2 items
+236-DOFA1: Duel of Ages Set 1: Worldspanner wanted in exchange for 2 items
+082-ROMEA: Rome at War II: Fading Legions wanted in exchange for 2 items
+149-WAROF: War of the Ring wanted in exchange for 1 items
+241-VICPA: Victory in the Pacific wanted in exchange for 1 items
+135-PERIK: Perikles wanted in exchange for 1 items
+103-QINTO: Quinto wanted in exchange for 1 items
+292-HARET: Hare & Tortoise wanted in exchange for 1 items
+013-ABBEY: Mystery of the Abbey wanted in exchange for 1 items
+226-JJAVA: Jumpin' Java wanted in exchange for 1 items
+122-VICTO: Victory in the Pacific wanted in exchange for 1 items
+064-FRONT: Frontiers wanted in exchange for 1 items
+
+TRADE LOOPS (195 total trades):
+
+(CHRISPAYNE) 183-BETRA      receives (TALLBOY) 099-CCAST
+(TALLBOY) 099-CCAST         receives (THE_PIRATE) 043-REIFE
+(THE_PIRATE) 043-REIFE      receives (MIKEY) 019-SANTA
+(MIKEY) 019-SANTA           receives (FRIENDLESS) 007-GENOA
+(FRIENDLESS) 007-GENOA      receives (LOKIDES) 169-TERRA
+(LOKIDES) 169-TERRA         receives (GENESTEELER) 056-AGEOF
+(GENESTEELER) 056-AGEOF     receives (SCHOLLE) 174-GREAT
+(SCHOLLE) 174-GREAT         receives (NEIL THOMSON) 191-FIRST
+(NEIL THOMSON) 191-FIRST    receives (AVENELL) 069-WINGS
+(AVENELL) 069-WINGS         receives (FRIENDLESS) 005-ROBOR
+(FRIENDLESS) 005-ROBOR      receives (SHAWN_LOW) 120-SEASI
+(SHAWN_LOW) 120-SEASI       receives (CYBERKEV63) 357-HQKEL
+(CYBERKEV63) 357-HQKEL      receives (CHRISPAYNE) 183-BETRA
+
+(CHRISPAYNE) 184-SUBBU      receives (OTAKU) 260-CRCHG
+(OTAKU) 260-CRCHG           receives (MR_LUNCH) 011-KELLR
+(MR_LUNCH) 011-KELLR        receives (KOPJE KOFFIE) 030-WQEST
+(KOPJE KOFFIE) 030-WQEST    receives (SCHOLLE) 179-PAXRO
+(SCHOLLE) 179-PAXRO         receives (COXY_FC) 108-COMBA
+(COXY_FC) 108-COMBA         receives (SQUIRE) 219-GALAC
+(SQUIRE) 219-GALAC          receives (PHIL81) 277-WYATT
+(PHIL81) 277-WYATT          receives (GENESTEELER) 113-SAINT
+(GENESTEELER) 113-SAINT     receives (REGOR) 072-WKING
+(REGOR) 072-WKING           receives (FRIENDLESS) 224-LORDS
+(FRIENDLESS) 224-LORDS      receives (GMCNISH) 294-BAZAR
+(GMCNISH) 294-BAZAR         receives (UNHALFBRICKING) 207-TADSC
+(UNHALFBRICKING) 207-TADSC  receives (PHIL81) 320-QWIRK
+(PHIL81) 320-QWIRK          receives (TALLBOY) 100-LOTRC
+(TALLBOY) 100-LOTRC         receives (THE_PIRATE) 038-ELFEN
+(THE_PIRATE) 038-ELFEN      receives (NEIL THOMSON) 092-INGEN
+(NEIL THOMSON) 092-INGEN    receives (FFISH) 370-TWIST
+(FFISH) 370-TWIST           receives (SQUIRE) 221-REDPL
+(SQUIRE) 221-REDPL          receives (SHAWN_LOW) 061-ASLSK
+(SHAWN_LOW) 061-ASLSK       receives (CHRISPAYNE) 184-SUBBU
+
+(KATHYB) 209-HARET          receives (DA PYRATE) 066-CATAN
+(DA PYRATE) 066-CATAN       receives (PORT POWER 1914) 012-TALUV
+(PORT POWER 1914) 012-TALUV receives (FRIENDLESS) 004-COLSS
+(FRIENDLESS) 004-COLSS      receives (SHAWN_LOW) 249-CAROL
+(SHAWN_LOW) 249-CAROL       receives (BIGJOBBIES) 185-STEPH
+(BIGJOBBIES) 185-STEPH      receives (SBSZINE) 282-HOUSE
+(SBSZINE) 282-HOUSE         receives (INTHECLEAR) 097-DUNEZ
+(INTHECLEAR) 097-DUNEZ      receives (BIG A) 118-ENTDE
+(BIG A) 118-ENTDE           receives (DA PYRATE) 046-BOWL3
+(DA PYRATE) 046-BOWL3       receives (MIKEY) 021-EVERG
+(MIKEY) 021-EVERG           receives (AARONSEEBER) 001-DRACH
+(AARONSEEBER) 001-DRACH     receives (SHAWN_LOW) 247-SIENA
+(SHAWN_LOW) 247-SIENA       receives (BIGJOBBIES) 101-BBOWL
+(BIGJOBBIES) 101-BBOWL      receives (PHIL81) 275-HANSA
+(PHIL81) 275-HANSA          receives (DA PYRATE) 067-DIPLO
+(DA PYRATE) 067-DIPLO       receives (CARADOC) 064-FRONT
+(CARADOC) 064-FRONT         receives (FRIENDLESS) 017-HEROQ
+(FRIENDLESS) 017-HEROQ      receives (COXY_FC) 110-CCAST
+(COXY_FC) 110-CCAST         receives (PORT POWER 1914) 264-THRUD
+(PORT POWER 1914) 264-THRUD receives (OTAKU) 257-MAHAR
+(OTAKU) 257-MAHAR           receives (CYBERKEV63) 358-HQWIT
+(CYBERKEV63) 358-HQWIT      receives (NEIL THOMSON) 095-MAGBL
+(NEIL THOMSON) 095-MAGBL    receives (PHIL81) 318-CONDT
+(PHIL81) 318-CONDT          receives (CRAIG_H) 232-DEADM
+(CRAIG_H) 232-DEADM         receives (BIGJOBBIES) 081-INFER
+(BIGJOBBIES) 081-INFER      receives (THE_PIRATE) 041-MIDGA
+(THE_PIRATE) 041-MIDGA      receives (BIG A) 119-INDUS
+(BIG A) 119-INDUS           receives (BRENDANM) 213-BLOOD
+(BRENDANM) 213-BLOOD        receives (RED TURTLE) 266-2038Z
+(RED TURTLE) 266-2038Z      receives (COXY_FC) 111-ELGRA
+(COXY_FC) 111-ELGRA         receives (AMNESE) 360-PGRID
+(AMNESE) 360-PGRID          receives (CYBERKEV63) 339-AUGSB
+(CYBERKEV63) 339-AUGSB      receives (PHIL81) 312-IVANH
+(PHIL81) 312-IVANH          receives (THE_PIRATE) 035-CAMEL
+(THE_PIRATE) 035-CAMEL      receives (BIGJOBBIES) 079-CONDO
+(BIGJOBBIES) 079-CONDO      receives (BLACKSOILBILL) 154-COWBO
+(BLACKSOILBILL) 154-COWBO   receives (FFISH) 366-COVEN
+(FFISH) 366-COVEN           receives (NEIL THOMSON) 094-LOTRC
+(NEIL THOMSON) 094-LOTRC    receives (GMCNISH) 298-SILKR
+(GMCNISH) 298-SILKR         receives (PORT POWER 1914) 010-PCOVE
+(PORT POWER 1914) 010-PCOVE receives (SHAWN_LOW) 018-EUPHR
+(SHAWN_LOW) 018-EUPHR       receives (DA PYRATE) 055-WORLD
+(DA PYRATE) 055-WORLD       receives (UNHALFBRICKING) 204-KINGS
+(UNHALFBRICKING) 204-KINGS  receives (CYBERKEV63) 353-TIMEX
+(CYBERKEV63) 353-TIMEX      receives (KERBSTER76) 291-JAILB
+(KERBSTER76) 291-JAILB      receives (GMCNISH) 300-ODINS
+(GMCNISH) 300-ODINS         receives (BIGJOBBIES) 106-PICKO
+(BIGJOBBIES) 106-PICKO      receives (AARONSEEBER) 244-PALAZ
+(AARONSEEBER) 244-PALAZ     receives (KRISJOHN) 166-NETRU
+(KRISJOHN) 166-NETRU        receives (BAKYOSAN) 287-HSCAP
+(BAKYOSAN) 287-HSCAP        receives (MIKEY) 024-ROBOR
+(MIKEY) 024-ROBOR           receives (AVENELL) 063-BETRA
+(AVENELL) 063-BETRA         receives (BAKYOSAN) 288-TIDEI
+(BAKYOSAN) 288-TIDEI        receives (THE_PIRATE) 040-LOUIS
+(THE_PIRATE) 040-LOUIS      receives (GLENTRAFF) 337-ARKAD
+(GLENTRAFF) 337-ARKAD       receives (KERBSTER76) 290-HEROQ
+(KERBSTER76) 290-HEROQ      receives (KRISJOHN) 173-CATAN
+(KRISJOHN) 173-CATAN        receives (CYBERKEV63) 340-ARKOF
+(CYBERKEV63) 340-ARKOF      receives (RED TURTLE) 273-MAKEN
+(RED TURTLE) 273-MAKEN      receives (PORT POWER 1914) 013-ABBEY
+(PORT POWER 1914) 013-ABBEY receives (SQUIRE) 222-AMUNR
+(SQUIRE) 222-AMUNR          receives (CYBERKEV63) 349-TIMEA
+(CYBERKEV63) 349-TIMEA      receives (DA PYRATE) 045-ACQUI
+(DA PYRATE) 045-ACQUI       receives (GMCNISH) 292-HARET
+(GMCNISH) 292-HARET         receives (SCHOLLE) 180-PIRAT
+(SCHOLLE) 180-PIRAT         receives (SQUIRE) 220-ABBEY
+(SQUIRE) 220-ABBEY          receives (PORT POWER 1914) 263-YSPAH
+(PORT POWER 1914) 263-YSPAH receives (AARONSEEBER) 003-JAMBO
+(AARONSEEBER) 003-JAMBO     receives (EARTHBOOT) 084-BLUFF
+(EARTHBOOT) 084-BLUFF       receives (DA PYRATE) 192-WARAT
+(DA PYRATE) 192-WARAT       receives (INTHECLEAR) 181-BISON
+(INTHECLEAR) 181-BISON      receives (CYBERKEV63) 341-BRIDG
+(CYBERKEV63) 341-BRIDG      receives (LOKIDES) 171-STREE
+(LOKIDES) 171-STREE         receives (THE_PIRATE) 032-A1503
+(THE_PIRATE) 032-A1503      receives (FFISH) 367-MAGNA
+(FFISH) 367-MAGNA           receives (REGOR) 071-MEXIC
+(REGOR) 071-MEXIC           receives (KATHYB) 210-MYKER
+(KATHYB) 210-MYKER          receives (PORT POWER 1914) 322-PUERT
+(PORT POWER 1914) 322-PUERT receives (CYBERKEV63) 342-HOLLY
+(CYBERKEV63) 342-HOLLY      receives (MARK_OWEN_REICH) 317-FAMIL
+(MARK_OWEN_REICH) 317-FAMIL receives (COXY_FC) 112-DUCKS
+(COXY_FC) 112-DUCKS         receives (RED TURTLE) 283-GWALL
+(RED TURTLE) 283-GWALL      receives (SCHOLLE) 176-FJORD
+(SCHOLLE) 176-FJORD         receives (GMCNISH) 148-THATS
+(GMCNISH) 148-THATS         receives (CYBERKEV63) 346-QUOVA
+(CYBERKEV63) 346-QUOVA      receives (FLASHYG) 236-DOFA1
+(FLASHYG) 236-DOFA1         receives (TYNDAL) 136-NEXUS
+(TYNDAL) 136-NEXUS          receives (SHAWN_LOW) 254-WOWCG
+(SHAWN_LOW) 254-WOWCG       receives (OTAKU) 259-MALLH
+(OTAKU) 259-MALLH           receives (GMCNISH) 138-BATTL
+(GMCNISH) 138-BATTL         receives (MATT L) 239-KRETA
+(MATT L) 239-KRETA          receives (MIKEY) 023-VINCI
+(MIKEY) 023-VINCI           receives (CYBERKEV63) 355-FFIJI
+(CYBERKEV63) 355-FFIJI      receives (GMCNISH) 144-JACKR
+(GMCNISH) 144-JACKR         receives (INTHECLEAR) 070-CHANG
+(INTHECLEAR) 070-CHANG      receives (OZJESTING) 255-DUELD
+(OZJESTING) 255-DUELD       receives (FRIENDLESS) 333-RUNEB
+(FRIENDLESS) 333-RUNEB      receives (GENESTEELER) 151-REEFE
+(GENESTEELER) 151-REEFE     receives (KOPJE KOFFIE) 285-MANAS
+(KOPJE KOFFIE) 285-MANAS    receives (FLASHYG) 227-4THEP
+(FLASHYG) 227-4THEP         receives (TYNDAL) 131-CHANG
+(TYNDAL) 131-CHANG          receives (EARTHBOOT) 149-WAROF
+(EARTHBOOT) 149-WAROF       receives (HARRO) 330-PANZR
+(HARRO) 330-PANZR           receives (DA PYRATE) 050-NAVAL
+(DA PYRATE) 050-NAVAL       receives (KOPJE KOFFIE) 027-CORPS
+(KOPJE KOFFIE) 027-CORPS    receives (RED TURTLE) 267-BULGE
+(RED TURTLE) 267-BULGE      receives (FRIENDLESS) 009-HOITY
+(FRIENDLESS) 009-HOITY      receives (PHIL81) 319-FJORD
+(PHIL81) 319-FJORD          receives (BIGJOBBIES) 102-TWIXT
+(BIGJOBBIES) 102-TWIXT      receives (KOPJE KOFFIE) 026-ALEXA
+(KOPJE KOFFIE) 026-ALEXA    receives (SBSZINE) 157-CAYLU
+(SBSZINE) 157-CAYLU         receives (COXY_FC) 109-MYKER
+(COXY_FC) 109-MYKER         receives (SQUIRE) 217-CCXP2
+(SQUIRE) 217-CCXP2          receives (BIGJOBBIES) 083-POLAR
+(BIGJOBBIES) 083-POLAR      receives (REGOR) 073-TYPOO
+(REGOR) 073-TYPOO           receives (GMCNISH) 137-ARKEX
+(GMCNISH) 137-ARKEX         receives (INTHECLEAR) 306-KONIG
+(INTHECLEAR) 306-KONIG      receives (FRIENDLESS) 226-JJAVA
+(FRIENDLESS) 226-JJAVA      receives (GMCNISH) 142-HOBBY
+(GMCNISH) 142-HOBBY         receives (SCHOLLE) 175-ALEXA
+(SCHOLLE) 175-ALEXA         receives (KATHYB) 209-HARET
+
+(DA PYRATE) 047-CCEUR       receives (MARK_OWEN_REICH) 310-ATTIL
+(MARK_OWEN_REICH) 310-ATTIL receives (SHAWN_LOW) 128-ONTHE
+(SHAWN_LOW) 128-ONTHE       receives (DA PYRATE) 051-MOTOR
+(DA PYRATE) 051-MOTOR       receives (CYBERKEV63) 343-MERMA
+(CYBERKEV63) 343-MERMA      receives (DA PYRATE) 187-NASTY
+(DA PYRATE) 187-NASTY       receives (CYBERKEV63) 344-OASIS
+(CYBERKEV63) 344-OASIS      receives (OZJESTING) 252-RHEIN
+(OZJESTING) 252-RHEIN       receives (SCHOLLE) 188-BOOTL
+(SCHOLLE) 188-BOOTL         receives (GMCNISH) 139-BSACK
+(GMCNISH) 139-BSACK         receives (DA PYRATE) 047-CCEUR
+
+(DA PYRATE) 242-ROMML       receives (AVENELL) 068-STARS
+(AVENELL) 068-STARS         receives (AMNESE) 362-DIPLO
+(AMNESE) 362-DIPLO          receives (BLACKSOILBILL) 153-HIVEZ
+(BLACKSOILBILL) 153-HIVEZ   receives (RED TURTLE) 268-BLUEM
+(RED TURTLE) 268-BLUEM      receives (NEIL THOMSON) 093-BMCIT
+(NEIL THOMSON) 093-BMCIT    receives (CYBERKEV63) 356-LIARS
+(CYBERKEV63) 356-LIARS      receives (SCHOLLE) 177-MAGBL
+(SCHOLLE) 177-MAGBL         receives (AMNESE) 359-ANTIK
+(AMNESE) 359-ANTIK          receives (EARTHBOOT) 091-RUSSI
+(EARTHBOOT) 091-RUSSI       receives (BLACKSOILBILL) 156-FIREP
+(BLACKSOILBILL) 156-FIREP   receives (GENESTEELER) 243-TWIST
+(GENESTEELER) 243-TWIST     receives (DA PYRATE) 242-ROMML
+
+(KOPJE KOFFIE) 025-FRIED    receives (PORT POWER 1914) 265-CIVIL
+(PORT POWER 1914) 265-CIVIL receives (PHIL81) 276-CLANS
+(PHIL81) 276-CLANS          receives (MARK_OWEN_REICH) 309-BULCS
+(MARK_OWEN_REICH) 309-BULCS receives (OTAKU) 262-DRUNT
+(OTAKU) 262-DRUNT           receives (UNHALFBRICKING) 200-ZOOLO
+(UNHALFBRICKING) 200-ZOOLO  receives (GENESTEELER) 280-STONE
+(GENESTEELER) 280-STONE     receives (KOPJE KOFFIE) 025-FRIED
+
+(BIGJOBBIES) 087-DUNGE      receives (PORT POWER 1914) 186-SANTI
+(PORT POWER 1914) 186-SANTI receives (BIGJOBBIES) 104-MAKIN
+(BIGJOBBIES) 104-MAKIN      receives (COXY_FC) 193-AGEOF
+(COXY_FC) 193-AGEOF         receives (SQUIRE) 218-CCXP3
+(SQUIRE) 218-CCXP3          receives (PHIL81) 279-TACTI
+(PHIL81) 279-TACTI          receives (BIGJOBBIES) 087-DUNGE
+
+(DOODAD) 060-STARC          receives (INTHECLEAR) 074-DUELO
+(INTHECLEAR) 074-DUELO      receives (OZJESTING) 253-CCANC
+(OZJESTING) 253-CCANC       receives (DOODAD) 060-STARC
+
+(GMCNISH) 146-QUIRK         receives (SHAWN_LOW) 116-UNITO
+(SHAWN_LOW) 116-UNITO       receives (MARIANA) 334-WOTRG
+(MARIANA) 334-WOTRG         receives (GMCNISH) 146-QUIRK
+
+ITEM SUMMARY (195 total trades):
+
+(AARONSEEBER) 001-DRACH     receives (SHAWN_LOW) 247-SIENA       and sends to (MIKEY) 021-EVERG
+(AARONSEEBER) 002-LOTRS                 does not trade
+(AARONSEEBER) 003-JAMBO     receives (EARTHBOOT) 084-BLUFF       and sends to (PORT POWER 1914) 263-YSPAH
+(AARONSEEBER) 244-PALAZ     receives (KRISJOHN) 166-NETRU        and sends to (BIGJOBBIES) 106-PICKO
+(AMNESE) 359-ANTIK          receives (EARTHBOOT) 091-RUSSI       and sends to (SCHOLLE) 177-MAGBL
+(AMNESE) 360-PGRID          receives (CYBERKEV63) 339-AUGSB      and sends to (COXY_FC) 111-ELGRA
+(AMNESE) 361-BFEUD                      does not trade
+(AMNESE) 362-DIPLO          receives (BLACKSOILBILL) 153-HIVEZ   and sends to (AVENELL) 068-STARS
+(AMNESE) 363-DOUGH                      does not trade
+(AMNESE) 364-RISKZ                      does not trade
+(AMNESE) 365-PARTY                      does not trade
+(AVENELL) 063-BETRA         receives (BAKYOSAN) 288-TIDEI        and sends to (MIKEY) 024-ROBOR
+(AVENELL) 068-STARS         receives (AMNESE) 362-DIPLO          and sends to (DA PYRATE) 242-ROMML
+(AVENELL) 069-WINGS         receives (FRIENDLESS) 005-ROBOR      and sends to (NEIL THOMSON) 191-FIRST
+(BAKYOSAN) 287-HSCAP        receives (MIKEY) 024-ROBOR           and sends to (KRISJOHN) 166-NETRU
+(BAKYOSAN) 288-TIDEI        receives (THE_PIRATE) 040-LOUIS      and sends to (AVENELL) 063-BETRA
+(BIG A) 118-ENTDE           receives (DA PYRATE) 046-BOWL3       and sends to (INTHECLEAR) 097-DUNEZ
+(BIG A) 119-INDUS           receives (BRENDANM) 213-BLOOD        and sends to (THE_PIRATE) 041-MIDGA
+(BIG A) 121-ROADS                       does not trade
+(BIG A) 124-SCEPT                       does not trade
+(BIGJOBBIES) 079-CONDO      receives (BLACKSOILBILL) 154-COWBO   and sends to (THE_PIRATE) 035-CAMEL
+(BIGJOBBIES) 080-DISXX                  does not trade
+(BIGJOBBIES) 081-INFER      receives (THE_PIRATE) 041-MIDGA      and sends to (CRAIG_H) 232-DEADM
+(BIGJOBBIES) 082-ROMEA                  does not trade
+(BIGJOBBIES) 083-POLAR      receives (REGOR) 073-TYPOO           and sends to (SQUIRE) 217-CCXP2
+(BIGJOBBIES) 085-SKRAL                  does not trade
+(BIGJOBBIES) 086-WRECK                  does not trade
+(BIGJOBBIES) 087-DUNGE      receives (PORT POWER 1914) 186-SANTI and sends to (PHIL81) 279-TACTI
+(BIGJOBBIES) 089-ANNOF                  does not trade
+(BIGJOBBIES) 101-BBOWL      receives (PHIL81) 275-HANSA          and sends to (SHAWN_LOW) 247-SIENA
+(BIGJOBBIES) 102-TWIXT      receives (KOPJE KOFFIE) 026-ALEXA    and sends to (PHIL81) 319-FJORD
+(BIGJOBBIES) 103-QINTO                  does not trade
+(BIGJOBBIES) 104-MAKIN      receives (COXY_FC) 193-AGEOF         and sends to (PORT POWER 1914) 186-SANTI
+(BIGJOBBIES) 105-MENOF                  does not trade
+(BIGJOBBIES) 106-PICKO      receives (AARONSEEBER) 244-PALAZ     and sends to (GMCNISH) 300-ODINS
+(BIGJOBBIES) 107-SAINT                  does not trade
+(BIGJOBBIES) 185-STEPH      receives (SBSZINE) 282-HOUSE         and sends to (SHAWN_LOW) 249-CAROL
+(BLACKSOILBILL) 153-HIVEZ   receives (RED TURTLE) 268-BLUEM      and sends to (AMNESE) 362-DIPLO
+(BLACKSOILBILL) 154-COWBO   receives (FFISH) 366-COVEN           and sends to (BIGJOBBIES) 079-CONDO
+(BLACKSOILBILL) 155-RUSSI               does not trade
+(BLACKSOILBILL) 156-FIREP   receives (GENESTEELER) 243-TWIST     and sends to (EARTHBOOT) 091-RUSSI
+(BLADEMASTER777) 014-ELFEN              does not trade
+(BREAKER) 321-CAESE                     does not trade
+(BRENDANM) 213-BLOOD        receives (RED TURTLE) 266-2038Z      and sends to (BIG A) 119-INDUS
+(BRENDANM) 214-PARTH                    does not trade
+(BRENDANM) 215-BUGEY                    does not trade
+(CARADOC) 064-FRONT         receives (FRIENDLESS) 017-HEROQ      and sends to (DA PYRATE) 067-DIPLO
+(CARADOC) 096-CORUN                     does not trade
+(CHRISPAYNE) 182-STARW                  does not trade
+(CHRISPAYNE) 183-BETRA      receives (TALLBOY) 099-CCAST         and sends to (CYBERKEV63) 357-HQKEL
+(CHRISPAYNE) 184-SUBBU      receives (OTAKU) 260-CRCHG           and sends to (SHAWN_LOW) 061-ASLSK
+(COXY_FC) 108-COMBA         receives (SQUIRE) 219-GALAC          and sends to (SCHOLLE) 179-PAXRO
+(COXY_FC) 109-MYKER         receives (SQUIRE) 217-CCXP2          and sends to (SBSZINE) 157-CAYLU
+(COXY_FC) 110-CCAST         receives (PORT POWER 1914) 264-THRUD and sends to (FRIENDLESS) 017-HEROQ
+(COXY_FC) 111-ELGRA         receives (AMNESE) 360-PGRID          and sends to (RED TURTLE) 266-2038Z
+(COXY_FC) 112-DUCKS         receives (RED TURTLE) 283-GWALL      and sends to (MARK_OWEN_REICH) 317-FAMIL
+(COXY_FC) 193-AGEOF         receives (SQUIRE) 218-CCXP3          and sends to (BIGJOBBIES) 104-MAKIN
+(COXY_FC) 194-RISKA                     does not trade
+(CRAIG_H) 232-DEADM         receives (BIGJOBBIES) 081-INFER      and sends to (PHIL81) 318-CONDT
+(CRAIG_H) 233-GODST                     does not trade
+(CYBERKEV63) 339-AUGSB      receives (PHIL81) 312-IVANH          and sends to (AMNESE) 360-PGRID
+(CYBERKEV63) 340-ARKOF      receives (RED TURTLE) 273-MAKEN      and sends to (KRISJOHN) 173-CATAN
+(CYBERKEV63) 341-BRIDG      receives (LOKIDES) 171-STREE         and sends to (INTHECLEAR) 181-BISON
+(CYBERKEV63) 342-HOLLY      receives (MARK_OWEN_REICH) 317-FAMIL and sends to (PORT POWER 1914) 322-PUERT
+(CYBERKEV63) 343-MERMA      receives (DA PYRATE) 187-NASTY       and sends to (DA PYRATE) 051-MOTOR
+(CYBERKEV63) 344-OASIS      receives (OZJESTING) 252-RHEIN       and sends to (DA PYRATE) 187-NASTY
+(CYBERKEV63) 345-PIZAR                  does not trade
+(CYBERKEV63) 346-QUOVA      receives (FLASHYG) 236-DOFA1         and sends to (GMCNISH) 148-THATS
+(CYBERKEV63) 347-WARLO                  does not trade
+(CYBERKEV63) 348-TALIS                  does not trade
+(CYBERKEV63) 349-TIMEA      receives (DA PYRATE) 045-ACQUI       and sends to (SQUIRE) 222-AMUNR
+(CYBERKEV63) 350-AUSTR                  does not trade
+(CYBERKEV63) 351-MAGIC                  does not trade
+(CYBERKEV63) 352-ZOMBI                  does not trade
+(CYBERKEV63) 353-TIMEX      receives (KERBSTER76) 291-JAILB      and sends to (UNHALFBRICKING) 204-KINGS
+(CYBERKEV63) 354-BEUTE                  does not trade
+(CYBERKEV63) 355-FFIJI      receives (GMCNISH) 144-JACKR         and sends to (MIKEY) 023-VINCI
+(CYBERKEV63) 356-LIARS      receives (SCHOLLE) 177-MAGBL         and sends to (NEIL THOMSON) 093-BMCIT
+(CYBERKEV63) 357-HQKEL      receives (CHRISPAYNE) 183-BETRA      and sends to (SHAWN_LOW) 120-SEASI
+(CYBERKEV63) 358-HQWIT      receives (NEIL THOMSON) 095-MAGBL    and sends to (OTAKU) 257-MAHAR
+(DA PYRATE) 045-ACQUI       receives (GMCNISH) 292-HARET         and sends to (CYBERKEV63) 349-TIMEA
+(DA PYRATE) 046-BOWL3       receives (MIKEY) 021-EVERG           and sends to (BIG A) 118-ENTDE
+(DA PYRATE) 047-CCEUR       receives (MARK_OWEN_REICH) 310-ATTIL and sends to (GMCNISH) 139-BSACK
+(DA PYRATE) 048-HONOR                   does not trade
+(DA PYRATE) 049-ITIDE                   does not trade
+(DA PYRATE) 050-NAVAL       receives (KOPJE KOFFIE) 027-CORPS    and sends to (HARRO) 330-PANZR
+(DA PYRATE) 051-MOTOR       receives (CYBERKEV63) 343-MERMA      and sends to (SHAWN_LOW) 128-ONTHE
+(DA PYRATE) 052-NAPOL                   does not trade
+(DA PYRATE) 053-PITCH                   does not trade
+(DA PYRATE) 054-TVWAR                   does not trade
+(DA PYRATE) 055-WORLD       receives (UNHALFBRICKING) 204-KINGS  and sends to (SHAWN_LOW) 018-EUPHR
+(DA PYRATE) 065-PIZZA                   does not trade
+(DA PYRATE) 066-CATAN       receives (PORT POWER 1914) 012-TALUV and sends to (KATHYB) 209-HARET
+(DA PYRATE) 067-DIPLO       receives (CARADOC) 064-FRONT         and sends to (PHIL81) 275-HANSA
+(DA PYRATE) 187-NASTY       receives (CYBERKEV63) 344-OASIS      and sends to (CYBERKEV63) 343-MERMA
+(DA PYRATE) 192-WARAT       receives (INTHECLEAR) 181-BISON      and sends to (EARTHBOOT) 084-BLUFF
+(DA PYRATE) 241-VICPA                   does not trade
+(DA PYRATE) 242-ROMML       receives (AVENELL) 068-STARS         and sends to (GENESTEELER) 243-TWIST
+(DA PYRATE) 245-BOSWO                   does not trade
+(DOODAD) 060-STARC          receives (INTHECLEAR) 074-DUELO      and sends to (OZJESTING) 253-CCANC
+(EARTHBOOT) 084-BLUFF       receives (DA PYRATE) 192-WARAT       and sends to (AARONSEEBER) 003-JAMBO
+(EARTHBOOT) 091-RUSSI       receives (BLACKSOILBILL) 156-FIREP   and sends to (AMNESE) 359-ANTIK
+(EARTHBOOT) 149-WAROF       receives (HARRO) 330-PANZR           and sends to (TYNDAL) 131-CHANG
+(EARTHBOOT) 303-MSFOR                   does not trade
+(EARTHBOOT) 304-RBLSA                   does not trade
+(FFISH) 366-COVEN           receives (NEIL THOMSON) 094-LOTRC    and sends to (BLACKSOILBILL) 154-COWBO
+(FFISH) 367-MAGNA           receives (REGOR) 071-MEXIC           and sends to (THE_PIRATE) 032-A1503
+(FFISH) 368-CARCA                       does not trade
+(FFISH) 369-BLCUP                       does not trade
+(FFISH) 370-TWIST           receives (SQUIRE) 221-REDPL          and sends to (NEIL THOMSON) 092-INGEN
+(FLASHYG) 227-4THEP         receives (TYNDAL) 131-CHANG          and sends to (KOPJE KOFFIE) 285-MANAS
+(FLASHYG) 236-DOFA1         receives (TYNDAL) 136-NEXUS          and sends to (CYBERKEV63) 346-QUOVA
+(FRIENDLESS) 004-COLSS      receives (SHAWN_LOW) 249-CAROL       and sends to (PORT POWER 1914) 012-TALUV
+(FRIENDLESS) 005-ROBOR      receives (SHAWN_LOW) 120-SEASI       and sends to (AVENELL) 069-WINGS
+(FRIENDLESS) 006-SHEAR                  does not trade
+(FRIENDLESS) 007-GENOA      receives (LOKIDES) 169-TERRA         and sends to (MIKEY) 019-SANTA
+(FRIENDLESS) 008-OCTIL                  does not trade
+(FRIENDLESS) 009-HOITY      receives (PHIL81) 319-FJORD          and sends to (RED TURTLE) 267-BULGE
+(FRIENDLESS) 016-WORDI                  does not trade
+(FRIENDLESS) 017-HEROQ      receives (COXY_FC) 110-CCAST         and sends to (CARADOC) 064-FRONT
+(FRIENDLESS) 037-REEFF                  does not trade
+(FRIENDLESS) 044-BEARD                  does not trade
+(FRIENDLESS) 062-CCOWS                  does not trade
+(FRIENDLESS) 129-GLOOM                  does not trade
+(FRIENDLESS) 224-LORDS      receives (GMCNISH) 294-BAZAR         and sends to (REGOR) 072-WKING
+(FRIENDLESS) 225-CARDS                  does not trade
+(FRIENDLESS) 226-JJAVA      receives (GMCNISH) 142-HOBBY         and sends to (INTHECLEAR) 306-KONIG
+(FRIENDLESS) 235-CARCD                  does not trade
+(FRIENDLESS) 333-RUNEB      receives (GENESTEELER) 151-REEFE     and sends to (OZJESTING) 255-DUELD
+(GENESTEELER) 015-EARTH                 does not trade
+(GENESTEELER) 056-AGEOF     receives (SCHOLLE) 174-GREAT         and sends to (LOKIDES) 169-TERRA
+(GENESTEELER) 057-VOYAG                 does not trade
+(GENESTEELER) 058-TIDEO                 does not trade
+(GENESTEELER) 059-MAGIC                 does not trade
+(GENESTEELER) 113-SAINT     receives (REGOR) 072-WKING           and sends to (PHIL81) 277-WYATT
+(GENESTEELER) 114-AIRAS                 does not trade
+(GENESTEELER) 115-TOTAL                 does not trade
+(GENESTEELER) 150-TWILI                 does not trade
+(GENESTEELER) 151-REEFE     receives (KOPJE KOFFIE) 285-MANAS    and sends to (FRIENDLESS) 333-RUNEB
+(GENESTEELER) 152-FIFTH                 does not trade
+(GENESTEELER) 195-LRTCG                 does not trade
+(GENESTEELER) 243-TWIST     receives (DA PYRATE) 242-ROMML       and sends to (BLACKSOILBILL) 156-FIREP
+(GENESTEELER) 280-STONE     receives (KOPJE KOFFIE) 025-FRIED    and sends to (UNHALFBRICKING) 200-ZOOLO
+(GENESTEELER) 281-CAYLU                 does not trade
+(GLENTRAFF) 337-ARKAD       receives (KERBSTER76) 290-HEROQ      and sends to (THE_PIRATE) 040-LOUIS
+(GMCNISH) 137-ARKEX         receives (INTHECLEAR) 306-KONIG      and sends to (REGOR) 073-TYPOO
+(GMCNISH) 138-BATTL         receives (MATT L) 239-KRETA          and sends to (OTAKU) 259-MALLH
+(GMCNISH) 139-BSACK         receives (DA PYRATE) 047-CCEUR       and sends to (SCHOLLE) 188-BOOTL
+(GMCNISH) 140-SPIGS                     does not trade
+(GMCNISH) 141-COAST                     does not trade
+(GMCNISH) 142-HOBBY         receives (SCHOLLE) 175-ALEXA         and sends to (FRIENDLESS) 226-JJAVA
+(GMCNISH) 143-LOTRD                     does not trade
+(GMCNISH) 144-JACKR         receives (INTHECLEAR) 070-CHANG      and sends to (CYBERKEV63) 355-FFIJI
+(GMCNISH) 145-NITTY                     does not trade
+(GMCNISH) 146-QUIRK         receives (SHAWN_LOW) 116-UNITO       and sends to (MARIANA) 334-WOTRG
+(GMCNISH) 147-SHAPE                     does not trade
+(GMCNISH) 148-THATS         receives (CYBERKEV63) 346-QUOVA      and sends to (SCHOLLE) 176-FJORD
+(GMCNISH) 292-HARET         receives (SCHOLLE) 180-PIRAT         and sends to (DA PYRATE) 045-ACQUI
+(GMCNISH) 293-FRAGZ                     does not trade
+(GMCNISH) 294-BAZAR         receives (UNHALFBRICKING) 207-TADSC  and sends to (FRIENDLESS) 224-LORDS
+(GMCNISH) 295-AGOTS                     does not trade
+(GMCNISH) 296-FLYCA                     does not trade
+(GMCNISH) 297-ARCHA                     does not trade
+(GMCNISH) 298-SILKR         receives (PORT POWER 1914) 010-PCOVE and sends to (NEIL THOMSON) 094-LOTRC
+(GMCNISH) 299-SUBMA                     does not trade
+(GMCNISH) 300-ODINS         receives (BIGJOBBIES) 106-PICKO      and sends to (KERBSTER76) 291-JAILB
+(GMCNISH) 301-LDWIZ                     does not trade
+(HARRO) 329-EAGLE                       does not trade
+(HARRO) 330-PANZR           receives (DA PYRATE) 050-NAVAL       and sends to (EARTHBOOT) 149-WAROF
+(HARRO) 331-REICH                       does not trade
+(HARRO) 332-WOWMI                       does not trade
+(INTHECLEAR) 070-CHANG      receives (OZJESTING) 255-DUELD       and sends to (GMCNISH) 144-JACKR
+(INTHECLEAR) 074-DUELO      receives (OZJESTING) 253-CCANC       and sends to (DOODAD) 060-STARC
+(INTHECLEAR) 097-DUNEZ      receives (BIG A) 118-ENTDE           and sends to (SBSZINE) 282-HOUSE
+(INTHECLEAR) 181-BISON      receives (CYBERKEV63) 341-BRIDG      and sends to (DA PYRATE) 192-WARAT
+(INTHECLEAR) 256-HEART                  does not trade
+(INTHECLEAR) 302-SKYRN                  does not trade
+(INTHECLEAR) 305-BONGA                  does not trade
+(INTHECLEAR) 306-KONIG      receives (FRIENDLESS) 226-JJAVA      and sends to (GMCNISH) 137-ARKEX
+(KATHYB) 209-HARET          receives (DA PYRATE) 066-CATAN       and sends to (SCHOLLE) 175-ALEXA
+(KATHYB) 210-MYKER          receives (PORT POWER 1914) 322-PUERT and sends to (REGOR) 071-MEXIC
+(KATHYB) 211-EUREK                      does not trade
+(KATHYB) 212-STONE                      does not trade
+(KERBSTER76) 289-STRAT                  does not trade
+(KERBSTER76) 290-HEROQ      receives (KRISJOHN) 173-CATAN        and sends to (GLENTRAFF) 337-ARKAD
+(KERBSTER76) 291-JAILB      receives (GMCNISH) 300-ODINS         and sends to (CYBERKEV63) 353-TIMEX
+(KOPJE KOFFIE) 025-FRIED    receives (PORT POWER 1914) 265-CIVIL and sends to (GENESTEELER) 280-STONE
+(KOPJE KOFFIE) 026-ALEXA    receives (SBSZINE) 157-CAYLU         and sends to (BIGJOBBIES) 102-TWIXT
+(KOPJE KOFFIE) 027-CORPS    receives (RED TURTLE) 267-BULGE      and sends to (DA PYRATE) 050-NAVAL
+(KOPJE KOFFIE) 028-VENGE                does not trade
+(KOPJE KOFFIE) 029-WOFTR                does not trade
+(KOPJE KOFFIE) 030-WQEST    receives (SCHOLLE) 179-PAXRO         and sends to (MR_LUNCH) 011-KELLR
+(KOPJE KOFFIE) 285-MANAS    receives (FLASHYG) 227-4THEP         and sends to (GENESTEELER) 151-REEFE
+(KOPJE KOFFIE) 286-AIRBR                does not trade
+(KRISJOHN) 162-STARG                    does not trade
+(KRISJOHN) 163-DOOMT                    does not trade
+(KRISJOHN) 164-OVERP                    does not trade
+(KRISJOHN) 165-SPELL                    does not trade
+(KRISJOHN) 166-NETRU        receives (BAKYOSAN) 287-HSCAP        and sends to (AARONSEEBER) 244-PALAZ
+(KRISJOHN) 167-GUARD                    does not trade
+(KRISJOHN) 168-JYHAD                    does not trade
+(KRISJOHN) 173-CATAN        receives (CYBERKEV63) 340-ARKOF      and sends to (KERBSTER76) 290-HEROQ
+(KRISJOHN) 190-GRAVE                    does not trade
+(KRISJOHN) 228-CARWA                    does not trade
+(LOKIDES) 169-TERRA         receives (GENESTEELER) 056-AGEOF     and sends to (FRIENDLESS) 007-GENOA
+(LOKIDES) 170-LUCCA                     does not trade
+(LOKIDES) 171-STREE         receives (THE_PIRATE) 032-A1503      and sends to (CYBERKEV63) 341-BRIDG
+(LOKIDES) 172-ACQUI                     does not trade
+(MARIANA) 334-WOTRG         receives (GMCNISH) 146-QUIRK         and sends to (SHAWN_LOW) 116-UNITO
+(MARIANA) 335-SURVI                     does not trade
+(MARIANA) 336-ELEME                     does not trade
+(MARIANA) 338-SALOO                     does not trade
+(MARK_OWEN_REICH) 309-BULCS receives (OTAKU) 262-DRUNT           and sends to (PHIL81) 276-CLANS
+(MARK_OWEN_REICH) 310-ATTIL receives (SHAWN_LOW) 128-ONTHE       and sends to (DA PYRATE) 047-CCEUR
+(MARK_OWEN_REICH) 311-LOSTV             does not trade
+(MARK_OWEN_REICH) 313-AQUIR             does not trade
+(MARK_OWEN_REICH) 315-THEBE             does not trade
+(MARK_OWEN_REICH) 316-HOLLY             does not trade
+(MARK_OWEN_REICH) 317-FAMIL receives (COXY_FC) 112-DUCKS         and sends to (CYBERKEV63) 342-HOLLY
+(MATT L) 237-EXECD                      does not trade
+(MATT L) 238-ENTCG                      does not trade
+(MATT L) 239-KRETA          receives (MIKEY) 023-VINCI           and sends to (GMCNISH) 138-BATTL
+(MIKEY) 019-SANTA           receives (FRIENDLESS) 007-GENOA      and sends to (THE_PIRATE) 043-REIFE
+(MIKEY) 021-EVERG           receives (AARONSEEBER) 001-DRACH     and sends to (DA PYRATE) 046-BOWL3
+(MIKEY) 022-SAMUR                       does not trade
+(MIKEY) 023-VINCI           receives (CYBERKEV63) 355-FFIJI      and sends to (MATT L) 239-KRETA
+(MIKEY) 024-ROBOR           receives (AVENELL) 063-BETRA         and sends to (BAKYOSAN) 287-HSCAP
+(MR_LUNCH) 011-KELLR        receives (KOPJE KOFFIE) 030-WQEST    and sends to (OTAKU) 260-CRCHG
+(MR_LUNCH) 323-NOBOD                    does not trade
+(MR_LUNCH) 324-ARMCH                    does not trade
+(MR_LUNCH) 325-SCRAB                    does not trade
+(MR_LUNCH) 326-DUELL                    does not trade
+(MR_LUNCH) 327-TRSCR                    does not trade
+(NEIL THOMSON) 092-INGEN    receives (FFISH) 370-TWIST           and sends to (THE_PIRATE) 038-ELFEN
+(NEIL THOMSON) 093-BMCIT    receives (CYBERKEV63) 356-LIARS      and sends to (RED TURTLE) 268-BLUEM
+(NEIL THOMSON) 094-LOTRC    receives (GMCNISH) 298-SILKR         and sends to (FFISH) 366-COVEN
+(NEIL THOMSON) 095-MAGBL    receives (PHIL81) 318-CONDT          and sends to (CYBERKEV63) 358-HQWIT
+(NEIL THOMSON) 191-FIRST    receives (AVENELL) 069-WINGS         and sends to (SCHOLLE) 174-GREAT
+(NEIL THOMSON) 216-WARRI                does not trade
+(OTAKU) 257-MAHAR           receives (CYBERKEV63) 358-HQWIT      and sends to (PORT POWER 1914) 264-THRUD
+(OTAKU) 258-CONDO                       does not trade
+(OTAKU) 259-MALLH           receives (GMCNISH) 138-BATTL         and sends to (SHAWN_LOW) 254-WOWCG
+(OTAKU) 260-CRCHG           receives (MR_LUNCH) 011-KELLR        and sends to (CHRISPAYNE) 184-SUBBU
+(OTAKU) 261-WAYOW                       does not trade
+(OTAKU) 262-DRUNT           receives (UNHALFBRICKING) 200-ZOOLO  and sends to (MARK_OWEN_REICH) 309-BULCS
+(OZJESTING) 251-ATTRI                   does not trade
+(OZJESTING) 252-RHEIN       receives (SCHOLLE) 188-BOOTL         and sends to (CYBERKEV63) 344-OASIS
+(OZJESTING) 253-CCANC       receives (DOODAD) 060-STARC          and sends to (INTHECLEAR) 074-DUELO
+(OZJESTING) 255-DUELD       receives (FRIENDLESS) 333-RUNEB      and sends to (INTHECLEAR) 070-CHANG
+(PHIL81) 274-KAHUN                      does not trade
+(PHIL81) 275-HANSA          receives (DA PYRATE) 067-DIPLO       and sends to (BIGJOBBIES) 101-BBOWL
+(PHIL81) 276-CLANS          receives (MARK_OWEN_REICH) 309-BULCS and sends to (PORT POWER 1914) 265-CIVIL
+(PHIL81) 277-WYATT          receives (GENESTEELER) 113-SAINT     and sends to (SQUIRE) 219-GALAC
+(PHIL81) 278-INKOG                      does not trade
+(PHIL81) 279-TACTI          receives (BIGJOBBIES) 087-DUNGE      and sends to (SQUIRE) 218-CCXP3
+(PHIL81) 312-IVANH          receives (THE_PIRATE) 035-CAMEL      and sends to (CYBERKEV63) 339-AUGSB
+(PHIL81) 314-LOTRS                      does not trade
+(PHIL81) 318-CONDT          receives (CRAIG_H) 232-DEADM         and sends to (NEIL THOMSON) 095-MAGBL
+(PHIL81) 319-FJORD          receives (BIGJOBBIES) 102-TWIXT      and sends to (FRIENDLESS) 009-HOITY
+(PHIL81) 320-QWIRK          receives (TALLBOY) 100-LOTRC         and sends to (UNHALFBRICKING) 207-TADSC
+(PORT POWER 1914) 010-PCOVE receives (SHAWN_LOW) 018-EUPHR       and sends to (GMCNISH) 298-SILKR
+(PORT POWER 1914) 012-TALUV receives (FRIENDLESS) 004-COLSS      and sends to (DA PYRATE) 066-CATAN
+(PORT POWER 1914) 013-ABBEY receives (SQUIRE) 222-AMUNR          and sends to (RED TURTLE) 273-MAKEN
+(PORT POWER 1914) 186-SANTI receives (BIGJOBBIES) 104-MAKIN      and sends to (BIGJOBBIES) 087-DUNGE
+(PORT POWER 1914) 240-TONGI             does not trade
+(PORT POWER 1914) 263-YSPAH receives (AARONSEEBER) 003-JAMBO     and sends to (SQUIRE) 220-ABBEY
+(PORT POWER 1914) 264-THRUD receives (OTAKU) 257-MAHAR           and sends to (COXY_FC) 110-CCAST
+(PORT POWER 1914) 265-CIVIL receives (PHIL81) 276-CLANS          and sends to (KOPJE KOFFIE) 025-FRIED
+(PORT POWER 1914) 322-PUERT receives (CYBERKEV63) 342-HOLLY      and sends to (KATHYB) 210-MYKER
+(RED TURTLE) 266-2038Z      receives (COXY_FC) 111-ELGRA         and sends to (BRENDANM) 213-BLOOD
+(RED TURTLE) 267-BULGE      receives (FRIENDLESS) 009-HOITY      and sends to (KOPJE KOFFIE) 027-CORPS
+(RED TURTLE) 268-BLUEM      receives (NEIL THOMSON) 093-BMCIT    and sends to (BLACKSOILBILL) 153-HIVEZ
+(RED TURTLE) 269-CONQU                  does not trade
+(RED TURTLE) 270-EDISO                  does not trade
+(RED TURTLE) 271-GUILL                  does not trade
+(RED TURTLE) 272-LOTRS                  does not trade
+(RED TURTLE) 273-MAKEN      receives (PORT POWER 1914) 013-ABBEY and sends to (CYBERKEV63) 340-ARKOF
+(RED TURTLE) 283-GWALL      receives (SCHOLLE) 176-FJORD         and sends to (COXY_FC) 112-DUCKS
+(RED TURTLE) 284-R2210                  does not trade
+(REGOR) 071-MEXIC           receives (KATHYB) 210-MYKER          and sends to (FFISH) 367-MAGNA
+(REGOR) 072-WKING           receives (FRIENDLESS) 224-LORDS      and sends to (GENESTEELER) 113-SAINT
+(REGOR) 073-TYPOO           receives (GMCNISH) 137-ARKEX         and sends to (BIGJOBBIES) 083-POLAR
+(REGOR) 075-EUROP                       does not trade
+(REGOR) 076-SJUAN                       does not trade
+(REGOR) 077-CLANS                       does not trade
+(REGOR) 078-HACIE                       does not trade
+(REGOR) 088-GAMMA                       does not trade
+(REGOR) 090-BESTO                       does not trade
+(REGOR) 229-HETZE                       does not trade
+(REGOR) 230-HOITY                       does not trade
+(REGOR) 231-MAGBL                       does not trade
+(SBSZINE) 157-CAYLU         receives (COXY_FC) 109-MYKER         and sends to (KOPJE KOFFIE) 026-ALEXA
+(SBSZINE) 158-RENEG                     does not trade
+(SBSZINE) 159-IROND                     does not trade
+(SBSZINE) 160-PIZAR                     does not trade
+(SBSZINE) 161-SPACE                     does not trade
+(SBSZINE) 282-HOUSE         receives (INTHECLEAR) 097-DUNEZ      and sends to (BIGJOBBIES) 185-STEPH
+(SCHOLLE) 174-GREAT         receives (NEIL THOMSON) 191-FIRST    and sends to (GENESTEELER) 056-AGEOF
+(SCHOLLE) 175-ALEXA         receives (KATHYB) 209-HARET          and sends to (GMCNISH) 142-HOBBY
+(SCHOLLE) 176-FJORD         receives (GMCNISH) 148-THATS         and sends to (RED TURTLE) 283-GWALL
+(SCHOLLE) 177-MAGBL         receives (AMNESE) 359-ANTIK          and sends to (CYBERKEV63) 356-LIARS
+(SCHOLLE) 178-NODWI                     does not trade
+(SCHOLLE) 179-PAXRO         receives (COXY_FC) 108-COMBA         and sends to (KOPJE KOFFIE) 030-WQEST
+(SCHOLLE) 180-PIRAT         receives (SQUIRE) 220-ABBEY          and sends to (GMCNISH) 292-HARET
+(SCHOLLE) 188-BOOTL         receives (GMCNISH) 139-BSACK         and sends to (OZJESTING) 252-RHEIN
+(SCHOLLE) 189-AFFEN                     does not trade
+(SEDGE) 196-DALMU                       does not trade
+(SEDGE) 197-SURVI                       does not trade
+(SEDGE) 198-LASTC                       does not trade
+(SEDGE) 199-CARWA                       does not trade
+(SHAWN_LOW) 018-EUPHR       receives (DA PYRATE) 055-WORLD       and sends to (PORT POWER 1914) 010-PCOVE
+(SHAWN_LOW) 020-WARPE                   does not trade
+(SHAWN_LOW) 031-SHADO                   does not trade
+(SHAWN_LOW) 061-ASLSK       receives (CHRISPAYNE) 184-SUBBU      and sends to (SQUIRE) 221-REDPL
+(SHAWN_LOW) 116-UNITO       receives (MARIANA) 334-WOTRG         and sends to (GMCNISH) 146-QUIRK
+(SHAWN_LOW) 117-MONTY                   does not trade
+(SHAWN_LOW) 120-SEASI       receives (CYBERKEV63) 357-HQKEL      and sends to (FRIENDLESS) 005-ROBOR
+(SHAWN_LOW) 122-VICTO                   does not trade
+(SHAWN_LOW) 123-WAYOU                   does not trade
+(SHAWN_LOW) 125-PERIK                   does not trade
+(SHAWN_LOW) 126-BYZAN                   does not trade
+(SHAWN_LOW) 127-TOMBZ                   does not trade
+(SHAWN_LOW) 128-ONTHE       receives (DA PYRATE) 051-MOTOR       and sends to (MARK_OWEN_REICH) 310-ATTIL
+(SHAWN_LOW) 246-SMCIV                   does not trade
+(SHAWN_LOW) 247-SIENA       receives (BIGJOBBIES) 101-BBOWL      and sends to (AARONSEEBER) 001-DRACH
+(SHAWN_LOW) 248-PARTH                   does not trade
+(SHAWN_LOW) 249-CAROL       receives (BIGJOBBIES) 185-STEPH      and sends to (FRIENDLESS) 004-COLSS
+(SHAWN_LOW) 250-CHICA                   does not trade
+(SHAWN_LOW) 254-WOWCG       receives (OTAKU) 259-MALLH           and sends to (TYNDAL) 136-NEXUS
+(SHAWN_LOW) 328-CIVIL                   does not trade
+(SQUIRE) 217-CCXP2          receives (BIGJOBBIES) 083-POLAR      and sends to (COXY_FC) 109-MYKER
+(SQUIRE) 218-CCXP3          receives (PHIL81) 279-TACTI          and sends to (COXY_FC) 193-AGEOF
+(SQUIRE) 219-GALAC          receives (PHIL81) 277-WYATT          and sends to (COXY_FC) 108-COMBA
+(SQUIRE) 220-ABBEY          receives (PORT POWER 1914) 263-YSPAH and sends to (SCHOLLE) 180-PIRAT
+(SQUIRE) 221-REDPL          receives (SHAWN_LOW) 061-ASLSK       and sends to (FFISH) 370-TWIST
+(SQUIRE) 222-AMUNR          receives (CYBERKEV63) 349-TIMEA      and sends to (PORT POWER 1914) 013-ABBEY
+(SQUIRE) 223-BOROD                      does not trade
+(SQUIRE) 234-KINGM                      does not trade
+(TALLBOY) 098-SEAFA                     does not trade
+(TALLBOY) 099-CCAST         receives (THE_PIRATE) 043-REIFE      and sends to (CHRISPAYNE) 183-BETRA
+(TALLBOY) 100-LOTRC         receives (THE_PIRATE) 038-ELFEN      and sends to (PHIL81) 320-QWIRK
+(THE_PIRATE) 032-A1503      receives (FFISH) 367-MAGNA           and sends to (LOKIDES) 171-STREE
+(THE_PIRATE) 033-A1520                  does not trade
+(THE_PIRATE) 034-BFEUD                  does not trade
+(THE_PIRATE) 035-CAMEL      receives (BIGJOBBIES) 079-CONDO      and sends to (PHIL81) 312-IVANH
+(THE_PIRATE) 036-DRACO                  does not trade
+(THE_PIRATE) 038-ELFEN      receives (NEIL THOMSON) 092-INGEN    and sends to (TALLBOY) 100-LOTRC
+(THE_PIRATE) 039-LINES                  does not trade
+(THE_PIRATE) 040-LOUIS      receives (GLENTRAFF) 337-ARKAD       and sends to (BAKYOSAN) 288-TIDEI
+(THE_PIRATE) 041-MIDGA      receives (BIG A) 119-INDUS           and sends to (BIGJOBBIES) 081-INFER
+(THE_PIRATE) 042-SAMUR                  does not trade
+(THE_PIRATE) 043-REIFE      receives (MIKEY) 019-SANTA           and sends to (TALLBOY) 099-CCAST
+(THE_PIRATE) 307-CAFIN                  does not trade
+(THE_PIRATE) 308-LIFEB                  does not trade
+(TYNDAL) 130-SAMUR                      does not trade
+(TYNDAL) 131-CHANG          receives (EARTHBOOT) 149-WAROF       and sends to (FLASHYG) 227-4THEP
+(TYNDAL) 132-SOLEM                      does not trade
+(TYNDAL) 133-KINGS                      does not trade
+(TYNDAL) 134-LAWLE                      does not trade
+(TYNDAL) 135-PERIK                      does not trade
+(TYNDAL) 136-NEXUS          receives (SHAWN_LOW) 254-WOWCG       and sends to (FLASHYG) 236-DOFA1
+(UNHALFBRICKING) 200-ZOOLO  receives (GENESTEELER) 280-STONE     and sends to (OTAKU) 262-DRUNT
+(UNHALFBRICKING) 201-SHARK              does not trade
+(UNHALFBRICKING) 202-BACKP              does not trade
+(UNHALFBRICKING) 203-TALIS              does not trade
+(UNHALFBRICKING) 204-KINGS  receives (CYBERKEV63) 353-TIMEX      and sends to (DA PYRATE) 055-WORLD
+(UNHALFBRICKING) 205-CAPEH              does not trade
+(UNHALFBRICKING) 206-SEASI              does not trade
+(UNHALFBRICKING) 207-TADSC  receives (PHIL81) 320-QWIRK          and sends to (GMCNISH) 294-BAZAR
+(UNHALFBRICKING) 208-CAPRI              does not trade
+
+Num trades  = 195 of 370 items (52.7%)
+Total cost  = 242850 (avg 1245.38)
+Num groups  = 9
+Group sizes = 121 20 13 12 10 7 6 3 3
+Sum squares = 15557
+
+ITEMS FOR WHICH NO WANTS HAVE BEEN SUBMITTED
+WHAT IS item = 063-BETRA
+WHAT IS item = 068-STARS
+WHAT IS item = 069-WINGS
+
+Process finished with exit code 0
+

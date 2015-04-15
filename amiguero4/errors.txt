@@ -1,0 +1,22 @@
+ERRORS and WARNINGS
+
+(Foozle) 2612853-SKYLI : Skyline
+(Foozle) 2618946-COURT : Courtier
+(Foozle) 2621247-SMCTB : Sid Meier's Civilization: The Board Game
+Duckula: Item %REP12 for Duckula is repeated in want list for 2655788-DRAGO
+Duckula: Item %REP12 for Duckula is repeated in want list for 2655789-VATET
+Duckula: Item %REP12 for Duckula is repeated in want list for 2655791-PUERR
+Duckula: Item %REP12 for Duckula is repeated in want list for 2655793-WIZAK
+Duckula: Item %REP12 for Duckula is repeated in want list for 2655795-DIDEL
+Duckula: Item %REP12 for Duckula is repeated in want list for 2655796-SLEUT
+Foozle has not submitted a wants list
+Mariana: Item 2643253-KEESD is repeated in want list for 2663050-BANGX
+User Charlie Alpha has submitted wants but is not in the geeklist.
+User Player_1 has submitted wants but is not in the geeklist.
+User gerald has submitted wants but is not in the geeklist.
+User goonahboy has submitted wants but is not in the geeklist.
+User katsuben has submitted wants but is not in the geeklist.
+User mctom has submitted wants but is not in the geeklist.
+mikotan26: Unknown code 2658133-AMOTS
+prd1982 is using a default spending limit
+stuartfinlay is using a default spending limit
