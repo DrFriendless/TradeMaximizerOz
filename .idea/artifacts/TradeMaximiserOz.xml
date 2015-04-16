@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TradeMaximiserOz">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="TradeMaximiserOz.jar">
+      <element id="module-output" name="TradeMaximizer-1.3a" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
