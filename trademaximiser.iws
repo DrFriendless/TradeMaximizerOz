@@ -20,27 +20,23 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dbd8278-99f3-48d1-aacd-a71203e7e19d" name="Default" comment="Add args and required options check">
+    <list id="4dbd8278-99f3-48d1-aacd-a71203e7e19d" name="Default" comment="Add args and required options check" />
+    <list id="4cf16122-3bf0-445a-8350-89fc0ba78991" name="Rejected commit: Default" comment="Add args and required options check" />
+    <list default="true" id="c55aa51a-f5cb-47ed-b25b-a8b9d36d9d59" name="Changed example" comment="Changed example">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README-Original" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/input-amiguero2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/input-example-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/tm.bat" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amiguero2/result.txt" afterPath="$PROJECT_DIR$/amiguero2/result.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amiguero2/result0.html" afterPath="$PROJECT_DIR$/amiguero2/result0.html" />
-    </list>
-    <list id="4cf16122-3bf0-445a-8350-89fc0ba78991" name="Rejected commit: Default" comment="Add args and required options check">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TradeMaximizer-1.3a.iml" afterPath="$PROJECT_DIR$/TradeMaximizer-1.3a.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Geeklist.java" afterPath="$PROJECT_DIR$/src/Geeklist.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TradeMaximizer.java" afterPath="$PROJECT_DIR$/src/TradeMaximizer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trademaximiser.ipr" afterPath="$PROJECT_DIR$/trademaximiser.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trademaximiser.iws" afterPath="$PROJECT_DIR$/trademaximiser.iws" />
     </list>
     <ignored path="trademaximiser.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/trademaximiser.iws" ignored="false" />
-    <file path="$PROJECT_DIR$/src/TradeMaximizer.java" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +94,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TradeMaximizer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TradeMaximizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TradeMaximizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28">
+            <state vertical-scroll-proportion="-3.0227273">
               <caret line="650" column="44" selection-start-line="650" selection-start-column="44" selection-end-line="650" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73903966">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -223,6 +229,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Geeklist.java" />
         <option value="$PROJECT_DIR$/src/TradeMaximizer.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -231,8 +238,8 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="512" />
-    <option name="y" value="31" />
+    <option name="x" value="310" />
+    <option name="y" value="33" />
     <option name="width" value="1614" />
     <option name="height" value="986" />
   </component>
@@ -342,6 +349,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trademaximiser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeMaximizerOz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -612,10 +633,18 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4dbd8278-99f3-48d1-aacd-a71203e7e19d" name="Default" comment="" />
+      <changelist id="c55aa51a-f5cb-47ed-b25b-a8b9d36d9d59" name="Changed example" comment="" />
       <created>1326098956200</created>
       <option name="number" value="Default" />
       <updated>1326098956200</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add args and required options check. Add some debugging messages. Fix unhandled null in HTML output.">
+      <created>1453546478949</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453546478949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -639,21 +668,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="512" y="31" width="1614" height="986" extended-state="0" />
-    <editor active="true" />
+    <frame x="310" y="33" width="1614" height="986" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28106153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28106153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4163424" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20163317" sideWeight="0.30872482" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20163317" sideWeight="0.6912752" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20163317" sideWeight="0.30935252" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20163317" sideWeight="0.6906475" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -690,7 +719,8 @@
     <option name="PERFORM_UPDATE_IN_BACKGROUND" value="false" />
     <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
     <MESSAGE value="Add args and required options check" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add args and required options check" />
+    <MESSAGE value="Add args and required options check. Add some debugging messages. Fix unhandled null in HTML output." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add args and required options check. Add some debugging messages. Fix unhandled null in HTML output." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="VssConfiguration">
@@ -1057,11 +1087,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TradeMaximizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28">
+        <state vertical-scroll-proportion="-3.0227273">
           <caret line="650" column="44" selection-start-line="650" selection-start-column="44" selection-end-line="650" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73903966">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
