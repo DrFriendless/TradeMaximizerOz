@@ -169,6 +169,7 @@ public class Geeklist {
         String filename = MessageFormat.format(FILENAME, id);
         String urls = MessageFormat.format(URL, id);
         System.err.println("Retrieving " + urls);
+        System.err.println("Saving to: " + filename);
         URL url = new URL(urls);
         URLConnection conn = url.openConnection();
         BufferedInputStream is = new BufferedInputStream((InputStream) conn.getContent());
