@@ -174,6 +174,10 @@ public class TradeMaximizer {
         }
 
         Geeklist geeklist = new Geeklist(geeklistId, codeDigits, codeLetters, errors);
+
+        System.out.println("Geek list number of users: " + geeklist.getAllUsers().size());
+        System.out.println("Geek list number of codes: " + geeklist.getAllCodes().size());
+
         saveToDatabase(year, month, geeklist, wantLists);
         Solution bestSolution = null;
         long bestScore = Integer.MAX_VALUE;

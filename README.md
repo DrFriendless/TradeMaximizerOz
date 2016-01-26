@@ -52,6 +52,10 @@ For an example from an actual past trade, run:
 
 This will download a different Geek List, and has more complicated results.
 
+[2016-01-26] Currently codes are not working because the returned XML does not include
+comments, even though specified in the URL, e.g.:
+  http://boardgamegeek.com/xmlapi/geeklist/172859?comments=1
+
 
 
 
