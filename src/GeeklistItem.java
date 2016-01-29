@@ -40,6 +40,8 @@ public class GeeklistItem {
         return "Entry " + (itemNumber+1) + ": " + gameName;
     }
 
+    public String getItemId() { return itemId; }
+
     public String getItemUrl() {
         return MessageFormat.format(URL_PATTERN, list.getId(), itemId, itemId);
     }

@@ -177,6 +177,7 @@ public class TradeMaximizer {
 
         System.out.println("Geek list number of users: " + geeklist.getAllUsers().size());
         System.out.println("Geek list number of codes: " + geeklist.getAllCodes().size());
+        System.out.println("Geek list number of items: " + geeklist.getAllItemIds().size());
 
         saveToDatabase(year, month, geeklist, wantLists);
         Solution bestSolution = null;

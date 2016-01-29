@@ -24,6 +24,7 @@ public class Geeklist {
     private Pattern pattern;
     private List<GeeklistItem> items = new ArrayList<GeeklistItem>();
     private Map<String, GeeklistItem> itemsByCode = new HashMap<String, GeeklistItem>();
+    private Map<String, GeeklistItem> itemsByItemId = new HashMap<String, GeeklistItem>();
     private Map<String, List<GeeklistItem>> itemsByUser = new HashMap<String, List<GeeklistItem>>();
     private List<String> otherUsers = new ArrayList<String>();
     private Set<String> errors;
@@ -53,6 +54,7 @@ public class Geeklist {
         } else {
             errors.add("No code for item " + item.getItemUrl());
         }
+        itemsByItemId.put(item.getItemId(), item);
         String userName = item.getUserName();
         List<GeeklistItem> forUser = itemsByUser.get(userName);
         if (forUser == null) forUser = new ArrayList<GeeklistItem>();
@@ -71,7 +73,7 @@ public class Geeklist {
             NodeList comments = e.getElementsByTagName("comment");
             int commentCount = comments.getLength();
             String code = null;
-            for (int j=0; j<comments.getLength(); j++) {
+            for (int j = 0; j < comments.getLength(); j++) {
                 Element c = (Element) comments.item(j);
                 c.normalize();
                 String text = ((Text) c.getFirstChild()).getData();
@@ -85,15 +87,15 @@ public class Geeklist {
             GeeklistItem item = new GeeklistItem(this, itemId, gameName, userName, Integer.parseInt(gameId), code, i, commentCount);
             addNewItem(item);
         }
-        if (id.equals("156213")) {
-            int n = itemNodes.getLength();
-            // hack to fix up a massive cock-up in May 2013 - someone deleted a user's items
-            addNewItem(new GeeklistItem(this, "2612354-DWTCG", "Doctor Who: The Card Game", "ividdythou", 42, "2612354-DWTCG", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612362-AQUAR", "Aqua Romana", "ividdythou", 42, "2612362-AQUAR", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612360-WOWFA", "Wings of War: Famous Aces", "ividdythou", 42, "2612360-WOWFA", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612367-HIGHC", "Highland Clans", "ividdythou", 42, "2612367-HIGHC", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612372-TRIFO", "The Rivals for Catan", "ividdythou", 42, "2612372-TRIFO", n++, 0));
-        }
+//        if (id.equals("156213")) {
+//            int n = itemNodes.getLength();
+//            // hack to fix up a massive cock-up in May 2013 - someone deleted a user's items
+//            addNewItem(new GeeklistItem(this, "2612354-DWTCG", "Doctor Who: The Card Game", "ividdythou", 42, "2612354-DWTCG", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612362-AQUAR", "Aqua Romana", "ividdythou", 42, "2612362-AQUAR", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612360-WOWFA", "Wings of War: Famous Aces", "ividdythou", 42, "2612360-WOWFA", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612367-HIGHC", "Highland Clans", "ividdythou", 42, "2612367-HIGHC", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612372-TRIFO", "The Rivals for Catan", "ividdythou", 42, "2612372-TRIFO", n++, 0));
+//        }
     }
 
     private void generateItemList() throws Exception {
@@ -199,12 +201,28 @@ public class Geeklist {
         return new ArrayList<String>(itemsByCode.keySet());
     }
 
+    List<String> getAllItemIds() {
+        return new ArrayList<String>(itemsByItemId.keySet());
+    }
+
     List<String> getAllUsers() {
         return new ArrayList<String>(itemsByUser.keySet());
     }
 
     GeeklistItem getItem(String code) {
-        return itemsByCode.get(code.toUpperCase());
+        GeeklistItem item = itemsByCode.get(code.toUpperCase());
+        if (item == null) {
+            int dashPosition = code.indexOf('-');
+            if (dashPosition > 0) {
+                String itemId = code.substring(0, dashPosition);
+                item = getItemById(itemId);
+            }
+        }
+        return item;
+    }
+
+    GeeklistItem getItemById(String itemId) {
+        return itemsByItemId.get(itemId);
     }
 
     GeeklistItem getItemForVertex(Vertex v) {
