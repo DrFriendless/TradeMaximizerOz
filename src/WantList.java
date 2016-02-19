@@ -22,6 +22,8 @@ public class WantList {
     }
 
     private void inferSpendingLimits() {
+        //System.out.println("Infer spending limits");
+
         Map<String, Integer> highestOffer = new HashMap<String, Integer>();
         Map<String, Integer> numOffers = new HashMap<String, Integer>();
         for (Iterator<TradeRequest> iter = wants.iterator(); iter.hasNext(); ) {
@@ -29,13 +31,21 @@ public class WantList {
             if (request.getItemName().equalsIgnoreCase("LIMIT")) {
                 if (spendingLimits.containsKey(request.getUserName())) {
                     errors.add(request.getUserName() + " has more than one spending limit");
+
+                    System.out.println("ERROR: " + request.getUserName() + " has more than one spending limit");
+
                 }
                 if (request.willAccept().size() > 1) {
                     throw new RuntimeException(request.getUserName() + " has a nonsense spending limit");
                 }
+
+                //System.out.println("Sending limit " + request.getUserName() + ": " + request.willAccept().get(0));
+
                 spendingLimits.put(request.getUserName(), Money.parseMoney(request.willAccept().get(0)));
                 iter.remove();
             } else if (request.isMoney()) {
+                //System.out.println("Money offer " + request.getUserName());
+
                 int m = request.getAmount();
                 if (highestOffer.get(request.getUserName()) == null || m > highestOffer.get(request.getUserName())) {
                     highestOffer.put(request.getUserName(), m);
@@ -47,9 +57,16 @@ public class WantList {
             }
         }
         for (Map.Entry<String, Integer> entry : highestOffer.entrySet()) {
-            if (!spendingLimits.containsKey(entry.getKey()) && numOffers.get(entry.getKey()) > 1) {
+            //System.out.println("Highest offer " + entry.getKey() + ": " + entry.getValue() + " for " + numOffers.get(entry.getKey()));
+
+            if (!spendingLimits.containsKey(entry.getKey()) && numOffers.get(entry.getKey()) >= 1) {
                 spendingLimits.put(entry.getKey(), entry.getValue());
-                errors.add(entry.getKey() + " is using a default spending limit");
+                System.out.println("WARNING: " + entry.getKey() + " is using a default spending limit" + numOffers.get(entry.getKey()) + " cash offer(s)");
+
+                // Need to add default limit for one offer (otherwise it won't count), but only need error message if 2 or more offers
+                if (numOffers.get(entry.getKey()) > 1) {
+                    errors.add(entry.getKey() + " is using a default spending limit for " + numOffers.get(entry.getKey()) + " cash offer(s)");
+                }
             }
         }
     }
