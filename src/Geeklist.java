@@ -28,11 +28,13 @@ public class Geeklist {
     private Map<String, List<GeeklistItem>> itemsByUser = new HashMap<String, List<GeeklistItem>>();
     private List<String> otherUsers = new ArrayList<String>();
     private Set<String> errors;
+    private int letters;
 
     public Geeklist(String id, int digits, int letters, Set<String> errors) throws Exception {
         this.id = id;
         this.pattern = Pattern.compile(CODE_RE.replace("DIGITS", Integer.toString(digits)).replace("LETTERS", Integer.toString(letters)));
         this.errors = errors;
+        this.letters = letters;
         load();
     }
 
@@ -62,6 +64,44 @@ public class Geeklist {
         itemsByUser.put(userName, forUser);
     }
 
+    private String deriveShortCode(String name) {
+        Pattern p = Pattern.compile("[^0-9A-Z]+", Pattern.CASE_INSENSITIVE);
+        String[] words = p.split(name);
+        String[] subs = new String[] { "", "", "", "", "" };
+        int total = 0;
+        int position = 0;
+        int codeLength = this.letters;
+        while (total < codeLength) {
+            //Write-Verbose "Position $position"
+            Boolean addedCharacter = false;
+            for (int index = 0; index < words.length; index++) {
+                //Write-Verbose "Index $index"
+                if (words[index].length() > position) {
+                    subs[index] = words[index].substring(0, position + 1);
+                    total++;
+                    addedCharacter = true;
+                }
+                if (total >= 5) {
+                    break;
+                }
+            }
+            if (!addedCharacter) {
+                break;
+            }
+            position++;
+        }
+        StringBuilder builder = new StringBuilder();
+        for (String sub : subs) {
+            builder.append(sub);
+        }
+        while (builder.length() < 5) {
+            builder.append("X");
+        }
+        String code = builder.toString().toUpperCase();
+        //System.out.println("Name '" + name + "' => '" + code + "'");
+        return code;
+    }
+
     private void addItemsFromPage(Document doc) {
         NodeList itemNodes = doc.getElementsByTagName("item");
         for (int i=0; i<itemNodes.getLength(); i++) {
@@ -83,6 +123,10 @@ public class Geeklist {
                     commentCount--;
                     break;
                 }
+            }
+            if (code == null) {
+                // If not found in comment, then auto-generate
+                code = itemId + "-" + deriveShortCode(gameName);
             }
             GeeklistItem item = new GeeklistItem(this, itemId, gameName, userName, Integer.parseInt(gameId), code, i, commentCount);
             addNewItem(item);
@@ -211,6 +255,9 @@ public class Geeklist {
 
     GeeklistItem getItem(String code) {
         GeeklistItem item = itemsByCode.get(code.toUpperCase());
+        // Replace with generated IDs
+        /*
+        // Default to finding items by ID (if not found by code)
         if (item == null) {
             int dashPosition = code.indexOf('-');
             if (dashPosition > 0) {
@@ -218,6 +265,7 @@ public class Geeklist {
                 item = getItemById(itemId);
             }
         }
+        */
         return item;
     }
 

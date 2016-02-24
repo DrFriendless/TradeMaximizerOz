@@ -219,7 +219,7 @@ public class WantList {
             if (submittedUsers.contains(item.getUserName())) {
                 errors.add(item.getUserName() + " did not submit a wants list for " + item.getTradeCode());
             } else {
-                errors.add("(" + item.getUserName() + ") " + item.getTradeCode() + " : " + item.getGameName());
+                errors.add("Nothing submitted for (" + item.getUserName() + ") " + item.getTradeCode() + " : " + item.getGameName());
             }
         }
     }

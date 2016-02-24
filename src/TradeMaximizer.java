@@ -618,7 +618,14 @@ public class TradeMaximizer {
                     // all edges out of a dummy node have the same cost
                     if (fromVertex.isDummy) cost = nonTradeCost;
 
-                    graph.addEdge(fromVertex,toVertex,cost, request);
+                    /*
+                    if (toVertex.isMoney) {
+                        // System.out.println("Setting cost for " + toName);
+                        cost = nonTradeCost;
+                    }
+                    */
+
+                    graph.addEdge(fromVertex, toVertex, cost, request);
 
                     rank += smallStep;
                 }
@@ -631,8 +638,13 @@ public class TradeMaximizer {
                     case SCALED_PRIORITIES:
                         int n = fromVertex.edges.size()-1;
                         for (Edge edge : fromVertex.edges) {
+                            /*
+                            if (edge.sender.isMoney) {
+                                continue;
+                            }
+                            */
                             if (edge.sender != fromVertex.twin)
-                                edge.cost = 1 + (edge.cost-1)*2520/n;
+                                edge.cost = 1 + (edge.cost - 1) * 2520 / n;
                         }
                         break;
                 }
