@@ -1,0 +1,22 @@
+#! SCALED-PRIORITIES ALLOW-DUMMIES REQUIRE-COLONS REQUIRE-USERNAMES LINEAR-PRIORITIES ITERATIONS=20
+#! GEEKLIST=204420 CODE-DIGITS=7 CODE-LETTERS=5
+#! YEAR=2016 MONTH=3
+
+# Made up example to show cycle with 6 links (4 games) is preferenced over 5 links (5 games)
+# Comment out the first line to break the first cycle, if you want to see the program match the second cycle
+
+(sgryphon) 4429537-ARKHO: $4
+(johnkfriday) 4428444-RUTHE: 4429537-ARKHO
+(cash1) $3: 4428444-RUTHE
+(cash1) LIMIT: $3
+(Anyx) 4444274-DDWOA: $3
+(boufalaxx) 4468189-PRAET: 4444274-DDWOA 4468103-JAREB
+(cash2) $4: 4468189-PRAET
+(cash2) LIMIT: $4
+
+(Jimmers) 4452892-DOMIN: 4468189-PRAET
+(camilart) 4444141-SORRY: 4452892-DOMIN
+(2ombie) 4441333-SEASO: 4444141-SORRY
+(abodi) 4468103-JAREB: 4441333-SEASO
+ 
+
