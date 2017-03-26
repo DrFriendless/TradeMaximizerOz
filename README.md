@@ -6,7 +6,7 @@ Australian version of TradeMaximizer, which integrates with boardgamegeek.com
 Instructions
 ------------
 
-See README-Original.txt for instructions for the original TradeMaximizer,
+See instructions.html for instructions for the original TradeMaximizer,
 however this version works slightly differently.
 
 * The application takes a parameter with the name of the wantlist input file,
