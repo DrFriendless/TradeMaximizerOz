@@ -2,12 +2,17 @@ import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
 import java.text.MessageFormat;
 import java.net.URL;
 import java.net.URLConnection;
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
+import java.util.zip.GZIPInputStream;
+import java.util.zip.Inflater;
+import java.util.zip.InflaterInputStream;
 
 /**
  * This class gives access to a geeklist on boardgamegeek to allow more data about the trade to be known to the
@@ -16,7 +21,7 @@ import java.util.regex.*;
  * @author John Farrell (friendless.farrell@gmail.com)
  */
 public class Geeklist {
-    private static final String URL = "http://boardgamegeek.com/xmlapi/geeklist/{0}?comments=1";
+    private static final String URL = "https://boardgamegeek.com/xmlapi/geeklist/{0}?comments=1";
     private static final String FILENAME = "geeklist_{0}_page{1}.xml";
     private static final String CODE_RE = "1?\\d{DIGITS}-[A-Z0-9#\\-]{LETTERS}";
 
@@ -212,21 +217,58 @@ public class Geeklist {
     }
 
     private File downloadFile() throws Exception {
+        InputStream inStr = null;
+        FileWriter fw = null;
         String filename = MessageFormat.format(FILENAME, id);
-        String urls = MessageFormat.format(URL, id);
-        System.err.println("Retrieving " + urls);
-        System.err.println("Saving to: " + filename);
-        URL url = new URL(urls);
-        URLConnection conn = url.openConnection();
-        BufferedInputStream is = new BufferedInputStream((InputStream) conn.getContent());
-        FileOutputStream fos = new FileOutputStream(filename);
-        byte[] buf = new byte[8192];
-        int r;
-        while ((r = is.read(buf)) > 0) {
-            fos.write(buf, 0, r);
+        String urlStr = MessageFormat.format(URL, id);
+        System.err.println("Retrieving: " + urlStr);
+        System.err.println("Saving to : " + filename);
+
+        try {
+            URL url = new URL(urlStr);
+            URLConnection connection = url.openConnection();
+            connection.setRequestProperty("Accept-Encoding", "gzip, deflate");
+
+            HttpURLConnection httpConn = (HttpURLConnection) connection;
+            HttpURLConnection.setFollowRedirects(true);
+
+            int responseCode = httpConn.getResponseCode();
+            String responseMessage = httpConn.getResponseMessage();
+            System.err.println("Response: " + responseCode + " " + responseMessage);
+
+            String encoding = httpConn.getContentEncoding();
+            System.err.println("Encoding: " + encoding);
+            if (encoding != null && encoding.equalsIgnoreCase("gzip")) {
+                inStr = new GZIPInputStream(httpConn.getInputStream());
+            } else if (encoding != null && encoding.equalsIgnoreCase("deflate")) {
+                inStr = new InflaterInputStream(httpConn.getInputStream(),
+                        new Inflater(true));
+            } else {
+                inStr = httpConn.getInputStream();
+            }
+
+            BufferedReader br = new BufferedReader(new InputStreamReader(inStr));
+
+            fw = new FileWriter(filename);
+            BufferedWriter bw = new BufferedWriter(fw);
+
+            String line;
+            while ((line = br.readLine()) != null) {
+                bw.write(line);
+                bw.newLine();
+            }
+
+            bw.flush();
+        } catch (MalformedURLException mue) {
+            mue.printStackTrace();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
         }
-        is.close();
-        fos.close();
+
+        inStr.close();
+        fw.close();
+
+        System.err.println("Done");
         return new File(filename);
     }
 
