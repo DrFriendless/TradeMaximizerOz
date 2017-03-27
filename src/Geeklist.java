@@ -71,7 +71,15 @@ public class Geeklist {
 
     private String deriveShortCode(String name) {
         Pattern p = Pattern.compile("[^0-9A-Z]+", Pattern.CASE_INSENSITIVE);
-        String[] words = p.split(name);
+        String[] splits = p.split(name);
+        List<String> list = new ArrayList<String>();
+        for(String s : splits) {
+            if(s != null && s.length() > 0) {
+                list.add(s);
+            }
+        }
+        String[] words = list.toArray(new String[list.size()]);
+        
         String[] subs = new String[] { "", "", "", "", "" };
         int total = 0;
         int position = 0;
