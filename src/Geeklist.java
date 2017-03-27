@@ -218,7 +218,7 @@ public class Geeklist {
 
     private File downloadFile() throws Exception {
         InputStream inStr = null;
-        FileWriter fw = null;
+        FileOutputStream fos = null;
         String filename = MessageFormat.format(FILENAME, id);
         String urlStr = MessageFormat.format(URL, id);
         System.err.println("Retrieving: " + urlStr);
@@ -247,18 +247,17 @@ public class Geeklist {
                 inStr = httpConn.getInputStream();
             }
 
-            BufferedReader br = new BufferedReader(new InputStreamReader(inStr));
+            BufferedInputStream bufInStr = new BufferedInputStream(inStr);
 
-            fw = new FileWriter(filename);
-            BufferedWriter bw = new BufferedWriter(fw);
+            fos = new FileOutputStream(filename);
 
-            String line;
-            while ((line = br.readLine()) != null) {
-                bw.write(line);
-                bw.newLine();
+            byte[] buf = new byte[8192];
+            int r;
+            while ((r = bufInStr.read(buf)) > 0) {
+                fos.write(buf, 0, r);
             }
 
-            bw.flush();
+            fos.flush();
         } catch (MalformedURLException mue) {
             mue.printStackTrace();
         } catch (IOException ioe) {
@@ -266,7 +265,7 @@ public class Geeklist {
         }
 
         inStr.close();
-        fw.close();
+        fos.close();
 
         System.err.println("Done");
         return new File(filename);
