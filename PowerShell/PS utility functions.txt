@@ -1,0 +1,77 @@
+# Some useful utility functions
+
+
+# 'dot-source' to load the functions
+# You may need to allow scripts to execute to do this
+. .\Initialize-TradeFunctions.ps1
+
+
+# Test how short codes work
+GetShortCode "5 Second Rule"
+GetShortCode "Cranium Cadoo"
+GetShortCode "Vinhos"
+GetShortCode "Keep"
+GetShortCode "Dungeons & Dragons: Castle Ravenloft Board Game"
+GetShortCode "War of the Ring (second edition)"
+GetShortCode "Koryo"
+GetShortCode "???? (Hitohira)"
+
+
+$listId = 204420 # Brisbane 2016
+$listId = 223015 # Brisbane 2017
+
+
+# Download the XML from BGG 
+# Sometimes you need to submit twice (to prepare a cache)
+$htmlResult = Invoke-WebRequest -Uri "https://boardgamegeek.com/xmlapi/geeklist/$($listId)?comments=1" -OutFile (Join-Path $ENV:Temp "List-$($listId).xml") -Verbose
+
+# Load the downloaded file
+$listXml = [xml](Get-Content (Join-Path $ENV:Temp "List-$($listId).xml") -Encoding UTF8)
+
+# Delisted check
+$listXml.geeklist.Item | ? { $_.body -match "sold|delist|de-list|pending" }
+
+# Delisted array -- used as input for other functions
+$delisted = $listXml.geeklist.Item | ? { $_.body -match "sold|delist|de-list|pending" } | % { $_.id }
+$delisted | measure
+
+# Delisted items -- with a null list, for adding to input file, so there is no 'missing' error reported
+$listXml.geeklist.Item | ? { ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "# Delisted: $($item.objectname)"; Write-Output "($($item.username)) $($item.id)-$(GetShortCode $item.objectname): " }; 
+
+# Alternative format for delisted items:
+$listXml.geeklist.Item | ? { ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "# $($item.id)-$(GetShortCode $item.objectname): $($item.objectname)" }; 
+
+
+
+# User Games
+$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | group username | measure "Count" -Sum -Average -Maximum -Minimum
+
+# Duplicate Count
+$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | group objectid | ? { $_.Count -gt 1 } | measure "Count" -Sum -Average -Maximum -Minimum
+
+# Game count by user
+$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | group username | sort Count -Desc | select Name, Count
+
+
+# Official Names
+Write-Output "!BEGIN-OFFICIAL-NAMES"; $listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "$($item.id)-$(GetShortCode $item.objectname): $($item.objectname)" }; Write-Output "!END-OFFICIAL-NAMES"
+
+
+# ID + Name, then short code on separate line (for debugging shortcodes)
+$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "$($item.id): $($item.objectname)"; Write-Output "$(GetShortCode $item.objectname)" }
+
+
+# Duplicates
+$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | sort objectname | group objectid | ? { $_.Count -gt 1 } | % { Write-Output "# $($_.Group[0].objectname)"; Write-Output "(username) %$(GetShortCode $_.Group[0].objectname)-$($_.Group[0].objectid): $([string]($_.Group | % { "$($_.id)-$(GetShortCode $_.objectname)" } ))" } 
+
+
+# User templates
+$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | group username | sort Name | % { Write-Output ""; Write-Output "# Items for ($($_.Name))"; $_.Group | sort id | % { $item = $_; Write-Output "# $($item.objectname)"; Write-Output "($($item.username)) $($item.id)-$(GetShortCode $item.objectname):" } }
+
+
+# This may fail due to cache issues; just retry
+
+CreateWantListTemplate "sgryphon" -ListId $listId -Delisted $delisted
+
+
+
