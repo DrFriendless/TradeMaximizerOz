@@ -6,16 +6,22 @@
 (Critical Mass) 5270845-THREA:
 # Delisted: Heroica: Fortaan
 (Critical Mass) 5270852-HERFO:
-# Delisted: Creationary
-(Critical Mass) 5270864-CREAT:
 # Delisted: Evolution
 (Mad Scientist) 5270898-EVOLU:
+# Delisted: Eldritch Horror
+(Mad Scientist) 5270958-ELDHO:
 # Delisted: Aladdin's Dragons
 (XB_XB) 5271137-ALSDR:
+# Delisted: Harbour
+(XB_XB) 5271164-HARBO:
+# Delisted: Lunarchitects
+(XB_XB) 5271170-LUNAR:
 # Delisted: Bottom of the 9th
 (throttle) 5272106-BOOT9:
 # Delisted: The Builders: Antiquity
 (throttle) 5272110-THBUA:
+# Delisted: Terror in Meeple City
+(throttle) 5272119-TEIMC:
 # Delisted: Omen: A Reign of War
 (throttle) 5272167-OAROW:
 # Delisted: Kodama: The Tree Spirits
@@ -48,6 +54,20 @@
 (itmo) 5274124-THPOC:
 # Delisted: Perdition's Mouth: Abyssal Rift
 (Lyannah) 5274140-PSMAR:
+# Delisted: Viticulture: Complete Collector's Edition
+(Morgifier) 5275716-VCCSE:
+# Delisted: The Castles of Burgundy
+(Morgifier) 5275719-THCOB:
+# Delisted: Orléans
+(Morgifier) 5275725-ORLAN:
+# Delisted: Evolution: Climate
+(hxbx) 5275726-EVOCL:
+# Delisted: Pathfinder Adventure Card Game: Skull & Shackles – Base Set
+(Morgifier) 5275732-PACGS:
+# Delisted: Last Will
+(hxbx) 5275750-LASWI:
+# Delisted: To Court the King
+(kieran) 5275856-TOCTK:
 # Delisted: Frank's Zoo
 (kieran) 5275860-FRSZO:
 # Delisted: The Rivals for Catan
@@ -60,18 +80,21 @@
 (saltybream) 5276322-CINTE:
 # Delisted: New York 1901
 (Mick_whyte) 5276360-NEYO1:
-# Delisted: Smash Up
-(nik592) 5279773-SMAUP:
-# Delisted: Smash Up: Monster Smash
-(nik592) 5279774-SMUMS:
-# Delisted: Smash Up: The Big Geeky Box
-(nik592) 5279776-SUTBG:
 # Delisted: Village: Customer Expansion
 (nik592) 5279787-VICUE:
+# Delisted: Bora Bora
+(meng) 5282177-BORBO:
+# Delisted: Sunrise City
+(Ykikamucow) 5283911-SUNCI:
+# Delisted: Evo (second edition)
+(Ykikamucow) 5283925-EVSEE:
+# Delisted: Power Grid
+(meng) 5287920-POWGR:
 # Delisted: Arctic Scavengers: Base Game+HQ+Recon
 (johnkfriday) 5297100-ASBGH:
 # Delisted: Rococo
 (JxxD) 5300165-ROCOC:
+
 
 # ------------------------------------------------------------
 # Want list for (sgryphon)

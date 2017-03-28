@@ -28,15 +28,12 @@ $htmlResult = Invoke-WebRequest -Uri "https://boardgamegeek.com/xmlapi/geeklist/
 # Load the downloaded file
 $listXml = [xml](Get-Content (Join-Path $ENV:Temp "List-$($listId).xml") -Encoding UTF8)
 
-# Delisted check
-$listXml.geeklist.Item | ? { $_.body -match "sold|delist|de-list|pending" }
-
 # Delisted array -- used as input for other functions
-$delisted = $listXml.geeklist.Item | ? { $_.body -match "sold|delist|de-list|pending" } | % { $_.id }
+$delisted = $listXml.geeklist.Item | ? { $_.body -match "sold[^/]|sold$|delist|de-list|sale pending|withdrawn|no longer available|pending trade|[^/]traded" } | % { $_.id }
 $delisted | measure
 
 # Delisted items -- with a null list, for adding to input file, so there is no 'missing' error reported
-$listXml.geeklist.Item | ? { ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "# Delisted: $($item.objectname)"; Write-Output "($($item.username)) $($item.id)-$(GetShortCode $item.objectname): " }; 
+$listXml.geeklist.Item | ? { ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "# Delisted: $($item.objectname)"; Write-Output "($($item.username)) $($item.id)-$(GetShortCode $item.objectname): "; }; 
 
 # Alternative format for delisted items:
 $listXml.geeklist.Item | ? { ($delisted -contains $_.id) } | sort id | % { $item = $_; Write-Output "# $($item.id)-$(GetShortCode $item.objectname): $($item.objectname)" }; 
