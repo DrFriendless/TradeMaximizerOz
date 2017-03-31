@@ -47,8 +47,8 @@ function CreateWantListTemplate($Username, $ListId, $Delisted) {
 	$listXml.geeklist.Item | ? { -not ($Delisted -contains $_.id) } | ? { $_.username -match $Username } | sort id | % { $item = $_; Write-Output "# $($item.objectname)"; Write-Output "($($item.username)) $($item.id)-$(GetShortCode $item.objectname):" }
 	Write-Output ""
 	Write-Output "# Cash trades, e.g."
-	Write-Output "#`$50:"
-	Write-Output "#LIMIT: `$100"	
+	Write-Output "# ($Username) `$50:"
+	Write-Output "# ($Username) LIMIT: `$100"	
 	Write-Output ""
 }
 

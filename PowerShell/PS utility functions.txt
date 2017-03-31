@@ -27,6 +27,7 @@ $htmlResult = Invoke-WebRequest -Uri "https://boardgamegeek.com/xmlapi/geeklist/
 
 # Load the downloaded file
 $listXml = [xml](Get-Content (Join-Path $ENV:Temp "List-$($listId).xml") -Encoding UTF8)
+$listXml.geeklist.Item | measure
 
 # Delisted array -- used as input for other functions
 $delisted = $listXml.geeklist.Item | ? { $_.body -match "sold[^/]|sold$|delist|de-list|sale pending|withdrawn|no longer available|pending trade|[^/]traded" } | % { $_.id }
@@ -59,7 +60,9 @@ $listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | sort id | % { 
 
 
 # Duplicates
-$listXml.geeklist.Item | ? { -not ($delisted -contains $_.id) } | sort objectname | group objectid | ? { $_.Count -gt 1 } | % { Write-Output "# $($_.Group[0].objectname)"; Write-Output "(username) %$(GetShortCode $_.Group[0].objectname)-$($_.Group[0].objectid): $([string]($_.Group | % { "$($_.id)-$(GetShortCode $_.objectname)" } ))" } 
+$items = $listXml.geeklist.Item
+for ($index = 0; $index -lt $items.Count; $index ++) { $items[$index] | Add-Member 'index'  ($index + 1) -Force; }
+$items | ? { -not ($delisted -contains $_.id) } | sort objectname | group objectid | ? { $_.Count -gt 1 } | % { Write-Output "# $($_.Group[0].objectname) - $([string]($_.Group | % { "#$($_.index)" } ))"; Write-Output "(username) %$(GetShortCode $_.Group[0].objectname)-$($_.Group[0].objectid): $([string]($_.Group | % { "$($_.id)-$(GetShortCode $_.objectname)" } ))" } 
 
 
 # User templates
