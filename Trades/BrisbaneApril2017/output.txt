@@ -1,0 +1,672 @@
+TradeMaximizer Version 1.3.Friendless.b
+Input: input-brisbane2017real.txt
+Output (text): result.txt
+Output (html): result.html
+Geek list number of users: 35
+Geek list number of codes: 618
+Geek list number of items: 618
+solution = 144 trades with 118 games [22, 95, 8, 3, 2, 2, 2, 4, 2, 4] 2089
+solution = 144 trades with 118 games [103, 6, 21, 2, 4, 3, 3, 2] 1988
+solution = 144 trades with 118 games [51, 87, 6] 1908
+solution = 144 trades with 118 games [112, 2, 2, 4, 9, 6, 2, 2, 5] 1970
+solution = 144 trades with 118 games [92, 2, 34, 4, 2, 3, 5, 2] 2015
+solution = 144 trades with 118 games [87, 25, 4, 5, 17, 2, 2, 2] 1976
+solution = 144 trades with 118 games [33, 35, 22, 37, 4, 2, 3, 2, 4, 2] 2142
+solution = 144 trades with 118 games [33, 22, 45, 18, 2, 2, 5, 2, 8, 5, 2] 2025
+solution = 144 trades with 118 games [71, 9, 43, 4, 4, 3, 2, 2, 2, 4] 2036
+solution = 144 trades with 118 games [83, 17, 20, 14, 2, 6, 2] 2070
+solution = 144 trades with 118 games [67, 4, 65, 6, 2] 1954
+solution = 144 trades with 118 games [91, 40, 4, 7, 2] 1930
+solution = 144 trades with 118 games [27, 59, 9, 6, 23, 14, 2, 4] 1994
+solution = 144 trades with 118 games [82, 2, 18, 8, 6, 26, 2] 1979
+solution = 144 trades with 118 games [24, 26, 53, 28, 4, 5, 2, 2] 2183
+solution = 144 trades with 118 games [4, 134, 4, 2] 2054
+solution = 144 trades with 118 games [74, 2, 6, 26, 3, 14, 2, 2, 2, 4, 7, 2] 2024
+solution = 144 trades with 118 games [71, 27, 28, 2, 5, 4, 3, 2, 2] 2153
+solution = 144 trades with 118 games [9, 106, 4, 4, 5, 2, 8, 2, 2, 2] 2049
+solution = 144 trades with 118 games [38, 39, 24, 5, 11, 4, 8, 2, 4, 2, 2, 2, 3] 2046
+
+Num trades  = 144 (118 games)
+Num groups  = 3
+Group sizes = 87 51 6
+Sum squares = 10206
+Processing cycle Cycle@6093dd95
+Processing vertex 5288432-TTAAS
+Processing vertex 5270848-REDNO
+Processing vertex 5275802-COUPX
+Processing vertex $15 bid 332
+Processing vertex 5271039-BIBLI
+Processing vertex 5270945-STARE
+Processing vertex $10 bid 365
+Processing vertex 5275844-MOREL
+Processing vertex $10 bid 334
+Processing vertex 5279759-MONEY
+Processing vertex 5272406-LOOTX
+Processing vertex $10 bid 295
+Processing vertex 5288319-COPET
+Processing vertex $10 bid 370
+Processing vertex 5275862-SAYAN
+Processing vertex $10 bid 354
+Processing vertex 5279783-UNECO
+Processing vertex 5302218-OUATT
+Processing vertex 5282169-BANGX
+Processing vertex 5288039-FECKB
+Processing vertex 5270850-FORIS
+Processing vertex 5305037-PANDE
+Processing vertex 5271038-QUSAR
+Processing vertex 5305040-ECLIP
+Processing vertex 5276407-NATIO
+Processing vertex 5288376-ORLAN
+Processing vertex 5282181-MRJAC
+Processing vertex 5276437-BOBGP
+Processing vertex 5272062-TIGEU
+Processing vertex 5271133-177RE
+Processing vertex $50 bid 303
+Processing vertex 5288371-MIANM
+Processing vertex 5272105-BLMOL
+Processing vertex 5271156-EBABD
+Processing vertex $50 bid 304
+Processing vertex 5276452-HARVC
+Processing vertex 5301816-KARUB
+Processing vertex 5302130-ADAST
+Processing vertex 5288392-CATAN
+Processing vertex 5270954-GOCBC
+Processing vertex 5288048-DOMIN
+Processing vertex 5305259-ISTAN
+Processing vertex 5282170-TWIST
+Processing vertex 5275742-HOMES
+Processing vertex 5305272-RALLY
+Processing vertex 5298640-SEASO
+Processing vertex 5283894-THCOB
+Processing vertex 5305039-DISDR
+Processing vertex 5270947-MOTTA
+Processing vertex 5300113-LEOXX
+Processing vertex $35 bid 371
+Processing cycle Cycle@5622fdf
+Processing vertex 5270896-LEFRW
+Processing vertex 5271067-IMPSE
+Processing vertex 5270925-BURBR
+Processing vertex 5282172-GULGU
+Processing vertex 5300180-FIOFG
+Processing vertex 5277177-FRBIB
+Processing vertex 5300166-ROCOC
+Processing vertex 5272146-MURAN
+Processing vertex 5300171-ALSAD
+Processing vertex 5275801-THEBE
+Processing vertex $30 bid 369
+Processing vertex 5275843-MACKO
+Processing vertex $30 bid 362
+Processing vertex 5275832-FRESC
+Processing vertex $30 bid 359
+Processing vertex 5283924-SUEFA
+Processing vertex 5271163-GRESC
+Processing vertex $20 bid 357
+Processing vertex 5275827-VINCI
+Processing vertex $20 bid 290
+Processing vertex 5279769-SALEM
+Processing vertex 5275803-GUILD
+Processing vertex $20 bid 364
+Processing vertex 5271138-ALIAE
+Processing vertex $20 bid 355
+Processing vertex 5277185-COLEX
+Processing vertex 5275721-ELYSI
+Processing vertex 5272131-SAJSE
+Processing vertex 5272432-HELIO
+Processing vertex $40 bid 307
+Processing vertex 5305294-CAYLU
+Processing vertex 5271135-504XX
+Processing vertex 5283930-TRAMW
+Processing vertex $50 bid 340
+Processing vertex 5288453-COSEN
+Processing vertex 5271061-RUSEE
+Processing vertex 5282185-PATHC
+Processing vertex 5270923-BROSE
+Processing vertex 5275700-POWGR
+Processing vertex 5270932-ELDHO
+Processing vertex 5300132-VILLA
+Processing vertex 5305310-THECA
+Processing vertex 5272080-MOTAW
+Processing vertex 5288345-AGOTT
+Processing vertex 5270856-FORDE
+Processing vertex 5274396-QUOFV
+Processing vertex 5302193-DIPLO
+Processing vertex 5305296-PATHC
+Processing vertex 5288484-ATWHH
+Processing vertex 5270943-LOSCI
+Processing vertex 5277178-DICCI
+Processing vertex 5276429-SANJU
+Processing vertex 5272253-HANSA
+Processing vertex 5305277-ANTIK
+Processing vertex 5270959-TCIDE
+Processing vertex 5270847-QUART
+Processing vertex 5272133-LOTRT
+Processing vertex $40 bid 308
+Processing vertex 5271095-LEAAD
+Processing vertex 5275758-THPOH
+Processing vertex 5279771-SCOVI
+Processing vertex 5300168-RBGTL
+Processing vertex 5272132-LUNAR
+Processing vertex 5288355-LASVE
+Processing vertex 5305269-AQUAR
+Processing vertex 5270941-LASWI
+Processing vertex 5305282-AFAOS
+Processing vertex $45 bid 361
+Processing vertex 5276392-BAHI2
+Processing vertex 5276323-SMAWO
+Processing vertex 5275820-CATAN
+Processing vertex $15 bid 331
+Processing vertex 5279755-MELEE
+Processing vertex 5276361-ONAMI
+Processing vertex 5300098-RHIHE
+Processing vertex 5283893-QUARA
+Processing vertex $25 bid 337
+Processing vertex 5270898-EVOLU
+Processing vertex 5305273-IMPER
+Processing vertex 5305035-LOSLE
+Processing vertex 5270910-EIMEL
+Processing vertex 5304123-DITDS
+Processing vertex 5283927-TATTO
+Processing vertex 5275765-WITWA
+Processing vertex 5283916-ZOOLO
+Processing vertex $20 bid 324
+Processing vertex 5294998-STERA
+Processing cycle Cycle@4883b407
+Processing vertex $5 bid 367
+Processing vertex 5272187-PGBPC
+Processing vertex $5 bid 368
+Processing vertex 5275807-MAMMU
+Processing vertex $5 bid 335
+Processing vertex 5279757-MODSO
+Processing no trade 5272140-NEWBE
+Processing no trade 5270967-CATHE
+Processing no trade 5272174-VAOTK
+Processing no trade 5288400-SAGOB
+Processing no trade 5305280-AGRIC
+Processing no trade 5283902-WOOTS
+Processing no trade 5272420-DMTNT
+Processing no trade 5288440-UNFAI
+Processing no trade 5275757-PATRO
+Processing no trade 5284050-FITHG
+Processing no trade 5288394-SHADO
+Processing no trade 5297101-BIBLI
+Processing no trade 5300176-THEOP
+Processing no trade 5272428-DEADR
+Processing no trade 5270921-BMTDB
+Processing no trade 5272141-LEWCL
+Processing no trade 5270936-GALTR
+Processing no trade 5288033-AGOTT
+Processing no trade 5288417-SPYFA
+Processing no trade 5272111-CODEU
+Processing no trade 5288305-ARKAD
+Processing no trade 5300174-STRKI
+Processing no trade 5270970-PRODR
+Processing no trade 5272071-EIMEL
+Processing no trade 5305284-VILLA
+Processing no trade 5270859-PAOTB
+Processing no trade 5305303-FRESC
+Processing no trade 5270881-LOWSO
+Processing no trade 5300179-FIOFG
+Processing no trade 5271187-SUBDI
+Processing no trade 5288343-FACFU
+Processing no trade 5272442-BORBO
+Processing no trade 5272137-MITNE
+Processing no trade 5288030-AGOTF
+Processing no trade 5305262-STAAR
+Processing no trade 5272079-VICER
+Processing no trade 5272104-TGHHC
+Processing no trade 5275849-TROFO
+Processing no trade 5272081-STEWO
+Processing no trade 5272122-TRANS
+Processing no trade 5300154-BROYD
+Processing no trade 5272423-VEGSH
+Processing no trade 5279784-ILVEC
+Processing no trade 5272277-FALAN
+Processing no trade 5272269-DAOFM
+Processing no trade 5277188-FLPFR
+Processing no trade 5272419-AUTOM
+Processing no trade 5300189-TRAMW
+Processing no trade 5300158-GRIFT
+Processing no trade 5288374-OUATT
+Processing no trade 5273667-ELDHO
+Processing no trade 5270938-IMPSE
+Processing no trade 5275816-MTGOP
+Processing no trade 5305045-SMAWO
+Processing no trade 5288341-EARRE
+Processing no trade 5275739-GOTIN
+Processing no trade 5305033-MAWAA
+Processing no trade 5288486-LIBER
+Processing no trade 5300101-RHIHE
+Processing no trade 5305316-LEOFA
+Processing no trade 5270861-QUORI
+Processing no trade 5272143-GUILD
+Processing no trade 5305309-COLEX
+Processing no trade 5300161-EAGOT
+Processing no trade 5271083-MINWO
+Processing no trade 5305300-SMAWO
+Processing no trade 5272139-NOTDA
+Processing no trade 5270942-LIMES
+Processing no trade 5300177-THEOP
+Processing no trade 5272065-THPOF
+Processing no trade 5270917-BANGX
+Processing no trade 5272051-KIONY
+Processing no trade 5270895-SMAWO
+Processing no trade 5276399-CABB3
+Processing no trade 5270919-BIBLI
+Processing no trade 5276391-CAGOR
+Processing no trade 5272144-JRVKX
+Processing no trade 5300170-RBGTL
+Processing no trade 5300151-CAULD
+Processing no trade 5300172-GUOFL
+Processing no trade 5270934-FIDEL
+Processing no trade 5305285-RUNEW
+Processing no trade 5270939-JAIPU
+Processing no trade 5273665-SUEFA
+Processing no trade 5300188-HFBTF
+Processing no trade 5272409-MITNE
+Processing no trade 5300186-MOROC
+Processing no trade 5270953-TIEPD
+Processing no trade 5272271-THEDU
+Processing no trade 5270843-LEOFA
+Processing no trade 5276412-SEOTM
+Processing no trade 5270960-FEALT
+Processing no trade 5305291-THFOD
+Processing no trade 5300181-FIOFG
+Processing no trade 5302171-SUSGO
+Processing no trade 5305275-EARRE
+Processing no trade 5270944-MELEE
+Processing no trade 5275798-ADVLA
+Processing no trade 5298189-FIRZE
+Processing no trade 5300178-FIOFG
+Processing no trade 5288446-SEOTM
+Processing no trade 5270935-FORSA
+Processing no trade 5300108-DTMWC
+Processing no trade 5270875-PISCO
+Processing no trade 5272075-SPECU
+Processing no trade 5279687-RAFTG
+Processing no trade 5305287-DUNLO
+Processing no trade 5275835-MANIL
+Processing no trade 5300157-NIAGA
+Processing no trade 5272425-DEALA
+Processing no trade 5288485-CODEN
+Processing no trade 5305336-NINJA
+Processing no trade 5295251-COLEX
+Processing no trade 5271194-VICER
+Processing no trade 5275794-GLEMO
+Processing no trade 5270882-MACKO
+Processing no trade 5288308-BLOTR
+Processing no trade 5288389-SADOL
+Processing no trade 5272076-LOOFX
+Processing no trade 5305314-SUSGO
+Processing no trade 5300185-RUMBO
+Processing no trade 5270926-CACAO
+Processing no trade 5277181-FAOTP
+Processing no trade 5305270-ZOOLO
+Processing no trade 5270950-CASPA
+Processing no trade 5270957-TIEPW
+Processing no trade 5271092-KITPA
+Processing no trade 5270930-DDCRB
+Processing no trade 5275723-ENTRO
+Processing no trade 5272426-SATOI
+Processing no trade 5272115-CAMUP
+Processing no trade 5270949-TIOFI
+Processing no trade 5300175-BRILL
+Processing no trade 5271178-PROSP
+Processing no trade 5276434-COHSO
+Processing no trade 5272263-AUTOM
+Processing no trade 5271075-MYHAF
+Processing no trade 5305317-BOOT9
+Processing no trade 5300104-MINWO
+Processing no trade 5272162-AGOFW
+Processing no trade 5270969-CADIK
+Processing no trade 5272412-THNEE
+Processing no trade 5275720-CRISI
+Processing no trade 5288431-SUWMS
+Processing no trade 5275896-FIOFG
+Processing no trade 5288434-TATOR
+Processing no trade 5302188-BATGA
+Processing no trade 5271151-BRALA
+Processing no trade 5272135-MEDIC
+Processing no trade 5270991-TREHU
+Processing no trade 5272322-STERA
+Processing no trade 5300173-GUOFL
+Processing no trade 5272153-STARE
+Processing no trade 5300121-LAISL
+Processing no trade 5272116-LIBER
+Processing no trade 5300102-RHIHE
+Processing no trade 5271184-SPYRI
+Processing no trade 5305312-RTTAT
+Processing orphan no trade 5270852-HERFO
+Processing orphan no trade 5270958-ELDHO
+Processing orphan no trade 5271137-ALSDR
+Processing orphan no trade 5271164-HARBO
+Processing orphan no trade 5271170-LUNAR
+Processing orphan no trade 5272106-BOOT9
+Processing orphan no trade 5272110-THBUA
+Processing orphan no trade 5272119-TEIMC
+Processing orphan no trade 5272167-OAROW
+Processing orphan no trade 5272169-KOTTS
+Processing orphan no trade 5272173-BURBR
+Processing orphan no trade 5272177-THFRN
+Processing orphan no trade 5272182-HYPER
+Processing orphan no trade 5272199-RCAOT
+Processing orphan no trade 5272202-SMAWO
+Processing orphan no trade 5272279-HITHP
+Processing orphan no trade 5272402-DREHO
+Processing orphan no trade 5272403-LEOFA
+Processing orphan no trade 5272433-KEYFL
+Processing orphan no trade 5272437-MIOFD
+Processing orphan no trade 5272438-THOOD
+Processing orphan no trade 5274116-MARRA
+Processing orphan no trade 5274124-THPOC
+Processing orphan no trade 5274140-PSMAR
+Processing orphan no trade 5275716-VCCSE
+Processing orphan no trade 5275719-THCOB
+Processing orphan no trade 5275725-ORLAN
+Processing orphan no trade 5275726-EVOCL
+Processing orphan no trade 5275732-PACGS
+Processing orphan no trade 5275750-LASWI
+Processing orphan no trade 5275856-TOCTK
+Processing orphan no trade 5275860-FRSZO
+Processing orphan no trade 5275861-THRFC
+Processing orphan no trade 5276316-BATLI
+Processing orphan no trade 5276319-PANDE
+Processing orphan no trade 5276322-CINTE
+Processing orphan no trade 5276360-NEYO1
+Processing orphan no trade 5279787-VICUE
+Processing orphan no trade 5282177-BORBO
+Processing orphan no trade 5283911-SUNCI
+Processing orphan no trade 5283925-EVSEE
+Processing orphan no trade 5287920-POWGR
+Processing orphan no trade 5297100-ASBGH
+Processing orphan no trade 5300165-ROCOC
+Processing orphan no trade 5270874-SANMA
+Processing orphan no trade 5270844-LIBER
+Processing orphan no trade 5270842-FIVTR
+Processing orphan no trade 5300152-MMTBG
+Processing orphan no trade 5300259-BRILL
+Processing orphan no trade 5300167-KARKO
+Processing orphan no trade 5300107-OSRSE
+Processing orphan no trade 5270928-THCOB
+Processing orphan no trade 5283919-DUNPE
+Processing orphan no trade 5283920-KROQU
+Processing orphan no trade 5305297-PATHC
+Processing orphan no trade 5275796-KEYFL
+Processing orphan no trade 5275797-THPRC
+Processing orphan no trade 5275804-SNOWD
+Processing orphan no trade 5275806-SUBUR
+Processing orphan no trade 5275810-SANMA
+Processing orphan no trade 5275824-PISCO
+Processing orphan no trade 5275828-COMKL
+Processing orphan no trade 5305135-VIESE
+Processing orphan no trade 5302194-DIPLO
+Processing orphan no trade 5302195-DIPLO
+Processing orphan no trade 5302196-DIPLO
+Processing orphan no trade 5302197-DIPLO
+Processing orphan no trade 5302198-DIPLO
+Processing orphan no trade 5302199-DIPLO
+Processing orphan no trade 5302200-DIPLO
+Processing orphan no trade 5302202-DIPLO
+Processing orphan no trade 5302205-DIPLO
+Processing orphan no trade 5302207-DIPLO
+Processing orphan no trade 5270868-SUBUR
+Processing orphan no trade 5270866-ARCHI
+Processing orphan no trade 5270864-CREAT
+Processing orphan no trade 5270851-DUNRA
+Processing orphan no trade 5270854-TRPUF
+Processing orphan no trade 5270878-LABYR
+Processing orphan no trade 5270855-CRACA
+Processing orphan no trade 5270876-SORSL
+Processing orphan no trade 5270888-5SERU
+Processing orphan no trade 5302177-DAIND
+Processing orphan no trade 5270885-MONOP
+Processing orphan no trade 5270845-THREA
+Processing orphan no trade 5279131-ANSOO
+Processing orphan no trade 5302076-THERE
+Processing orphan no trade 5302085-ARTIF
+Processing orphan no trade 5302098-BMTDB
+Processing orphan no trade 5302107-STORM
+Processing orphan no trade 5274687-CPTWS
+Processing orphan no trade 5274691-GUNST
+Processing orphan no trade 5288310-BLOBO
+Processing orphan no trade 5288315-LISDI
+Processing orphan no trade 5288328-CTH50
+Processing orphan no trade 5288344-FORST
+Processing orphan no trade 5288350-JUSTI
+Processing orphan no trade 5288366-LOWTV
+Processing orphan no trade 5288369-MACAR
+Processing orphan no trade 5288377-PANDE
+Processing orphan no trade 5288383-PACGR
+Processing orphan no trade 5288387-RAMII
+Processing orphan no trade 5288407-SPYAL
+Processing orphan no trade 5288433-THUND
+Processing orphan no trade 5288439-ATOET
+Processing orphan no trade 5288442-ZO4TE
+Processing orphan no trade 5288444-ARCAN
+Processing orphan no trade 5288457-MIGEM
+Processing orphan no trade 5288460-WABAM
+Processing orphan no trade 5288465-SPAHU
+Processing orphan no trade 5288472-SPACR
+Processing orphan no trade 5270946-MESOP
+Processing orphan no trade 5270948-TOWER
+Processing orphan no trade 5270951-PRAET
+Processing orphan no trade 5283889-OFAUS
+Processing orphan no trade 5283892-QUARR
+Processing orphan no trade 5283898-DUNDI
+Processing orphan no trade 5283906-SUMWA
+Processing orphan no trade 5283908-ONTHU
+Processing orphan no trade 5283915-DRSHA
+Processing orphan no trade 5283928-DIXIT
+Processing orphan no trade 5295334-TILDA
+Processing orphan no trade 5295321-SCRAB
+Processing orphan no trade 5295254-GASTF
+Processing orphan no trade 5295273-INOTW
+Processing orphan no trade 5295252-DAMRE
+Processing orphan no trade 5295253-DADAD
+Processing orphan no trade 5295276-LOTAF
+Processing orphan no trade 5295298-TO7SW
+Processing orphan no trade 5295286-MONMA
+Processing orphan no trade 5295292-THEOT
+Processing orphan no trade 5295329-SHACO
+Processing orphan no trade 5295308-PROEL
+Processing orphan no trade 5271056-AGOFS
+Processing orphan no trade 5271058-ATOET
+Processing orphan no trade 5271059-ATOES
+Processing orphan no trade 5271060-ATOET
+Processing orphan no trade 5271062-RSOAK
+Processing orphan no trade 5271063-RUTFW
+Processing orphan no trade 5274136-LLOAD
+Processing orphan no trade 5274403-LIDOP
+Processing orphan no trade 5274408-WOLFE
+Processing orphan no trade 5274417-POIBO
+Processing orphan no trade 5274144-TETWO
+Processing orphan no trade 5305263-CONAN
+Processing orphan no trade 5305264-DOTBG
+Processing orphan no trade 5305265-FODTE
+Processing orphan no trade 5275760-SENJI
+Processing orphan no trade 5275735-GLOMU
+Processing orphan no trade 5275712-ANDRO
+Processing orphan no trade 5275754-BULSH
+Processing orphan no trade 5275744-ICEFL
+Processing orphan no trade 5275714-AXALE
+Processing orphan no trade 5275715-AXALP
+Processing orphan no trade 5275711-AGOFD
+Processing orphan no trade 5275751-MEGAC
+Processing orphan no trade 5305288-ALCHE
+Processing orphan no trade 5305319-FIOFA
+Processing orphan no trade 5305271-HSGTV
+Processing orphan no trade 5270963-AGOFS
+Processing orphan no trade 5270961-ZPOCA
+Processing orphan no trade 5271119-TP2AE
+Processing orphan no trade 5284084-KOGWO
+Processing orphan no trade 5284087-PANZE
+Processing orphan no trade 5270968-RISKX
+Processing orphan no trade 5270962-AXAL1
+Processing orphan no trade 5270933-EMELL
+Processing orphan no trade 5270903-EVOFL
+Processing orphan no trade 5270964-RISGO
+Processing orphan no trade 5270965-RHWCS
+Processing orphan no trade 5270966-RIMGS
+Processing orphan no trade 5294971-GLARO
+Processing orphan no trade 5279724-APTOA
+Processing orphan no trade 5279754-MAHAR
+Processing orphan no trade 5279761-NEWYO
+Processing orphan no trade 5279763-ONNIR
+Processing orphan no trade 5279773-SMAUP
+Processing orphan no trade 5279774-SMUMS
+Processing orphan no trade 5279776-SUTBG
+Processing orphan no trade 5294953-BATLI
+Processing orphan no trade 5279729-CHANA
+Processing orphan no trade 5279747-LETES
+Processing orphan no trade 5279750-LOVLE
+Processing orphan no trade 5279767-PROVI
+Processing orphan no trade 5279725-BALKO
+Processing orphan no trade 5279728-BOTVI
+Processing orphan no trade 5279731-THECL
+Processing orphan no trade 5279734-CTHDI
+Processing orphan no trade 5279738-DEXIK
+Processing orphan no trade 5279740-DIAMO
+Processing orphan no trade 5279742-EDBHA
+Processing orphan no trade 5279744-FTKPC
+Processing orphan no trade 5279746-GRIMO
+Processing orphan no trade 5279748-LOB77
+Processing orphan no trade 5279766-PGOIE
+Processing orphan no trade 5279779-TTATB
+Processing orphan no trade 5279780-TRPDC
+Processing orphan no trade 5279781-TRPT9
+Processing orphan no trade 5276417-SASTD
+Processing orphan no trade 5276413-BTOTP
+Processing orphan no trade 5276443-COOTM
+Processing orphan no trade 5270911-SMWOU
+Processing orphan no trade 5270913-BEYOB
+Processing orphan no trade 5270940-LIGSP
+Processing orphan no trade 5270956-THRFC
+Processing orphan no trade 5298183-CASTE
+Processing orphan no trade 5271071-GRIMS
+Processing orphan no trade 5271078-DDADI
+Processing orphan no trade 5270988-FAHOH
+Processing orphan no trade 5270989-SELLS
+Processing orphan no trade 5305266-KINBU
+Processing orphan no trade 5279678-LOVLE
+Processing orphan no trade 5279681-LINKO
+Processing orphan no trade 5279682-WIZAR
+Processing orphan no trade 5279683-FRSZO
+Processing orphan no trade 5279684-CAFIN
+Processing orphan no trade 5279685-DOGXX
+Processing orphan no trade 5279689-ECLIP
+Processing orphan no trade 5271136-T7CPP
+Processing orphan no trade 5271150-BLACK
+Processing orphan no trade 5271152-COOFS
+Processing orphan no trade 5271155-CRAFT
+Processing orphan no trade 5271160-FORWA
+Processing orphan no trade 5271166-HASPE
+Processing orphan no trade 5271168-HIGFR
+Processing orphan no trade 5271169-TLOTR
+Processing orphan no trade 5271172-MAOFV
+Processing orphan no trade 5271174-MYVIL
+Processing orphan no trade 5271175-ODDER
+Processing orphan no trade 5271176-PRAET
+Processing orphan no trade 5271179-ROCKW
+Processing orphan no trade 5271182-RORTP
+Processing orphan no trade 5271183-SIMUR
+Processing orphan no trade 5271188-SUBUR
+Processing orphan no trade 5271189-THKIR
+Processing orphan no trade 5271191-TRCUT
+Processing orphan no trade 5271193-VERSA
+Processing orphan no trade 5271195-VCCSE
+Processing orphan no trade 5271198-WEHAG
+Processing orphan no trade 5305329-COMKL
+Processing orphan no trade 5305333-VIANE
+Processing orphan no trade 5287902-QATOH
+Processing orphan no trade 5282175-WATLI
+Processing orphan no trade 5299533-UBOEX
+Processing orphan no trade 5282183-MONTR
+Processing orphan no trade 5287883-ALTCG
+Processing orphan no trade 5299526-SPUKT
+Processing orphan no trade 5299532-MASKI
+Processing orphan no trade 5272055-RITOP
+Processing orphan no trade 5272056-DIAMO
+Processing orphan no trade 5272073-DEOFT
+Processing orphan no trade 5272082-CUBAX
+Processing orphan no trade 5272084-NILDE
+Processing orphan no trade 5272086-POKER
+Processing orphan no trade 5272102-ALBIB
+Processing orphan no trade 5272103-HOOFG
+Processing orphan no trade 5272107-SUSPA
+Processing orphan no trade 5272108-SAMAR
+Processing orphan no trade 5272109-TMPCR
+Processing orphan no trade 5272123-PREOT
+Processing orphan no trade 5272128-BASEE
+Processing orphan no trade 5272136-AGRIC
+Processing orphan no trade 5272159-CITAD
+Processing orphan no trade 5272166-HEMIE
+Processing orphan no trade 5272170-BCTTC
+Processing orphan no trade 5272171-BIOAF
+Processing orphan no trade 5272175-BATFL
+Processing orphan no trade 5272176-F5TWS
+Processing orphan no trade 5272181-EPCAG
+Processing orphan no trade 5272184-FLCRM
+Processing orphan no trade 5272185-FAAAE
+Processing orphan no trade 5272189-WOTRL
+Processing orphan no trade 5272190-DUNLO
+Processing orphan no trade 5272206-KEYFL
+Processing orphan no trade 5272209-ACQUI
+Processing orphan no trade 5272211-STEPA
+Processing orphan no trade 5288046-WISBR
+Processing orphan no trade 5288063-TRORT
+Processing orphan no trade 5272401-ANONB
+Processing orphan no trade 5272404-HINOS
+Processing orphan no trade 5272405-LALOD
+Processing orphan no trade 5272411-MONST
+Processing orphan no trade 5272413-ROCMA
+Processing orphan no trade 5272414-SEOFC
+Processing orphan no trade 5272415-SHICL
+Processing orphan no trade 5272416-SHWAA
+Processing orphan no trade 5272417-SMUGG
+Processing orphan no trade 5272418-TITWA
+Processing orphan no trade 5272421-UCHRO
+Processing orphan no trade 5272422-ROKIR
+Processing orphan no trade 5272429-DARMI
+Processing orphan no trade 5272431-BRABA
+Processing orphan no trade 5272436-LOVLE
+Processing orphan no trade 5272439-WINKX
+Processing orphan no trade 5284060-WAONT
+Processing orphan no trade 5284075-THGOZ
+Processing orphan no trade 5275830-MOMBA
+Processing orphan no trade 5275808-PANDE
+Processing orphan no trade 5275812-EXPED
+Processing orphan no trade 5275853-TUTHT
+Processing orphan no trade 5302179-SMAUP
+Processing orphan no trade 5302182-CUBAX
+Processing orphan no trade 5302257-ZORTB
+Processing orphan no trade 5302264-THTTR
+Processing orphan no trade 5302269-CITAD
+Processing orphan no trade 5302185-PUERI
+Processing orphan no trade 5302181-PIXXX
+Processing orphan no trade 5302191-LNOET
+Processing orphan no trade 5302211-BATLI
+Processing orphan no trade 5302215-CARNO
+Processing orphan no trade 5302255-FORMD
+Processing orphan no trade 5302260-DUMAS
+Processing orphan no trade 5300096-POTMA
+Processing orphan no trade 5300105-GUNRU
+Processing orphan no trade 5300106-PIEFA
+Processing orphan no trade 5300110-WHITE
+Processing orphan no trade 5300115-ESTHN
+Processing orphan no trade 5300125-SMUGG
+Processing orphan no trade 5300127-GRIMX
+Processing orphan no trade 5300129-ORORO
+Processing orphan no trade 5300130-ORORO
+Processing orphan no trade 5300133-VILLA
+Processing orphan no trade 5300135-CRICR
+Processing orphan no trade 5300153-FLTHS
+Processing orphan no trade 5300155-KERAL
+Processing orphan no trade 5300156-VIENN
+Processing orphan no trade 5300160-EAGOT
+Processing orphan no trade 5300162-EAGOT
+Processing orphan no trade 5300163-TIMJO
+Processing orphan no trade 5300164-TERRA
+Processing orphan no trade 5300182-GGXXX
+Processing orphan no trade 5300187-HFBTF
+14 errors written to errors.txt
+bestIndex = 2
+worstIndex = 14
