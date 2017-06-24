@@ -11,7 +11,12 @@ import java.util.Date;
 
 public class TradeMaximizer {
     public static void main(String[] args) throws Exception {
-        new TradeMaximizer().run(args[0]);
+        if (args.length > 0) {
+            new TradeMaximizer().run(args[0]);
+        } else {
+            System.out.println("USAGE: java.exe -jar tm.jar WANTS.TXT");
+            System.out.println("The Oz version of TM takes the input file name as a parameter (not from standard input).s");
+        }
     }
 
     final String version = "Version 1.3.Friendless.b";
@@ -153,11 +158,27 @@ public class TradeMaximizer {
         File inputFile = new File(filename);
         File htmlResultFile = new File(inputFile.getParentFile(), "result.html");
         File textResultFile = new File(inputFile.getParentFile(), "result.txt");
+
+        System.out.println("Input: " + inputFile.getName());
+        System.out.println("Output (text): " + textResultFile.getName());
+        System.out.println("Output (html): " + htmlResultFile.getName());
+
         PrintStream out = new PrintStream(new FileOutputStream(textResultFile));
         Set<String> errors = new HashSet<String>();
         // force the geeklist ID etc to be loaded
         List<TradeRequest> wantLists = readWantLists(filename, errors);
+
+        if (geeklistId == null || codeDigits == 0 || codeLetters == 0) {
+            System.out.println("ERROR: The Oz version requires the options GEEKLIST, CODE-DIGITS, and CODE-LETTERS.");
+            return;
+        }
+
         Geeklist geeklist = new Geeklist(geeklistId, codeDigits, codeLetters, errors);
+
+        System.out.println("Geek list number of users: " + geeklist.getAllUsers().size());
+        System.out.println("Geek list number of codes: " + geeklist.getAllCodes().size());
+        System.out.println("Geek list number of items: " + geeklist.getAllItemIds().size());
+
         saveToDatabase(year, month, geeklist, wantLists);
         Solution bestSolution = null;
         long bestScore = Integer.MAX_VALUE;
@@ -177,9 +198,9 @@ public class TradeMaximizer {
                 worstIndex = i;
             }
             System.out.println("solution = " + solution + " " + score);
-            File tempResultFile = new File(inputFile.getParentFile(), "result" + i + ".html");
-            displayMatchesHtml(solution, geeklist, tempResultFile);
-            bestSolution = solution;
+            //File tempResultFile = new File(inputFile.getParentFile(), "result" + i + ".html");
+            //displayMatchesHtml(solution, geeklist, tempResultFile);
+            //bestSolution = solution;
         }
         displayMatches(bestSolution, out);
         if (geeklist != null) {
@@ -597,7 +618,14 @@ public class TradeMaximizer {
                     // all edges out of a dummy node have the same cost
                     if (fromVertex.isDummy) cost = nonTradeCost;
 
-                    graph.addEdge(fromVertex,toVertex,cost, request);
+                    /*
+                    if (toVertex.isMoney) {
+                        // System.out.println("Setting cost for " + toName);
+                        cost = nonTradeCost;
+                    }
+                    */
+
+                    graph.addEdge(fromVertex, toVertex, cost, request);
 
                     rank += smallStep;
                 }
@@ -610,8 +638,13 @@ public class TradeMaximizer {
                     case SCALED_PRIORITIES:
                         int n = fromVertex.edges.size()-1;
                         for (Edge edge : fromVertex.edges) {
+                            /*
+                            if (edge.sender.isMoney) {
+                                continue;
+                            }
+                            */
                             if (edge.sender != fromVertex.twin)
-                                edge.cost = 1 + (edge.cost-1)*2520/n;
+                                edge.cost = 1 + (edge.cost - 1) * 2520 / n;
                         }
                         break;
                 }
@@ -636,7 +669,7 @@ public class TradeMaximizer {
         if (ss == null) ss = new ArrayList<String>();
         ss.add(s);
         sends.put(sender, ss);
-        s = item + " from " + sender;
+        s = item + " (from " + sender + ")";
         List<String> rr = receives.get(receiver);
         if (rr == null) rr = new ArrayList<String>();
         rr.add(s);
@@ -678,7 +711,11 @@ public class TradeMaximizer {
         Graph graph = solution.getGraph();
         WantList wants = solution.getWantList();
         for (Cycle cycle : cycles) {
+            System.out.println("Processing cycle " + cycle.toString());
+
             for (Vertex v : cycle.getVertices()) {
+                System.out.println("Processing vertex " + v.name);
+
                 assert v.match != v.twin;
                 String user1 = v.getTradeRequest().getUserName();
                 String user2 = v.match.getTradeRequest().getUserName();
@@ -701,12 +738,18 @@ public class TradeMaximizer {
         }
         for (Vertex v : graph.RECEIVERS) {
             if (v.match == v.twin && !v.isDummy && !v.isMoney) {
+                System.out.println("Processing no trade " + v.name);
                 GeeklistItem item = list.getItemForVertex(v);
-                addNoTrade(noTrades, item.getUserName(), item.getNameHtml(), wants.getWantedBy(item.getTradeCode()));
+                if (item == null) {
+                    System.out.println("v = " + v);
+                } else {
+                    addNoTrade(noTrades, item.getUserName(), item.getNameHtml(), wants.getWantedBy(item.getTradeCode()));
+                }
             }
         }
         for (Vertex v : graph.orphans) {
             if (!v.isDummy && !v.isMoney) {
+                System.out.println("Processing orphan no trade " + v.name);
                 GeeklistItem item = list.getItemForVertex(v);
                 if (item == null) {
                     System.out.println("v = " + v);

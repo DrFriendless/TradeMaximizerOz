@@ -2,12 +2,17 @@ import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
 import java.text.MessageFormat;
 import java.net.URL;
 import java.net.URLConnection;
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
+import java.util.zip.GZIPInputStream;
+import java.util.zip.Inflater;
+import java.util.zip.InflaterInputStream;
 
 /**
  * This class gives access to a geeklist on boardgamegeek to allow more data about the trade to be known to the
@@ -16,7 +21,7 @@ import java.util.regex.*;
  * @author John Farrell (friendless.farrell@gmail.com)
  */
 public class Geeklist {
-    private static final String URL = "http://boardgamegeek.com/xmlapi/geeklist/{0}?comments=1";
+    private static final String URL = "https://boardgamegeek.com/xmlapi/geeklist/{0}?comments=1";
     private static final String FILENAME = "geeklist_{0}_page{1}.xml";
     private static final String CODE_RE = "1?\\d{DIGITS}-[A-Z0-9#\\-]{LETTERS}";
 
@@ -24,14 +29,17 @@ public class Geeklist {
     private Pattern pattern;
     private List<GeeklistItem> items = new ArrayList<GeeklistItem>();
     private Map<String, GeeklistItem> itemsByCode = new HashMap<String, GeeklistItem>();
+    private Map<String, GeeklistItem> itemsByItemId = new HashMap<String, GeeklistItem>();
     private Map<String, List<GeeklistItem>> itemsByUser = new HashMap<String, List<GeeklistItem>>();
     private List<String> otherUsers = new ArrayList<String>();
     private Set<String> errors;
+    private int letters;
 
     public Geeklist(String id, int digits, int letters, Set<String> errors) throws Exception {
         this.id = id;
         this.pattern = Pattern.compile(CODE_RE.replace("DIGITS", Integer.toString(digits)).replace("LETTERS", Integer.toString(letters)));
         this.errors = errors;
+        this.letters = letters;
         load();
     }
 
@@ -53,11 +61,58 @@ public class Geeklist {
         } else {
             errors.add("No code for item " + item.getItemUrl());
         }
+        itemsByItemId.put(item.getItemId(), item);
         String userName = item.getUserName();
         List<GeeklistItem> forUser = itemsByUser.get(userName);
         if (forUser == null) forUser = new ArrayList<GeeklistItem>();
         forUser.add(item);
         itemsByUser.put(userName, forUser);
+    }
+
+    private String deriveShortCode(String name) {
+        Pattern p = Pattern.compile("[^0-9A-Z]+", Pattern.CASE_INSENSITIVE);
+        String[] splits = p.split(name);
+        List<String> list = new ArrayList<String>();
+        for(String s : splits) {
+            if(s != null && s.length() > 0) {
+                list.add(s);
+            }
+        }
+        String[] words = list.toArray(new String[list.size()]);
+        
+        String[] subs = new String[] { "", "", "", "", "" };
+        int total = 0;
+        int position = 0;
+        int codeLength = this.letters;
+        while (total < codeLength) {
+            //Write-Verbose "Position $position"
+            Boolean addedCharacter = false;
+            for (int index = 0; index < words.length; index++) {
+                //Write-Verbose "Index $index"
+                if (words[index].length() > position) {
+                    subs[index] = words[index].substring(0, position + 1);
+                    total++;
+                    addedCharacter = true;
+                }
+                if (total >= 5) {
+                    break;
+                }
+            }
+            if (!addedCharacter) {
+                break;
+            }
+            position++;
+        }
+        StringBuilder builder = new StringBuilder();
+        for (String sub : subs) {
+            builder.append(sub);
+        }
+        while (builder.length() < 5) {
+            builder.append("X");
+        }
+        String code = builder.toString().toUpperCase();
+        //System.out.println("Name '" + name + "' => '" + code + "'");
+        return code;
     }
 
     private void addItemsFromPage(Document doc) {
@@ -71,7 +126,7 @@ public class Geeklist {
             NodeList comments = e.getElementsByTagName("comment");
             int commentCount = comments.getLength();
             String code = null;
-            for (int j=0; j<comments.getLength(); j++) {
+            for (int j = 0; j < comments.getLength(); j++) {
                 Element c = (Element) comments.item(j);
                 c.normalize();
                 String text = ((Text) c.getFirstChild()).getData();
@@ -82,18 +137,22 @@ public class Geeklist {
                     break;
                 }
             }
+            if (code == null) {
+                // If not found in comment, then auto-generate
+                code = itemId + "-" + deriveShortCode(gameName);
+            }
             GeeklistItem item = new GeeklistItem(this, itemId, gameName, userName, Integer.parseInt(gameId), code, i, commentCount);
             addNewItem(item);
         }
-        if (id.equals("156213")) {
-            int n = itemNodes.getLength();
-            // hack to fix up a massive cock-up in May 2013 - someone deleted a user's items
-            addNewItem(new GeeklistItem(this, "2612354-DWTCG", "Doctor Who: The Card Game", "ividdythou", 42, "2612354-DWTCG", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612362-AQUAR", "Aqua Romana", "ividdythou", 42, "2612362-AQUAR", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612360-WOWFA", "Wings of War: Famous Aces", "ividdythou", 42, "2612360-WOWFA", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612367-HIGHC", "Highland Clans", "ividdythou", 42, "2612367-HIGHC", n++, 0));
-            addNewItem(new GeeklistItem(this, "2612372-TRIFO", "The Rivals for Catan", "ividdythou", 42, "2612372-TRIFO", n++, 0));
-        }
+//        if (id.equals("156213")) {
+//            int n = itemNodes.getLength();
+//            // hack to fix up a massive cock-up in May 2013 - someone deleted a user's items
+//            addNewItem(new GeeklistItem(this, "2612354-DWTCG", "Doctor Who: The Card Game", "ividdythou", 42, "2612354-DWTCG", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612362-AQUAR", "Aqua Romana", "ividdythou", 42, "2612362-AQUAR", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612360-WOWFA", "Wings of War: Famous Aces", "ividdythou", 42, "2612360-WOWFA", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612367-HIGHC", "Highland Clans", "ividdythou", 42, "2612367-HIGHC", n++, 0));
+//            addNewItem(new GeeklistItem(this, "2612372-TRIFO", "The Rivals for Catan", "ividdythou", 42, "2612372-TRIFO", n++, 0));
+//        }
     }
 
     private void generateItemList() throws Exception {
@@ -166,20 +225,57 @@ public class Geeklist {
     }
 
     private File downloadFile() throws Exception {
+        InputStream inStr = null;
+        FileOutputStream fos = null;
         String filename = MessageFormat.format(FILENAME, id);
-        String urls = MessageFormat.format(URL, id);
-        System.err.println("Retrieving " + urls);
-        URL url = new URL(urls);
-        URLConnection conn = url.openConnection();
-        BufferedInputStream is = new BufferedInputStream((InputStream) conn.getContent());
-        FileOutputStream fos = new FileOutputStream(filename);
-        byte[] buf = new byte[8192];
-        int r;
-        while ((r = is.read(buf)) > 0) {
-            fos.write(buf, 0, r);
+        String urlStr = MessageFormat.format(URL, id);
+        System.err.println("Retrieving: " + urlStr);
+        System.err.println("Saving to : " + filename);
+
+        try {
+            URL url = new URL(urlStr);
+            URLConnection connection = url.openConnection();
+            connection.setRequestProperty("Accept-Encoding", "gzip, deflate");
+
+            HttpURLConnection httpConn = (HttpURLConnection) connection;
+            HttpURLConnection.setFollowRedirects(true);
+
+            int responseCode = httpConn.getResponseCode();
+            String responseMessage = httpConn.getResponseMessage();
+            System.err.println("Response: " + responseCode + " " + responseMessage);
+
+            String encoding = httpConn.getContentEncoding();
+            System.err.println("Encoding: " + encoding);
+            if (encoding != null && encoding.equalsIgnoreCase("gzip")) {
+                inStr = new GZIPInputStream(httpConn.getInputStream());
+            } else if (encoding != null && encoding.equalsIgnoreCase("deflate")) {
+                inStr = new InflaterInputStream(httpConn.getInputStream(),
+                        new Inflater(true));
+            } else {
+                inStr = httpConn.getInputStream();
+            }
+
+            BufferedInputStream bufInStr = new BufferedInputStream(inStr);
+
+            fos = new FileOutputStream(filename);
+
+            byte[] buf = new byte[8192];
+            int r;
+            while ((r = bufInStr.read(buf)) > 0) {
+                fos.write(buf, 0, r);
+            }
+
+            fos.flush();
+        } catch (MalformedURLException mue) {
+            mue.printStackTrace();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
         }
-        is.close();
+
+        inStr.close();
         fos.close();
+
+        System.err.println("Done");
         return new File(filename);
     }
 
@@ -198,12 +294,32 @@ public class Geeklist {
         return new ArrayList<String>(itemsByCode.keySet());
     }
 
+    List<String> getAllItemIds() {
+        return new ArrayList<String>(itemsByItemId.keySet());
+    }
+
     List<String> getAllUsers() {
         return new ArrayList<String>(itemsByUser.keySet());
     }
 
     GeeklistItem getItem(String code) {
-        return itemsByCode.get(code.toUpperCase());
+        GeeklistItem item = itemsByCode.get(code.toUpperCase());
+        // Replace with generated IDs
+        /*
+        // Default to finding items by ID (if not found by code)
+        if (item == null) {
+            int dashPosition = code.indexOf('-');
+            if (dashPosition > 0) {
+                String itemId = code.substring(0, dashPosition);
+                item = getItemById(itemId);
+            }
+        }
+        */
+        return item;
+    }
+
+    GeeklistItem getItemById(String itemId) {
+        return itemsByItemId.get(itemId);
     }
 
     GeeklistItem getItemForVertex(Vertex v) {
